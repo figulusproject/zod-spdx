@@ -1,5 +1,5 @@
 import { existsSync, mkdirSync, readFileSync, rmSync, writeFileSync } from "node:fs";
-import { resolve } from "node:path";
+import { dirname, resolve } from "node:path";
 import {
   DirId,
   dirMap,
@@ -89,6 +89,7 @@ export function writeFile<Id extends FileId>(
     const str =
       typeof content === "string" ? content : JSON.stringify(content, null, 2);
 
+    mkdirSync(dirname(path), { recursive: true });
     writeFileSync(path, str);
   } catch (error) {
     throw new Error(`Failed to write file: ${error}`);
