@@ -1,0 +1,15 @@
+import { License } from "../../schema/index.js";
+
+export const openssl_standalone: License = {
+  "reference": "https://spdx.org/licenses/OpenSSL-standalone.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/OpenSSL-standalone.json",
+  "referenceNumber": 317,
+  "name": "OpenSSL License - standalone",
+  "licenseId": "OpenSSL-standalone",
+  "seeAlso": [
+    "https://library.netapp.com/ecm/ecm_download_file/ECMP1196395",
+    "https://hstechdocs.helpsystems.com/manuals/globalscape/archive/cuteftp6/open_ssl_license_agreement.htm"
+  ],
+  "isOsiApproved": false
+};

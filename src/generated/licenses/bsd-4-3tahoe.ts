@@ -1,0 +1,15 @@
+import { License } from "../../schema/index.js";
+
+export const bsd_4_3tahoe: License = {
+  "reference": "https://spdx.org/licenses/BSD-4.3TAHOE.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/BSD-4.3TAHOE.json",
+  "referenceNumber": 376,
+  "name": "BSD 4.3 TAHOE License",
+  "licenseId": "BSD-4.3TAHOE",
+  "seeAlso": [
+    "https://github.com/389ds/389-ds-base/blob/main/ldap/include/sysexits-compat.h#L15",
+    "https://git.savannah.gnu.org/cgit/indent.git/tree/doc/indent.texi?id=a74c6b4ee49397cf330b333da1042bffa60ed14f#n1788"
+  ],
+  "isOsiApproved": false
+};

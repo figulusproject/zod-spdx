@@ -1,0 +1,16 @@
+import { License } from "../../schema/index.js";
+
+export const ssh_short: License = {
+  "reference": "https://spdx.org/licenses/SSH-short.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/SSH-short.json",
+  "referenceNumber": 611,
+  "name": "SSH short notice",
+  "licenseId": "SSH-short",
+  "seeAlso": [
+    "https://github.com/openssh/openssh-portable/blob/1b11ea7c58cd5c59838b5fa574cd456d6047b2d4/pathnames.h",
+    "http://web.mit.edu/kolya/.f/root/athena.mit.edu/sipb.mit.edu/project/openssh/OldFiles/src/openssh-2.9.9p2/ssh-add.1",
+    "https://joinup.ec.europa.eu/svn/lesoll/trunk/italc/lib/src/dsa_key.cpp"
+  ],
+  "isOsiApproved": false
+};

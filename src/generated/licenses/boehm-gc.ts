@@ -1,0 +1,16 @@
+import { License } from "../../schema/index.js";
+
+export const boehm_gc: License = {
+  "reference": "https://spdx.org/licenses/Boehm-GC.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/Boehm-GC.json",
+  "referenceNumber": 402,
+  "name": "Boehm-Demers-Weiser GC License",
+  "licenseId": "Boehm-GC",
+  "seeAlso": [
+    "https://fedoraproject.org/wiki/Licensing:MIT#Another_Minimal_variant_(found_in_libatomic_ops)",
+    "https://github.com/uim/libgcroots/blob/master/COPYING",
+    "https://github.com/ivmai/libatomic_ops/blob/master/LICENSE"
+  ],
+  "isOsiApproved": false
+};

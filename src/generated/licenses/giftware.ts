@@ -1,0 +1,14 @@
+import { License } from "../../schema/index.js";
+
+export const giftware: License = {
+  "reference": "https://spdx.org/licenses/Giftware.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/Giftware.json",
+  "referenceNumber": 178,
+  "name": "Giftware License",
+  "licenseId": "Giftware",
+  "seeAlso": [
+    "http://liballeg.org/license.html#allegro-4-the-giftware-license"
+  ],
+  "isOsiApproved": false
+};

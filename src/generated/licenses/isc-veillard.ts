@@ -1,0 +1,16 @@
+import { License } from "../../schema/index.js";
+
+export const isc_veillard: License = {
+  "reference": "https://spdx.org/licenses/ISC-Veillard.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/ISC-Veillard.json",
+  "referenceNumber": 358,
+  "name": "ISC Veillard variant",
+  "licenseId": "ISC-Veillard",
+  "seeAlso": [
+    "https://raw.githubusercontent.com/GNOME/libxml2/4c2e7c651f6c2f0d1a74f350cbda95f7df3e7017/hash.c",
+    "https://github.com/GNOME/libxml2/blob/master/dict.c",
+    "https://sourceforge.net/p/ctrio/git/ci/master/tree/README"
+  ],
+  "isOsiApproved": false
+};

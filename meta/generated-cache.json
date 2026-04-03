@@ -1,0 +1,3637 @@
+[
+  {
+    "licenseId": "0BSD",
+    "currentHash": "612e42c6ea035be759ebb986670e45523d7bd6b7af8ffce9d2cbf353b086e9cf",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "3D-Slicer-1.0",
+    "currentHash": "6b342623a1d7f6659c5a8012d8579aa288dd63a2c3b8fb3faab8e548a7d14d21",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "AAL",
+    "currentHash": "13f1950dbf3537c04f71ae4cecfe1501c5fa35f4bbe86ae3b88934914091cd55",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Abstyles",
+    "currentHash": "a4f45d4b51b3235ef8279578d6fda70a794c21590c2392a928c9a11b72436ae1",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "AdaCore-doc",
+    "currentHash": "8ed1df91ed0ec3a1daf728df6c529ba74d9081312be2eb44c3811a5a885eb659",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Adobe-2006",
+    "currentHash": "8dc38884439b3229395dc7f7e1f7ba4178de50b80bf3ff470ef507633155c2c9",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Adobe-Display-PostScript",
+    "currentHash": "4033a2787c91cb316aa893f09135406f9e2b620389e99a2fa1a3871886b93cdd",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Adobe-Glyph",
+    "currentHash": "df96e5781e3c48a943195a836f3bcc55a64354a2b0d4447592d66a013f5aca70",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Adobe-Utopia",
+    "currentHash": "d00fa71aec9e25be291a88c6d36cb33a901480ce83ad03d4276a0bd36b49c122",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "ADSL",
+    "currentHash": "7c568b272f0cc1f02ab4dd103b51078966e69f3f29112e46d9d9e596751351eb",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Advanced-Cryptics-Dictionary",
+    "currentHash": "305503bffedbe5ac6ff24019116e577c1cd7510b078f2b6c9126318e6ad0de41",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "AFL-1.1",
+    "currentHash": "d764d82681857ae1b6b21043cb3d5d3f43edca02450b0b9a02a6a48011d2c8df",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "AFL-1.2",
+    "currentHash": "c78a9015442d47b97ac6777a9d2e84c38ca0b6fe5c7070b3672129547b7543cd",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "AFL-2.0",
+    "currentHash": "cc56e945fa887431cc5bb443cf5a6a4cdfba6046afd172ee3e4ccc1a07f732d1",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "AFL-2.1",
+    "currentHash": "0b8b43c472252f796056513402df310a28e3173eb915b838e589cb23dbe88544",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "AFL-3.0",
+    "currentHash": "464e23f48b23c9b4596d7c061fb9237a48e2ca1d2f15238f1b79e6c33efcdcc8",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Afmparse",
+    "currentHash": "ec23088372144cef963238172f6403de72dd84610bf4afb5331f758d05f05dcd",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "AGPL-1.0",
+    "currentHash": "e6daff8abb883b2a01a918d6e2e44d1b67dbf714785789bef8bf72ab8dcc583b",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "AGPL-1.0-only",
+    "currentHash": "08085a9f7b7d8614024e1bd50b9b8361b3f6caf5e86029831d951fcd26f358f9",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "AGPL-1.0-or-later",
+    "currentHash": "41b0f17325c939451e8c49e8df0dd91c25124289537917874c8fbb82fea4996e",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "AGPL-3.0",
+    "currentHash": "3d6d3ee0f10ae05f0d55602f5b7683a29eaf3eb447da7533719c59e6c6728d88",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "AGPL-3.0-only",
+    "currentHash": "5fcd0a15c202d7e368d215e6bbb9949af26b8fb61781b1ac68d5269667b199b4",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "AGPL-3.0-or-later",
+    "currentHash": "117759ec2eba4e68eb8ad4a72843a6fa7d475406273530c02fb30bbfa876057b",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Aladdin",
+    "currentHash": "43b1ead882bcb1626d3541a37b5dd2bf93be603ff8e633e5000d67b04e4d55ae",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "ALGLIB-Documentation",
+    "currentHash": "21cb67e121d12e3b2c7fe82ee0bfea924de742867432eeeb7f7749f9c0f6567a",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "AMD-newlib",
+    "currentHash": "5e03f7c35f0dc38d13260d1e8e09ce84fc3e23fac7a561c218be7c16b52dbb13",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "AMDPLPA",
+    "currentHash": "7f31291ad4bd501a328d7167f55c16322ea1149bc5ad5671166b5306350ee3ce",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "AML",
+    "currentHash": "2f38c9c9bac241d71d847cf9fece0444164eee70c115600cd5ef86ec49ec8a8a",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "AML-glslang",
+    "currentHash": "82d3fea5a294cb413258bddbee4f8013d49352c8453736516783f82ee9529a60",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "AMPAS",
+    "currentHash": "553d712055d52f1b8f6e8eaa59db65539c1c2ecf6bc2dd408da549e42d8f737b",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "ANTLR-PD",
+    "currentHash": "ad3e4abea99d3ebdf54d9423995c375fb4fe3d933c6b4d146caefdee0f2420c5",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "ANTLR-PD-fallback",
+    "currentHash": "206ff20be7e9d316320fa95e15dcb73dbbf0da2054aefbcb68d4725975d9f856",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "any-OSI",
+    "currentHash": "4716fa731c0fa59460ee869da8c3aa3e10a64e30aa8eadf6e3ab8f6fbfc2e637",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "any-OSI-perl-modules",
+    "currentHash": "9ef7007e623eec49cf4c6bbe7496cede62ef14a81e8dcbf5a2c2df40776a0d9a",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Apache-1.0",
+    "currentHash": "606ace88aece4c77d0c2e0fc2cd05172ef13052d9062a0fb6a3359e88a4854e1",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Apache-1.1",
+    "currentHash": "9d3039d16efaa9dd4ab55c00ea1a4c20ca861ac9b64a8c0d5bed0628ecd4f9c5",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Apache-2.0",
+    "currentHash": "bd2db8d70ffa22851fa5ed3cf70bd44b29231f99d55811990e5f28697d66783e",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "APAFML",
+    "currentHash": "5a4d2afb9956de5e8b1fef7dedf9b5be31f4a919864a7f2079abd44a4e96d6e5",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "APL-1.0",
+    "currentHash": "14267dc4b0e044b508712df32258b83fc7a2b9f979a7477bc935d079fcf9f297",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "App-s2p",
+    "currentHash": "8c7e22cc0dd190f1c02c3871531af02a3631348afe70f49bd3af01ee6a56b6e5",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "APSL-1.0",
+    "currentHash": "1ad509d87517ac602deef7ea84883e14351029eb700594da4550adfbce308952",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "APSL-1.1",
+    "currentHash": "fd8fd8f0a4ffdaca04b61b65242fa7d67d246a5e2ee7a9740d7ccb14aaa5b72b",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "APSL-1.2",
+    "currentHash": "1e4aca83c59af0f29508e3abc180f0e8f840fbca9d2a5dcc7d35d4070d2341ca",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "APSL-2.0",
+    "currentHash": "5fdc617991b0ac2c8b1ac2af5023ab811a268867dda045625d0a6f87b4c3f3ef",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Arphic-1999",
+    "currentHash": "d04e138ccf071e88a1e6dbefa8085a98852a6578b73eb64f7815f7e1a129bc56",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Artistic-1.0",
+    "currentHash": "6291a08e7f2bcd72daaa94d45255e023f1f34cd6fb423031291d8bea6b9ca525",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Artistic-1.0-cl8",
+    "currentHash": "24ef7ec95361e2067babce6f9285f2f2d3b68ec8503e050a06b867cba1595d33",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Artistic-1.0-Perl",
+    "currentHash": "7a88206648dead6d3cbabb3d2e19da9239d22334311141a203eeeb8218361d11",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Artistic-2.0",
+    "currentHash": "157f0bc3ad7553db7eb5d43ac7dba0f5aae123fdfda993f71b09d0e07c9cd99b",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Artistic-dist",
+    "currentHash": "bf84c40f8897284a1b7aada5bf8b2846570212c3056416f4153405387bb731f4",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Aspell-RU",
+    "currentHash": "78416c2292cf385891f9f7270294bb3cf913f196518412222c3672c0333e1c1b",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "ASWF-Digital-Assets-1.0",
+    "currentHash": "82909c36e21bed254f42de017fc1d44c253220189f4db7fd6967e03838792391",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "ASWF-Digital-Assets-1.1",
+    "currentHash": "993c4d9bef8e021b12730e59bb44911c7a584b2ac7c3fd7e0a92968e69a8dbb8",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Baekmuk",
+    "currentHash": "163ae9a2c87e3d73b34560c936b4452c269b271f49c467d447e884db80cf5689",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Bahyph",
+    "currentHash": "15199b7a6e55a5880164f1e02d03401d952c188c875292c016f6e6932ef2f94d",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Barr",
+    "currentHash": "825b8b49d3f80fa9e3ded2176dbd2f08d141b474b9dcea26ae8bc0347243e876",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "bcrypt-Solar-Designer",
+    "currentHash": "edb8fcf12b536e46aa82fb7da4024de8890dfb3b2aadbad3e8fdd98a97691e7e",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Beerware",
+    "currentHash": "ba054be4ad5a150a3dfdf2c1401d6a6a67db4e4190d63c9116a83f4373670d1f",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Bitstream-Charter",
+    "currentHash": "7da52d8f1479b152dfe91e6ead5965d39c6ddd7e7d70f3bf2440a9c37eab5c79",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Bitstream-Vera",
+    "currentHash": "968ab46d77943de15f3fd88dbfddec291eabfaf85a02f86d8bed688f0fc035f6",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "BitTorrent-1.0",
+    "currentHash": "e3e74b0b4aeb07cf9973c05820fc6eb3fc011785af7390e1479232614743623b",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "BitTorrent-1.1",
+    "currentHash": "66cbd6d89afc372401800b5393236e97244c43ed18d9924d76e6704b02df69bf",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "blessing",
+    "currentHash": "1be939dd736afbb1111bc920058158b9f607f49192c50e34bc1eba61f54f92fe",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "BlueOak-1.0.0",
+    "currentHash": "c94123528a109c68f372a2a6ca7483a5bedf1b4e597492a439b597314b3e40b9",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Boehm-GC",
+    "currentHash": "fa3bac43b0ffd19233ba9385022182db298d30c1918001a91c0a10dc98a9ca9b",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Boehm-GC-without-fee",
+    "currentHash": "5bbc463830d074a048bb1ff9b8c9784d490e23a5043519e26917fe31e39efa4b",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "BOLA-1.1",
+    "currentHash": "789362881424a690f6664247c680803f4f533a3ccf19fd1600e7e0204e6ad0e6",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Borceux",
+    "currentHash": "4a8565cf50135edd350ec73cf1a72062741117acb7b21ee74ddbcba890894121",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Brian-Gladman-2-Clause",
+    "currentHash": "db33aa2c5d7bd9d58dca2ac59c6a3cf47fe65c43bca833677c3b2567cd4e4477",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Brian-Gladman-3-Clause",
+    "currentHash": "26a00b103fd6e02470e6c30584f7071b01b8267b56996f204d12369cc7de500a",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "BSD-1-Clause",
+    "currentHash": "492aca0fc7b6530f7c36c21045bf1ad7cc1b35f053e0dbcba4af4fc8ad6ecaa0",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "BSD-2-Clause",
+    "currentHash": "580886a506c4fe3225e4453d33a9d64abd98bba3930ca5edb92985c3f940b514",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "BSD-2-Clause-Darwin",
+    "currentHash": "bea812bf0a483110e66b2bfac0b5ca6550daa17baa8cf3b1f20cd00884ac46d6",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "BSD-2-Clause-first-lines",
+    "currentHash": "d1e334cc55c5a049914e569a703407b8f597544aac383c1767541eb7662a043a",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "BSD-2-Clause-FreeBSD",
+    "currentHash": "7a283c2dfa61733a3c054d73c3a48ed071177991df233613cc9f8f1cf6a61fc6",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "BSD-2-Clause-NetBSD",
+    "currentHash": "eef505b3d2f4f8a3fc229ed9ba98cb27e8b40c42f2b11b88e118236bbb957196",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "BSD-2-Clause-Patent",
+    "currentHash": "7180916c79fffe389e891e5d2cce04f9b2a0c1c6e3f76fdfb7bdbffeb9d761e2",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "BSD-2-Clause-pkgconf-disclaimer",
+    "currentHash": "46b776864203a4d71ec45bcc7cbfbbdff5acee5426973500690a142efdf310ab",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "BSD-2-Clause-Views",
+    "currentHash": "5fdaa123bedeaae0c357f349fb8da9e6be74fb7c04b9f2e3e786f0f67007b8e0",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "BSD-3-Clause",
+    "currentHash": "fe33b2ef21fa0c4a78fcf42b037bf7536ab8ec50200e68e0ea109e79dc6f6210",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "BSD-3-Clause-acpica",
+    "currentHash": "5c71e292d9df2d0c3c2847c4483e9b1654ecafd614414c3683d141738be6fa34",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "BSD-3-Clause-Attribution",
+    "currentHash": "eab20b9b8bfdc355f37ba272922b3cae9f075220aca5a3b226ce305642ac0784",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "BSD-3-Clause-Clear",
+    "currentHash": "303d91a4d722f4e2fb892b1093c8eb07ff02c3dcc76b2259e76f5f8cf749089f",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "BSD-3-Clause-flex",
+    "currentHash": "810b48aa443c2d4f6d3ba7b4e97729a7d6f9dbd95e80671f251313c72c4a8d0e",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "BSD-3-Clause-HP",
+    "currentHash": "fd0a3959bf6cf15450b93a025b10d7431b75b417fecd2919c1dce345a25a3366",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "BSD-3-Clause-LBNL",
+    "currentHash": "15e418dc16cd2106c480fbf508673a7a68f4c61779681b201ab9cc03167dd6d2",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "BSD-3-Clause-Modification",
+    "currentHash": "10bf970abaa8918c2732b29b2ccbae9daf23bfcd8aa3ebb331527ad982374a16",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "BSD-3-Clause-No-Military-License",
+    "currentHash": "36dcccc8de9709f83fdfa4e8417a07a4ffc1d0fdadd2a1aed18ea719c14d97d2",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "BSD-3-Clause-No-Nuclear-License",
+    "currentHash": "3b2db6967de7a7bb3f1d2aa6db8d4c9a82abbd5c6b9f3a75daa7c0d7cd0a9a54",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "BSD-3-Clause-No-Nuclear-License-2014",
+    "currentHash": "e5bdb1e6f4a82be3fb1a6efd7e6ed9f2f6b4065078ee092ea1af051da94aff1d",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "BSD-3-Clause-No-Nuclear-Warranty",
+    "currentHash": "0f86470e37dc786bc875e89dca17bbd0c47528e295ed5c2c01e23ecd68cb55c4",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "BSD-3-Clause-Open-MPI",
+    "currentHash": "09f32f60fcb706cbcf996ed30f1cbdf00ae42c586fa0c696fb1da5669c117c7a",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "BSD-3-Clause-Sun",
+    "currentHash": "9aabcee6e4273332b729b5413342e0beceb8edd2a2c556c99c0898d64d0b9226",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "BSD-3-Clause-Tso",
+    "currentHash": "2f0c579e7f4c826372ea248286a0190e4d7fbfd21f9e19bf808dd6b66ebfb1e4",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "BSD-4-Clause",
+    "currentHash": "effe61dd5cf2a9b49369e440ae55dfb1d3b949139dbcbb311de7b3bd555203b9",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "BSD-4-Clause-Shortened",
+    "currentHash": "25bbd788faa55518f1d7541ccfbfe0cb33ef599e506ef4d035a1353dc02848ad",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "BSD-4-Clause-UC",
+    "currentHash": "0df58b5df28f25c0e0f82b1578e8935baca34c5a376cd5da8336677dbd44cb8a",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "BSD-4.3RENO",
+    "currentHash": "717c032ad10e1a836a5c21cb1295a8f04783fad6e0e8e87669cbf6816d84f9cf",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "BSD-4.3TAHOE",
+    "currentHash": "34d25ced228b2859f38f6f8d4039b0a4af5c4647b745eb966cbf356b3722ad18",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "BSD-Advertising-Acknowledgement",
+    "currentHash": "eab3521687b3964590f59e717369526acd8941c8219b34399b9394c4522e3cf9",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "BSD-Attribution-HPND-disclaimer",
+    "currentHash": "2a0defc0e9a66022a893a7f44fde1cb57183ebfaf1c16edd4274a58aac13bbcd",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "BSD-Inferno-Nettverk",
+    "currentHash": "29549a996e3366b4728f82e9bc16976dbbccd5253f42337c2480a072833240e8",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "BSD-Mark-Modifications",
+    "currentHash": "09558782e1ec3479dd5f81caba09a745c9492a396e9e1348d377314e8daa83e6",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "BSD-Protection",
+    "currentHash": "118131bb4d6e8caa30ec374c0a878526a0603ecf45fdb282d858b85e46a36af0",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "BSD-Source-beginning-file",
+    "currentHash": "9e8f5d30dff50b7fe3906306c6970deef9cfbdd854ddf849cf0f69daa4f28417",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "BSD-Source-Code",
+    "currentHash": "e7755eca3603a26be161c8c0f67a5fa785a59df5b26e05904be3315670e88f71",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "BSD-Systemics",
+    "currentHash": "a74d2d1bc6b3ea94cc8a115158764f336e6da235f8a31ab5a939cb07885beb93",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "BSD-Systemics-W3Works",
+    "currentHash": "b6bd4a81787efbc21dca09c7c5f398c64288a58c534ffc36b3919c485d3fd23a",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "BSL-1.0",
+    "currentHash": "58151ff7c0e8358b97dd6829420aa40f2ee5f848075fd29413889b368701c1d0",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Buddy",
+    "currentHash": "675b3dcfed74fc751797c08afaf8e40257b947530bbf5a5b64638c1bcdf4e524",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "BUSL-1.1",
+    "currentHash": "da778de03990862fce5657cd0a88376487cdeb90217f26aad8b30b7dfe2085ad",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "bzip2-1.0.5",
+    "currentHash": "41a4e900271c8d109fa6c30d7bbe755364720e46f8d4b024a37e543171a565f8",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "bzip2-1.0.6",
+    "currentHash": "f317a6b5f576b557953ec401b478461fc7fe31be29b7011e2f83a327def08e7c",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "C-UDA-1.0",
+    "currentHash": "dc995eb44064a996d3844c8d59cd51d136db25add8d8b0805895a7f53e1a45dd",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "CAL-1.0",
+    "currentHash": "a3a77a98290884581d3c86b17858f88e1fb42d23e5069a33b4cb7c7c902eaec5",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "CAL-1.0-Combined-Work-Exception",
+    "currentHash": "d65e9b13cc4cbff425a1e798578808a6289d28e5407cb23fc5c49427d578f155",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Caldera",
+    "currentHash": "6d34de50b9f474101169c478c1ad3c4d9f57530fbc55b759aa6d50c2fccde05a",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Caldera-no-preamble",
+    "currentHash": "bd011f652e17acd6a8699846b61a7646fc33a306cbf41cd746e1734803d08e6c",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "CAPEC-tou",
+    "currentHash": "54718384db1ca22853c3f5ef3f8cd836dbfe65fc75ea8a2ba7407fad90417e1e",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Catharon",
+    "currentHash": "68f97a4afccf256427f137a4251cb98e70fab508df63aebc69257304f3f4b2be",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "CATOSL-1.1",
+    "currentHash": "017bf2f2d39b93e37a5eb6de5cb7d3dbc8c283cab7df52a29b645e59a6222294",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "CC-BY-1.0",
+    "currentHash": "49bda044e75c9c3eb506c275344df90e94a5f27f68e1434067a7e0f31427b44d",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "CC-BY-2.0",
+    "currentHash": "cff03c94ba5e0ac2ba4e5880e5d70be16ca61c9784ae02b4652b4f5fdf2f9be9",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "CC-BY-2.5",
+    "currentHash": "e25e6022c5ff832c2793966430dfbc5fccc8425c74c2dc07bb9caddde22c90ad",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "CC-BY-2.5-AU",
+    "currentHash": "569071ba55b54452c05f994cb8feb7b070b828a0c8b5edfc2561f841ada24146",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "CC-BY-3.0",
+    "currentHash": "b8963e50fc3171c3c60f7a64049012d1f98b9da2f42b2e5359cf32e7099aaa49",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "CC-BY-3.0-AT",
+    "currentHash": "f39bee964df6cfcfaebfad7837467c57b9df9ac440e870215457dbd581ef84e6",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "CC-BY-3.0-AU",
+    "currentHash": "3e7d55b5137cbb0a765d2564926a587418d12770abb20601253697aa00153f14",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "CC-BY-3.0-DE",
+    "currentHash": "041d960919db3543dab13683657f616f6b2e97201e7ee54dd6b42e545eaf69b4",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "CC-BY-3.0-IGO",
+    "currentHash": "fc64dc01d97abe0aa84bf61a5a8bbb2f1131aad138625d39e989a0aaf03bed42",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "CC-BY-3.0-NL",
+    "currentHash": "125984fec7640afdcba41ebacd699b33056b3e89437392e76b89eef5ad089b2c",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "CC-BY-3.0-US",
+    "currentHash": "8cc6e57132c861b838ef5241d3e77c6cd5d60bcc4a01e8bd84076525c02f5928",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "CC-BY-4.0",
+    "currentHash": "94852f3b092cbca43d590daf67b489597eca180f6660ed2ac058ca808c6f4f22",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "CC-BY-NC-1.0",
+    "currentHash": "2169e958c6ec1d4ec3fa5938a99ecf6e0430c5551d5918f5d6efb157bcba1ca3",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "CC-BY-NC-2.0",
+    "currentHash": "816a041738f4e7cfa2b44f22db7a83d25f4e5e731e715daee6fc1e8dfd129079",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "CC-BY-NC-2.5",
+    "currentHash": "a154b8b18e9e552e40d86823ccc67e9531fc6d0573a9e0a39ab723fcdacec281",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "CC-BY-NC-3.0",
+    "currentHash": "6cd91286b6f1025ba402750c4f57582482b30f8cb05871ea19235b185f210013",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "CC-BY-NC-3.0-DE",
+    "currentHash": "9686872a190c28122f739a78950fe4071088c0d4eb87a14a24baadc830bdccc8",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "CC-BY-NC-4.0",
+    "currentHash": "ec95c60be4f924c2dca64f9f4af843ae9ed092a1e5aa24646e4ec1cf6ec9e4b2",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "CC-BY-NC-ND-1.0",
+    "currentHash": "49fcf61db2122edb2ab0b3d969d2853a0274eefa67d9b0956da770546bca1de9",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "CC-BY-NC-ND-2.0",
+    "currentHash": "84b96585f124e47d5bb63539bb2aa9f883a049155cd62ff8c6eb190963582382",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "CC-BY-NC-ND-2.5",
+    "currentHash": "ec25867f3a139f7a9423cb3f1f498b83d5c70d93c720f4ed275a6b46e2b8aed3",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "CC-BY-NC-ND-3.0",
+    "currentHash": "2a62b667035ef5293e5222e7e2305791e029367abcdf7918173cbfb4eec1b518",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "CC-BY-NC-ND-3.0-DE",
+    "currentHash": "573e0e89f9f256175c51b5b09688225c064a77904577dbbecdf08cee74ff2ccc",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "CC-BY-NC-ND-3.0-IGO",
+    "currentHash": "93b0a0c4905766d1ae04529159ba848e4a073e37b9ece8dc1ec06b15726ce718",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "CC-BY-NC-ND-4.0",
+    "currentHash": "f2059b9c71a876db1dc0bc2fc94cae39ee7805f2aa38992e8e82eb5b797f8aa1",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "CC-BY-NC-SA-1.0",
+    "currentHash": "527cb5f6cde3eb5d5102ce0519baed9b3a270c94e3de8dacabb4cc6a9f8cd932",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "CC-BY-NC-SA-2.0",
+    "currentHash": "09262bd6600cbc24f6d59fa1d97a329e0f61889c8eec57dad34d98c8164c3264",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "CC-BY-NC-SA-2.0-DE",
+    "currentHash": "de23c87c79ea54e2884b29301c16a823d1515df671f039cdfb1bc90d0e9c08ea",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "CC-BY-NC-SA-2.0-FR",
+    "currentHash": "55425d82d81afd58213821a97e4eb33e3a6a8ea91c8608b7809121223872fb2b",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "CC-BY-NC-SA-2.0-UK",
+    "currentHash": "d2a2df46dac8271b6c85d7859e541494419591e306291505914f0683706105cc",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "CC-BY-NC-SA-2.5",
+    "currentHash": "f1f316ef0468869b0c62e58739fe18cb53296385659d3dedd30817776bc74214",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "CC-BY-NC-SA-3.0",
+    "currentHash": "3d9b9ae156c408f93af0b25bf990049b35d11b3846c33d4d0ab72447e0ffcf9e",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "CC-BY-NC-SA-3.0-DE",
+    "currentHash": "bb0bdde2ca3b6254c84dc62bc5552c8f88e14ca824a62f9bc4df6a8a50d1bcae",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "CC-BY-NC-SA-3.0-IGO",
+    "currentHash": "029b2b20fe2ca7e04e1382c0ac991c4d3be33fa53317d9079e6fa453198cfb8c",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "CC-BY-NC-SA-4.0",
+    "currentHash": "ba4677bebf5ace5d209e4fcf27e52c58ef341af46b0ae24cfc8de433bb0754e4",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "CC-BY-ND-1.0",
+    "currentHash": "482ef715fceac489a71ed41cba7bd0d85bca11ac5f2e980d1774ece8550a7940",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "CC-BY-ND-2.0",
+    "currentHash": "32f9d7695ef02e9f797924dd60c0e01ca4537585303c3df2cf9877c6305cee40",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "CC-BY-ND-2.5",
+    "currentHash": "91b9e77911fd0bdc0ad13373a9ce6a1032649d04a2401658d6d4f5e7cdde1793",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "CC-BY-ND-3.0",
+    "currentHash": "11d1c850fb53462cad725541f37029c58f82e8ea05a942d32ec3347ba473f8af",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "CC-BY-ND-3.0-DE",
+    "currentHash": "d32885c5db994793110a09305470b7eb197b54e3ff837e2db229044ae0978f95",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "CC-BY-ND-4.0",
+    "currentHash": "2c6f974163d4458701cf569cf3c002cad6bc4b1364e7e253962bf30ba85f9ee4",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "CC-BY-SA-1.0",
+    "currentHash": "e05eec11bf61bace724021634cfd762c11547cb7ccda4635545636b59c8961ca",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "CC-BY-SA-2.0",
+    "currentHash": "fb2b2400b8f5b0dd53449a56d3e5ad60eb6fcb94bbc846c3f728d5f7615699a5",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "CC-BY-SA-2.0-UK",
+    "currentHash": "71091516329085f0bb4f30ef6181c26e755f92a133a6471c871d1558b6064a41",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "CC-BY-SA-2.1-JP",
+    "currentHash": "b5babf1ef39c457e18995632864f68e54edb26831821f4f4726024e72a327017",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "CC-BY-SA-2.5",
+    "currentHash": "d32106f4ece17d1a812950cc34ee680a2f011e75104500d6e26bef065ed70227",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "CC-BY-SA-3.0",
+    "currentHash": "f57f85e05539430ac48dd008ba37dacc2a050fe272f483d18986fe514741d1f0",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "CC-BY-SA-3.0-AT",
+    "currentHash": "f5241c0dd21db4996f5232c2cf57c11524d4d57148a90361e370416829992150",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "CC-BY-SA-3.0-DE",
+    "currentHash": "2b2223aa39383feb5a8a55973a745d6899cb4c6387e43b4ba8ed43eb66084007",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "CC-BY-SA-3.0-IGO",
+    "currentHash": "778a60a0b7c169c83a762ba0309e6ae66c08a2680f2fa95b036860408d4b53df",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "CC-BY-SA-4.0",
+    "currentHash": "5b0fe22fe302e58a0fd2e4911632eacc2a4b93ac4b99f2ad4f05687dade4202d",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "CC-PDDC",
+    "currentHash": "9ce6a041326e8a1e6d1b68aff121df11e15d578fefcc29c614f7ff565056bfbd",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "CC-PDM-1.0",
+    "currentHash": "6304187b0cb0cb27c9536a0c51d5bb0661cb246295de40e09aeceee33a14fb2f",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "CC-SA-1.0",
+    "currentHash": "278b832c3dd20b090a30404175af5729582e9118247f1f638983f4919ef09d30",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "CC0-1.0",
+    "currentHash": "4c13dcc0b3c1ffdfe43084d4f290e37edbca624dba8ed8e93c4efa3e6ed6c781",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "CDDL-1.0",
+    "currentHash": "89e32ae221c197503a3e51df9a1e54e49d9633d5318939711b127caf97749cee",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "CDDL-1.1",
+    "currentHash": "18123a825e74d8ec8f7427cabc0c50ac0c395968186b49ae06ba9cdd7fa95f63",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "CDL-1.0",
+    "currentHash": "423712663c0d2fd45c1b3c5884cec3bc9845e8d2c9dc97671134fdf5a77f9dc0",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "CDLA-Permissive-1.0",
+    "currentHash": "31ba0a432f8c0ad5a63dcb9959584792160395ae66638937932400718561d5f5",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "CDLA-Permissive-2.0",
+    "currentHash": "af3532989798e3ceeeb94739f439a96d7dfe92a63e3dce6b30ca6f2428d52842",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "CDLA-Sharing-1.0",
+    "currentHash": "3aec1611f98942f28f017c98792564719e17558cf76e4ba9f6b0addd89fbf121",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "CECILL-1.0",
+    "currentHash": "520772db1f61b532f7bc908a4875fed038bfa59dbc36c42c644b53cb37f63645",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "CECILL-1.1",
+    "currentHash": "807495cc4bb18851d7c565c9d8c34dd37a7e6de892f3afc128da597d41938466",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "CECILL-2.0",
+    "currentHash": "09f946aa53367c752c5a4edabe3cffa4f4a9cc44eac2a7941718a71ed6d8f073",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "CECILL-2.1",
+    "currentHash": "b96389de6d9d1af493f979cfd2caa074fc54c8954e067a384bce7e9266379410",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "CECILL-B",
+    "currentHash": "e50e170e742948224b2519e990637213ef695fae33b47c350f2c765067f82a4b",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "CECILL-C",
+    "currentHash": "87a5be3417cfc711f8d145814373aee24d00f667b12ea25efb8a0de72ed245cd",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "CERN-OHL-1.1",
+    "currentHash": "af1a0ca6429e05dbf673c9772d55a9f6439a4c95277971344903a748b20452ac",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "CERN-OHL-1.2",
+    "currentHash": "d69482c528173194dfb50b72fab6b4061185363b31083c741cc40de41b58aa92",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "CERN-OHL-P-2.0",
+    "currentHash": "10a45a7972bc327cedfcfde2c02517408845f08ffefdab3b55b66d104142314c",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "CERN-OHL-S-2.0",
+    "currentHash": "dbd67a5992492a2c9f32e165538eb630116b606fd85535bd0ecc0614d7724678",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "CERN-OHL-W-2.0",
+    "currentHash": "4c6888e5fea1a29175a62834e91336d80e3be0591b5ec8861ec1d67e8936ec1e",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "CFITSIO",
+    "currentHash": "886c151d0a4c3373462ae3b93f3e46540f5b8bfe59d510ee30fafa1675094b01",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "check-cvs",
+    "currentHash": "72d7e575c6144bc8d3c4c51888208e6e5ca26c426075778d89bf59f104ec7e40",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "checkmk",
+    "currentHash": "7b161f640de28931e835889df4653db7a95476a3c213bdcab92d0488c62e2b27",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "ClArtistic",
+    "currentHash": "3d4924941ca1bb4f6b0c8172b957ddd202ecd68efc885426ce862a3e8caab5c5",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Clips",
+    "currentHash": "2ee4bd2c7c18ceedf17b4d0c592c0f36ca399aa60ea992722873d48e6cfcb017",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "CMU-Mach",
+    "currentHash": "099a5fdf83801fffd38957087d491151b038e317864936fede6b45078f6ff34b",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "CMU-Mach-nodoc",
+    "currentHash": "d967c1761f17394ae23358a8ed03a47b1f866f5ba78f93cf2ee0bafd48a831b8",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "CNRI-Jython",
+    "currentHash": "a42200787823935b8359e9d727a4c0c1528500e6e858aad8f9f1b2016a5608da",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "CNRI-Python",
+    "currentHash": "dec7f05df07855ed30a306e81c8a94de437b6b86ddb078adae7c0a8834cc7cfc",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "CNRI-Python-GPL-Compatible",
+    "currentHash": "aaa670a3744985e876f253575083d83bf61bccf4ef1df7ee9060029c37b21c3e",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "COIL-1.0",
+    "currentHash": "232765df7b6a04324fc6b5d01f383f87d0985f7da6e9b6e3c10286bfa5ad9b6b",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Community-Spec-1.0",
+    "currentHash": "2513822ae0240c924a783e181df70863abec736a964084a269515c981b3a3e97",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Condor-1.1",
+    "currentHash": "5c4fd0d86e8e9e12ffc6aea609647ae5dc6669a4b6158bb69c01a4116c84d057",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "copyleft-next-0.3.0",
+    "currentHash": "932a8fbce38c255222b301070d122818ef6e7710bed7ca4ee8bd63cf102b3bf2",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "copyleft-next-0.3.1",
+    "currentHash": "08c6442d04cc03cbc0f79f880c6df1714415aef82a44facc27569572efa65739",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Cornell-Lossless-JPEG",
+    "currentHash": "6288455cc8c3a376583408a1e3a5cb265d1f364aa20ba7d0d253dcf96d10c644",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "CPAL-1.0",
+    "currentHash": "65c323f6e2f2e59cabaf8f9835e6b09fe5cf4180f74d2cb4519e5f5cd001c69a",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "CPL-1.0",
+    "currentHash": "b50ffb2b6167c076cae3a59f698bb2c11c4495ca05280a2933758f9a70fe87af",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "CPOL-1.02",
+    "currentHash": "a8978389deb8b8de7aa6850c7bb20702054ec6a24c4cb6e2cbb61cf26d4906d5",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Cronyx",
+    "currentHash": "0400126361868d162dc54dddf7cbd36f93f6db6b56f786ecd9e6a64175a50085",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Crossword",
+    "currentHash": "b91bc78ec95a96a61721fa5989f050f1f437ec4bf58aef5312f08ed21c8d5763",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "CryptoSwift",
+    "currentHash": "db06fe2b2c8f8d1ca46dfec70183b6b45ba8b46b0706a1fd249a4b3065a285be",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "CrystalStacker",
+    "currentHash": "c40f941dad4ecf93bda650cb1c8b143464d74de4e763b1d519776069e11e62dc",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "CUA-OPL-1.0",
+    "currentHash": "136273931b19031b6e2376e28c2a5174ac9b2444ed427aecbdb3b882c7182a80",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Cube",
+    "currentHash": "26780e012925a39821ea9f94b9c0404bae424343ea031fe0c1180c2c294c9154",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "curl",
+    "currentHash": "109572169b707372e099e4ae7f63a93a79360f06d65213c3078d25c63ba6631b",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "cve-tou",
+    "currentHash": "25d060af358347b25362f2a375dd93adf1fb0531e4201ab4f4ba88239116ae61",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "D-FSL-1.0",
+    "currentHash": "2fe37220c3642401345ecd0d0094f5c731a1568707853c9ba74c84e9c9ff99c8",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "DEC-3-Clause",
+    "currentHash": "41944d0dfb26d6e548eaa913f48891157867e6bd9f98a3821d737d1411b1cc60",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "diffmark",
+    "currentHash": "f3481dad0e7d943bb7bb27ad7399f7fedefe86cf734464024852e38b837cc7bf",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "DL-DE-BY-2.0",
+    "currentHash": "5e8df499060e2db2a16b56642d3f5ccb77651d8335c931210b2bcbd40910eb02",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "DL-DE-ZERO-2.0",
+    "currentHash": "1aaea84671aa66f45a0c2c77eac675de09df759c4db9efc21f5009f802118351",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "DOC",
+    "currentHash": "96dd40d7589d16c133fed95fdf631a8b41598604148a76a7748462171d8c4c63",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "DocBook-DTD",
+    "currentHash": "9fe1e65f4e40a211401aaf44570cd1fba642815b859045c01ed1674d7337298e",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "DocBook-Schema",
+    "currentHash": "a867ee19a8584c7f649b84975f2f049b58870c0a4ae4bdf6b5b0a2c0e185af0e",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "DocBook-Stylesheet",
+    "currentHash": "d004999762187992a41dc50ee3fc7b4ea203ea167a6964c3d947fff8ea8c595b",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "DocBook-XML",
+    "currentHash": "5d90191638c6eae82d28b110dbb5845b0d2e140fdde896f3c6e3e6f158f22ebc",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Dotseqn",
+    "currentHash": "3db81181ba775f1fddeadcc11085a544a73f0b012cce39314e03b6c72ffbff1c",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "DRL-1.0",
+    "currentHash": "30fa4403ec396bda1bbc4a8606e3817755f363ecf3510ed8e5bfa11f81ce6911",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "DRL-1.1",
+    "currentHash": "f67e485882b6c6070a892db0666dde5a453cfd64654257122ce6c47ac318ed77",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "DSDP",
+    "currentHash": "e56eb91566d3acab8402be2c98a99c150d4a84e34afd4119137cd620ef856563",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "dtoa",
+    "currentHash": "7cc6459de9792a8f80a11f83e6e5414492d1a70e288c2d6bf661e025de94147c",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "dvipdfm",
+    "currentHash": "073b1b5a5ad5910e5346ea7535cf2da01e2c08f1c83dca0926e6705e3c067249",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "ECL-1.0",
+    "currentHash": "80a8db03f85a1506c89df68962d54607b5f20d37b13072b4bac3c233ffd9d6c6",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "ECL-2.0",
+    "currentHash": "ccdb1b56fb552bc8cbd8d895bd303ecda95d415f4b5b62ca644de9a4e652aa7b",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "eCos-2.0",
+    "currentHash": "91ce8e0cc22c5c51d08eecf09f0613374b0b0e43465f0d4f3e72c7c2d926ccf4",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "EFL-1.0",
+    "currentHash": "9569594ef6525937aae35a8a6da3a314d61b5fab3eb73c494fc49ccfc28ce733",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "EFL-2.0",
+    "currentHash": "c03007ce65b006ca772734fab0c1bca95123a1ddc50733acffa2535b8d32e47c",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "eGenix",
+    "currentHash": "cd24b9f75c427907a3af108fd29e1b8e6db9b7bfc93f04a7d810ef61a44e0ba3",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Elastic-2.0",
+    "currentHash": "296aea8b1f8c44a48686c881a0b6440287b12f678119f9ca802a76a3650da93a",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Entessa",
+    "currentHash": "85b851b58eef0299d4a55a6784708b4776e09fac2d570b0766a9cc0d49a3c445",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "EPICS",
+    "currentHash": "abab7227d56d3ebe0c60c3f10abf58c373de82a93ce01addafd8847969cbf3b1",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "EPL-1.0",
+    "currentHash": "222e9f514d4dbbe4547b4e89aed2389af0bbbfb78b1738224a4a5d8b78dfa3bf",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "EPL-2.0",
+    "currentHash": "228509d5328b15927f0abe2f325ae1797f2d00a20bf215ea4a968f546d61b071",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "ErlPL-1.1",
+    "currentHash": "218b927e27b2bc95fc8490b8ea1dcd994018e7d82ab024a34c9acb201efd0486",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "ESA-PL-permissive-2.4",
+    "currentHash": "be9bd055eece577dca134a12c17c35f728a5d5433edadf8bbb415d2567c0cdd7",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "ESA-PL-strong-copyleft-2.4",
+    "currentHash": "4e54533b113c9e18912a770745ae900300a505a29cf5c01050c753441081b35b",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "ESA-PL-weak-copyleft-2.4",
+    "currentHash": "d96d4123258b368615e61b0d1ab1d1b18627d06412cb16c01042829870c2e313",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "etalab-2.0",
+    "currentHash": "732060c96542f7a74db137797f753c98be65c34ccdc03068823915dbad174f42",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "EUDatagrid",
+    "currentHash": "06c478564ad57ad30b4b671fb41285b79f38b354499e625dcdfbf5f233a9fbc2",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "EUPL-1.0",
+    "currentHash": "ee7a207a7054cb26683c9fd0560154cf4e8b0574d68eea556004d963981510ff",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "EUPL-1.1",
+    "currentHash": "912c585df4b6eeea7653c76c02fb77e607391530e7a9bb87a69e8ca7de0dd1ae",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "EUPL-1.2",
+    "currentHash": "c0d396b5f6066014ed80e229eafdefa2e0a87d26de1468971c70d872a0c074fa",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Eurosym",
+    "currentHash": "6d6fea3074ac0233f5665b9e115972399d41b14dff20c95d731b2183d8ab9c40",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Fair",
+    "currentHash": "d42cb162ebbe37c4095a5c2d0e0bf9c0656dd1356d9aec8f996f07499b2aa656",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "FBM",
+    "currentHash": "76ab272de5abdebf372496246d4b25d53f34c94bc8affd51e289833dfa7f993b",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "FDK-AAC",
+    "currentHash": "1154155067a4ca36cb1d091784b53ffa26cf725dbabf340d4d1d9281b5997015",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Ferguson-Twofish",
+    "currentHash": "fd19bace83223ae26a5eb3666712812a4258e4a6cc2665b1811cd36cbaa8597d",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Frameworx-1.0",
+    "currentHash": "92573efae507e6972742da507b97faebeccc0c7e7f3117d533cdf0a83c1b3b56",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "FreeBSD-DOC",
+    "currentHash": "50d15a2053ded63630e3f75d7bd8b38b0dafd954a20b4ce60787fdc86de3155b",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "FreeImage",
+    "currentHash": "63b2e7ffe4cb1c18c8306e9a59fe968852d17c809b54e39904039569abb49e1a",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "FSFAP",
+    "currentHash": "5bacc6d3a06128d48feab6357ba52a90c3d769f6a0367aedf9ed85ac93e322f1",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "FSFAP-no-warranty-disclaimer",
+    "currentHash": "b5d398898609d83712996ef765b150d722f9b91de91a1956f23a03b6bc08ff6f",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "FSFUL",
+    "currentHash": "470f89264daedf5be344b6f8a392d20580f701bb2ba3f0dbbbc1b89738e800cd",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "FSFULLR",
+    "currentHash": "ae633f52fba2ccaab9c2148018203d3c8a2b180a5a0e3bce948af42e7d8158ef",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "FSFULLRSD",
+    "currentHash": "6ccdf3d3c729892e5e527e454f5fcc282ad0a8fba4ef8ee8dc16d54d76364d60",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "FSFULLRWD",
+    "currentHash": "4390aa21ef0821a822496770c52c294635e009ac5bb62e39be0bd5b6f8e14b0f",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "FSL-1.1-ALv2",
+    "currentHash": "ab6048b0fbbdd180529c65c1441d228489ad7a0c9569e4ad83bd49d6939a5ebb",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "FSL-1.1-MIT",
+    "currentHash": "f4fd662eeafe8425e77362d697a933c1668f7e473639b282de15e047a61626a7",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "FTL",
+    "currentHash": "17bf63dced0885bcf6998dc6ef873a952a749f6bf4d1620484291946e849bac0",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Furuseth",
+    "currentHash": "035085cac0361d2c9b68a6532b69c1d768717081f407c09a7bf8beccd07cc626",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "fwlw",
+    "currentHash": "624954908dfe4d9f0158d3224ddea3f879dbe66a2d9efafde6f8f2f30785074a",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Game-Programming-Gems",
+    "currentHash": "4dbb79bb5c1fcf69fbdb1b5f15bfaa91cb6bd0706764589adef9b8f502eb7fe5",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "GCR-docs",
+    "currentHash": "6a09d8b7ce7b038c9d1b25399af4d5215899eee8e96aa171c12f3f9b46a5977b",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "GD",
+    "currentHash": "2400f1bd75d6134e8cd935db9524839e4af5bb9fe5cd6b90d16eeaaac9594664",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "generic-xts",
+    "currentHash": "4b69b4a22d0f6e47d5aaaa34fae76310b326000514719abe8cde35716e26c8d9",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "GFDL-1.1",
+    "currentHash": "790fb0aa7e361f83e0306fd9f2f5ca524939a1bf545dac8d424e6b9a95ecdb4a",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "GFDL-1.1-invariants-only",
+    "currentHash": "b490bbc3746a2ca2ef9d5a23766145ae1fe5d0a47d4752e8f3c19ef4c62df1d2",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "GFDL-1.1-invariants-or-later",
+    "currentHash": "a9a8aecbecf70ffc3192d7ae673daec2e74cc7f5fff3ea70f7ee5caf93dad5ce",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "GFDL-1.1-no-invariants-only",
+    "currentHash": "87f67877ffbe4740c8ebf9ddc8a7892041ee5cfe22d0fdf4c98b483aa88d9d3c",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "GFDL-1.1-no-invariants-or-later",
+    "currentHash": "b47264312a9ea5e3a40d29b8f23462b8b829c653841e53fc6438fd0800a137ca",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "GFDL-1.1-only",
+    "currentHash": "68bf8f35c8f3797dd647899ff84dc9d9ce1e4fbf94ad6d3511fae0574a2ba30a",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "GFDL-1.1-or-later",
+    "currentHash": "f1f328dea74404195f80b7e75547a710ae28defd12d3e9e14bdbcab3af4940d8",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "GFDL-1.2",
+    "currentHash": "581f2a9dca6bd90ce3f1e4912e6ae1e55c46a13c51e6479a3102cc5f45f1969d",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "GFDL-1.2-invariants-only",
+    "currentHash": "16bfa877006ef616383e0ec37e637aa9e7c3c8e20fdd0088f7e808fd927ec73c",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "GFDL-1.2-invariants-or-later",
+    "currentHash": "812231db7bf6191716a0757a956fa9f12d5e93cb4c4fa95420ff24f5c70e452b",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "GFDL-1.2-no-invariants-only",
+    "currentHash": "7ce9b5225ea2fe1dcdbc2b273f84d2eea30ec4ca09b5b6772ef26b56f2b953f4",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "GFDL-1.2-no-invariants-or-later",
+    "currentHash": "4f5ccfa0d4d388b261d73a2fcd81f26ae08f8b5cdf2e9af8632d2abab735b1bc",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "GFDL-1.2-only",
+    "currentHash": "d11366a8cc4b08aeefce7c8cd64164f1e43fafe3a8ae0d76e727fc315b2b2126",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "GFDL-1.2-or-later",
+    "currentHash": "43486cb4fd7fcee691475dc8980f79f01e58aaea39b161f67011712aa85f8362",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "GFDL-1.3",
+    "currentHash": "32b11064d8d132c0f8798b101010e2913752ab13f33caae3d963d5d5615bb6f4",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "GFDL-1.3-invariants-only",
+    "currentHash": "2e751cba7ad789b9bc25a6cfed8cf499d25003aed8e5221ba8e47975c3882648",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "GFDL-1.3-invariants-or-later",
+    "currentHash": "8d6fe78636444272d4d2bddef834c5a11e02355c2fd030ab3cc2a6626dc3d510",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "GFDL-1.3-no-invariants-only",
+    "currentHash": "c8f51b62af067c81bae6e78b1e51e7a6e83a9e52f564a780db7e1bef7277250c",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "GFDL-1.3-no-invariants-or-later",
+    "currentHash": "600f63fdf62812af76bbd59b408d5517e56bf8fce07523e401790482d9d91c32",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "GFDL-1.3-only",
+    "currentHash": "79f00819992a044fb951419f43df6e2e18b2e0a1ea4259de57accbdba925daa1",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "GFDL-1.3-or-later",
+    "currentHash": "d99fa254d08720d7620bd569265ec562d0fe84c94b696a21f9b974cd47b77b00",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Giftware",
+    "currentHash": "fa9ec68d71e7309aedb38ef4ceaa4c2e7b45cf8075049f097b9f9e95362aee51",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "GL2PS",
+    "currentHash": "2cfca8afc62aa99adf6e3a4ef3e00d573fdbb8cbd3c6d2b7541fd66cb4e9ffbe",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Glide",
+    "currentHash": "d0fcc1bec4da738f36c2b198f73236ff35eda5821a42b43e73cd7dabd0af44aa",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Glulxe",
+    "currentHash": "6571bbc3f4e4714b02e9977a16c2545921b3ea0da2f3572155717f040455c934",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "GLWTPL",
+    "currentHash": "5b3cf672c6a2c527def3c6f77d0ce9b0a4f91bf8e1f70b50697960de36d75076",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "gnuplot",
+    "currentHash": "e57881c441bc1813000c310c15ecaf43276d46cb84432ec4ebe4a1990f884f92",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "GPL-1.0",
+    "currentHash": "f9957f8a311feb2743fd3b877d44da97a230556770b4ace64bf3a06fe701518f",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "GPL-1.0+",
+    "currentHash": "3a37a4add67d94dc18b004cdd7e8f8e88f7d0be0ebb82db238ad9e3b66ed7194",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "GPL-1.0-only",
+    "currentHash": "2de7a0f20ffb000bd71057b268c5e0afe34d02edbda106a6303ae53adc4400d8",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "GPL-1.0-or-later",
+    "currentHash": "805608db1a6cf37129f870c9609ce5eef1f47b148a9afc17e6af7f1c74a05895",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "GPL-2.0",
+    "currentHash": "2a3cb702ffd68f70bb1d57d9a2d751cc32c2a10a7e6e03dc70d3058f88968138",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "GPL-2.0+",
+    "currentHash": "5483e0d71df23e45d55d17e9b0e79272a60ef7c70dc488e5f80965b58bb8aca2",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "GPL-2.0-only",
+    "currentHash": "6c73300481971d1b4d789b16217a8328e82174d038880d99ad9883dfacb00aa7",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "GPL-2.0-or-later",
+    "currentHash": "4110c843a8b73706c88f34f57af83a240a19c7cc5407c14e80fa56b7e87c0076",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "GPL-2.0-with-autoconf-exception",
+    "currentHash": "43b08a83793efd0b2caa02d0ccd63cbdb0190c0d0a4652fd7fd99333a54d5e49",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "GPL-2.0-with-bison-exception",
+    "currentHash": "9fbacd2bf4661af941e6d5a0e9ba3e177a1eb7288cc044bd5999fe7215bd6634",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "GPL-2.0-with-classpath-exception",
+    "currentHash": "7e146054d86587477aa009864a24d6e5e3d010beaf56f663348068f815d30012",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "GPL-2.0-with-font-exception",
+    "currentHash": "5e7e45b9ea7ae78b6c71409a047cf5221dc7e1d77f5e5b8bc10995dbb1209604",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "GPL-2.0-with-GCC-exception",
+    "currentHash": "67405fde21f04cc4a26a6145169f2e788fde758241ca21c714716ba7bf900875",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "GPL-3.0",
+    "currentHash": "67f7a9191baead82e07ff549a5a838ca88e5ffba1c5b5aa9cf9980ecca358047",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "GPL-3.0+",
+    "currentHash": "6f939606529b4d087c37496959de867b0350414d30589149af046edb3a43583c",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "GPL-3.0-only",
+    "currentHash": "c907e4cfc537ceb86a862b2b4227afaeb889a761f74dc3e73198ce33cc7973d1",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "GPL-3.0-or-later",
+    "currentHash": "fe45ea4dbab563388dc64b2f135dcb7c2d3f406af29e481afc16e36ca49099cb",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "GPL-3.0-with-autoconf-exception",
+    "currentHash": "eeb4728582ccee4cb4fb69764f8f83808737d9a703c40c982fb44ec7b9cf4d25",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "GPL-3.0-with-GCC-exception",
+    "currentHash": "ace5052ef9e83e8ef66feab696d5732bcc058c1e6b92357e7ca8ab8e604ca155",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Graphics-Gems",
+    "currentHash": "1de61be59ca627f0478eb8f378a694ca99b2bb537e6df32ef951c101b10ca403",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "gSOAP-1.3b",
+    "currentHash": "4237194abe9f6cdb3f31c375d3e07eb43579a6ba489cfba77e79c06f457a9db5",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "gtkbook",
+    "currentHash": "ccdeaa02b01ad4bc26fa7167139a098350bee6c1b695d87b38b417c76ac3d2b8",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Gutmann",
+    "currentHash": "8fd32a2d096dae48f287707da34691dd34ed4debacaf18ecce4e9e04be8020db",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "HaskellReport",
+    "currentHash": "bab18d732a2080650a1fa96c511fb6a3619cea27b8fa0860fe20375bc2803064",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "HDF5",
+    "currentHash": "76b2d1adc838eebb111c39e10c53f3581cf36fc0147977785eb2e457370e29c2",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "hdparm",
+    "currentHash": "b4f4ccbc7fc5d69ea5300d0756e6cba5cb15c8394fda873961b5525ad7400022",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "HIDAPI",
+    "currentHash": "d5aa096f125afb08db3a48c31f2a505707396829bfe2b51a1a8a0f5875b4feb4",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Hippocratic-2.1",
+    "currentHash": "73c502e7b9c4879b17759312620bbf12a5b2fee7f908cfd14b13248af2f488ea",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "HP-1986",
+    "currentHash": "f6e056c01816b85e3a102a9238121c09fecd72584f24649bb9b6a089c77b28df",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "HP-1989",
+    "currentHash": "bc7213a8ddad3798ef46f60a901e5916499358ccd3a4def27d84630b13c2339f",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "HPND",
+    "currentHash": "ba49a254158c1fb1fcf7759a58253870707273129a0c98bd3a7eb9f1355d2d5e",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "HPND-DEC",
+    "currentHash": "9d48841f8b4a2c3bfac153472f91a34f8b4cb86e79f746cfaa4edd0eb9b15995",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "HPND-doc",
+    "currentHash": "0039867c4277a60e9a9c66d61f17845dde256f507e67d679fd0a71acf2209f19",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "HPND-doc-sell",
+    "currentHash": "c0275849ea38493ea56898500ac87af07365c358d1d22a06b349476b7a708232",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "HPND-export-US",
+    "currentHash": "7ada0c453ad1288d7bea29ae7c83705e25d9cf9c459c03a51e6eff2e2326b388",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "HPND-export-US-acknowledgement",
+    "currentHash": "01ce36fc6ad221b7e2d88f98a0cbe9dcce5909a5b78d33c43531855e97df8ac8",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "HPND-export-US-modify",
+    "currentHash": "bdb498af1899e77fd9711d7fede9a0c7a99ba06839cef316f0a031a123cbb32b",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "HPND-export2-US",
+    "currentHash": "4453f5e125e5c0831e91f47437274f3ffa488755da7f2d5ac7c3b9fa0442884d",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "HPND-Fenneberg-Livingston",
+    "currentHash": "84546bb6bfee686af39b14f8b50fb36f5a67cb7a2af75c4c7250a7f70b24eca6",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "HPND-INRIA-IMAG",
+    "currentHash": "e85f7798870f8a15fd9afbbded026164aa523873518065ca431c82938778e7c1",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "HPND-Intel",
+    "currentHash": "d5aa2fa996bc7a3a75a6b4615bc0099f54210e228fd93920cb0b914969194751",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "HPND-Kevlin-Henney",
+    "currentHash": "72137e9b51d3a8eca2e30a8be7ef2204f0a874ae3a028454e1ffd4e3e6f3d63c",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "HPND-Markus-Kuhn",
+    "currentHash": "51c39a1e894fb6debaa0b0970959a710afd5dc1bf2f7a94a7936a39ba65714ee",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "HPND-merchantability-variant",
+    "currentHash": "ef1b9f352349edf2ed5268ae80eb366aaa629ef7ad7cf2ca0ba1240ab93a0a40",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "HPND-MIT-disclaimer",
+    "currentHash": "aa3cca5aec82f8c084acb532cfe89c15f245d65c6846c0deb96e4023cce34dc6",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "HPND-Netrek",
+    "currentHash": "bb2f899bfa4e870aa4364e6e9e3af07f921b3060b433872be343bef257fbaec1",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "HPND-Pbmplus",
+    "currentHash": "8d45ddc2e0376ffcde1b4196936832ab1252f24d42dfb87da10c9079d087cbf4",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "HPND-sell-MIT-disclaimer-xserver",
+    "currentHash": "daba84a737d542808bd6ca20f6cb7c26c715b00699fd3d55413910c3be192444",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "HPND-sell-regexpr",
+    "currentHash": "58d1e288f121e038258e53a9beddec3e3ff4a119e4faba19d2a7b60141356f94",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "HPND-sell-variant",
+    "currentHash": "a4cbfbd1abcb1ccf5320dc84ca833d99acfe4e8de37bc53eca42ad6efbc22b2e",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "HPND-sell-variant-critical-systems",
+    "currentHash": "d78691d240ee5ba724cad22fd4a169dd46040e9261ed27610555190c7e5f344e",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "HPND-sell-variant-MIT-disclaimer",
+    "currentHash": "74bd7ef9660b07da8bbad288dccd9b58ee971173a4a5b82425aaf7ea9551d62f",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "HPND-sell-variant-MIT-disclaimer-rev",
+    "currentHash": "f64f16eecdd0b0e0e1431b060046a8f9e2dd0403b69d0c202f7597ef9a26af59",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "HPND-SMC",
+    "currentHash": "b34bdbdfb6d29dc4bcb6ce02c4c82a64b267033bdd56e1b84454919e6281f297",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "HPND-UC",
+    "currentHash": "ca74ec27ef5fa2e19dceae124b92cabcd3edf980f044e6b2a88cff4c943d8eb1",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "HPND-UC-export-US",
+    "currentHash": "b4d83d19c2bdf0a1d05fa5e6442b619af8775647faff460862ec0d691183f933",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "HTMLTIDY",
+    "currentHash": "096733ac68660381d535ef3522d7ce76490358dcd443c42a6dee25940dfa57e7",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "hyphen-bulgarian",
+    "currentHash": "b987c416cc2b620a8c2e62d852f7519ab79f07db943ff2abf87709293b938fd4",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "IBM-pibs",
+    "currentHash": "481af316cb617a2d640c6b7f2b66d9a8d291083268c8f0aaae21c0cfec0affd4",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "ICU",
+    "currentHash": "0ccb909fff929a6e4cd7a6cd16e67bda96eac0f40b876e2bf97b1cd700b275b7",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "IEC-Code-Components-EULA",
+    "currentHash": "26288468bfe7d88ca0e7fa21ce1594e4468f6beff95145706133cf81ba0baee4",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "IJG",
+    "currentHash": "52b76b1f919f99dfe5979a97157c13dc3a753a52ab0e187fb728fb494eebf154",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "IJG-short",
+    "currentHash": "ef1ef6d6fa3bd019ff46c7644b2102a87aa3615cf01f719ff25fc4f99c24097b",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "ImageMagick",
+    "currentHash": "3bc772d78c5051e6f46b521360b487226427438c64175d00b7e79d4aebf56171",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "iMatix",
+    "currentHash": "2b5a3f85adbd670645e6f9b9a381698ae0ed4c5d042407a43a6da05a74962beb",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Imlib2",
+    "currentHash": "55d18500517b5e1dea567c707ce0243e7073f34d74202070ae176354966810ae",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Info-ZIP",
+    "currentHash": "b87b3efee9959b6e1428a02933b4958cda250306a8850293d3232010fb0f1166",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Inner-Net-2.0",
+    "currentHash": "75141c7a7bb499fcba67a4f7de77264e9d2169fcfe13d92fbd92882021f9a7e5",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "InnoSetup",
+    "currentHash": "6f26140035c0b31742d5e2e9fbe509f1e50ba44bbdd2b5f0d7e8b4b3b0f250fd",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Intel",
+    "currentHash": "0f8a2c8c429381e3783a75559d242ca5f1f8aa2350742506ecb56463e59b258f",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Intel-ACPI",
+    "currentHash": "6b21b7499695ad83efd7aa8d008cb2011a1775455198faa6642cfe090e4ae49e",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Interbase-1.0",
+    "currentHash": "8dc41b838346e0a6bc530c5fb15b38685b1720acc2f9824970c2093f107bd290",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "IPA",
+    "currentHash": "7ca74345d153c3d9814e912dc3115dea18cc1a6091bdf042ed907ba01ba706d6",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "IPL-1.0",
+    "currentHash": "e53aa15e4423161cbad3c2f27ca7e53be2f70f7b033e7d66ebe0121078b0d0f6",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "ISC",
+    "currentHash": "86fb93f4ed0afe498229f52c726ab51d919dfd490488ad3c22d1f1f4873643d6",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "ISC-Veillard",
+    "currentHash": "401ea26d108526f99a7e181a144f24628de65dcf9887f224ae6abef2b8e40694",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "ISO-permission",
+    "currentHash": "050cea1fd49ca6808b61e2722aa50864fbf5721d35d775a61e8a5ed5fec13054",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Jam",
+    "currentHash": "1c247767afb7f8418c2ffe207aacc11da1cda5f71c872fb7005e68e363a9a429",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "JasPer-2.0",
+    "currentHash": "0aae2f13c872b97c84de32377c6da1f895d48f0daa89f98bdc32e6d21f8c6afd",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "jove",
+    "currentHash": "0a4051f97512c3e70c261e3ac7e89c040bec7a9ceebc2f57375a7124687a45bb",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "JPL-image",
+    "currentHash": "58d3cf10cd68c493ce0b383329075fb33f1949ce58a7d5a6858db6e1c7181619",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "JPNIC",
+    "currentHash": "78a3cdd36fc69bed0531435a2c1716e16366229a491bb222f2190d1fa1a2dcf3",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "JSON",
+    "currentHash": "981c1b423dbd0e68eb0cfc096b0b728b2023d86ebc2fc068ce1025936774d6f1",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Kastrup",
+    "currentHash": "2d37d040fafdbbbecec32e04fe720ca8faf027eb6d48771412422099c47d2a4e",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Kazlib",
+    "currentHash": "601d2c9b44e57073d746b90d719a927942ea227a19091a3baf2702cfacc5ad2c",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Knuth-CTAN",
+    "currentHash": "cca6bbcc36daa081bf0070e02952e62fb85b5e3cc46f92fd57e0e37e95b10937",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "LAL-1.2",
+    "currentHash": "5d7abeb0289d31e0306a8d17d5021b0d68b3c7c744bfe28f3753e286458fe3fc",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "LAL-1.3",
+    "currentHash": "40a648d8b29228e7f445ef40ff9309daab2b925347a5b71f7803a62d68b13d30",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Latex2e",
+    "currentHash": "20ed87ef7ccb6322533b9fe26ba65da1c662c5a33f9099d49246319791684366",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Latex2e-translated-notice",
+    "currentHash": "3d2dab84e222b0083fc91b6312f264682de808eb6405e3f49775dde6add62218",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Leptonica",
+    "currentHash": "a58b04f65987a71ae5af2a6bb062696dfe5ceeeefcd97630921110369fee32d8",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "LGPL-2.0",
+    "currentHash": "41ce0573bccf5cf79ce25619f76d3b42259c902a9a87172ee899726eaa906279",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "LGPL-2.0+",
+    "currentHash": "37e28915b7658c32bcca277fb795b9a3639819fc672e2856b8bf43119a7c32c2",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "LGPL-2.0-only",
+    "currentHash": "ba0dd2a0c75aae60b599af5f233491022f04f38491586939b7289b4bf8c4342c",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "LGPL-2.0-or-later",
+    "currentHash": "49a01bc8bf48a6c44fa2e5e147d08047897e28b1dde7787356bac61f9314a796",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "LGPL-2.1",
+    "currentHash": "aa3c189b782e412b69dd72f663cee7e6ae789a88fd5fa2bdb633b0146dfcfb53",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "LGPL-2.1+",
+    "currentHash": "4d985a1cf1b38034b98d2edccc6f113ff445fa4fc2cfe92b97d5d5109825b30c",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "LGPL-2.1-only",
+    "currentHash": "42b41d0c250c93b1242f4dab83b0a9c5448d37f8c6f27cc49e06e8464322eeb6",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "LGPL-2.1-or-later",
+    "currentHash": "7750a9454d6ed7aabf9a0f0fd34bb784194dae6ed81acf976a73eea8e0a4e4f1",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "LGPL-3.0",
+    "currentHash": "1818533b3041d0355b33c63a7dae5988cddce7a459bf5b2ef63bf3f334d7fa58",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "LGPL-3.0+",
+    "currentHash": "1f8552ec37b62099c44ddb42dfad9cddd272e107bde0634b24a144cd2425dfd5",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "LGPL-3.0-only",
+    "currentHash": "b46763804197d6c88e0002c4340cb6c195caba8a40e047ff5701e7eca1954a70",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "LGPL-3.0-or-later",
+    "currentHash": "e24052eddb87520db1703ad506f6f7f18f26bd2463f344127964a1705c1c90ec",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "LGPLLR",
+    "currentHash": "6cfa429bf5246beaa15ce663394f9bdf8cb92e45c61d89ecbc7f45ca2aeb5e5b",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Libpng",
+    "currentHash": "d28d980952facae115c05bd93931fc4bb9c8817926f376bd69bd61b6910604e8",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "libpng-1.6.35",
+    "currentHash": "a647b236fcb07ca838c36cc466b165307a9798f26120cab7741e47ad0e7c08b4",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "libpng-2.0",
+    "currentHash": "e9f37824e6a0fd06d9608ce1697470e17083b76dfe5af6e1462a8586ac744506",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "libselinux-1.0",
+    "currentHash": "bcc7c880b4e078723f194e7f2ab6416030f2d9fea88368d755c4f97e46e15300",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "libtiff",
+    "currentHash": "9958de31b5693d587b52c1ff26a78c6190159c57c6897ff25c0e3b0460480fdf",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "libutil-David-Nugent",
+    "currentHash": "78cd61920310da99df27d1a73e154b834a4134a1643f326feb69f2fd76b8bb7e",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "LiLiQ-P-1.1",
+    "currentHash": "cebea5dc044b48cfee776809b1b5173021676c86beea026b8d21598b173fcfe4",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "LiLiQ-R-1.1",
+    "currentHash": "7485801d05a9f038514f8eaaf5b44f1b0fa472c9674c32b0aa75a0856009a450",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "LiLiQ-Rplus-1.1",
+    "currentHash": "a81e606d8b355c37f6f251e246c37499e62ceb53f0553d1632b26df7faa992ab",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Linux-man-pages-1-para",
+    "currentHash": "d804ee41097db46782e3735f4917221d5dfc0733b37c20e15e4f27168e946289",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Linux-man-pages-copyleft",
+    "currentHash": "79bbc190434a0078bca87303d35d7958e2feb71f0670e84e83a2ae120e6cb360",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Linux-man-pages-copyleft-2-para",
+    "currentHash": "45265acd3962ca5aa450173c9fce702f41d71c845d91e8e88af8725bc2d5bce1",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Linux-man-pages-copyleft-var",
+    "currentHash": "d8e82bc4293cf85ec88f4bc987ce1e2027167e6ac19041cebb3a5d0ca3888b1d",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Linux-OpenIB",
+    "currentHash": "800fa24c6539254e02f73791047d9828c7f0107031e4528c73b4faf066e3b471",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "LOOP",
+    "currentHash": "a003fca485ec7598ef118498e33371e4b603b1e6ce1241dc28c8faa6c4ae0f91",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "LPD-document",
+    "currentHash": "763ba67481f603ef9bf27c371cc826ba247727fffeac34bcab1a1d4d3ee7f81e",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "LPL-1.0",
+    "currentHash": "c35358d2c0b6fc9efc85debc06990ece3c5653459a9540a1c62ff2565450c2d7",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "LPL-1.02",
+    "currentHash": "5d24e0f9d45db25172b6c5788ca225aed73aac840a824c645b7c860c560fb7a2",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "LPPL-1.0",
+    "currentHash": "538315e4188f15aa0e435ce158f81615b08081b71cc661a7eacc97864bbedb15",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "LPPL-1.1",
+    "currentHash": "04fb3d1780cab445f213126f5656f475b5875e8fbe7922e7ad0016bfbee0fb25",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "LPPL-1.2",
+    "currentHash": "86da80c6c34c88c987a8b42e760329f1e8ad6a526ceb07858a24e8abee911d99",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "LPPL-1.3a",
+    "currentHash": "77fe75decb43cc2eebf3b03939c72f1b78dd7c418bde9950dd2764ea4de5a013",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "LPPL-1.3c",
+    "currentHash": "2c373b5550ecd4426b8662d2c828786ebe152bed9df4fdbdf41610e1f4231da0",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "lsof",
+    "currentHash": "09833c6a9bd53921ea1b7402f48a9c19793cdc352a75b38e0eeb334c1067036b",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Lucida-Bitmap-Fonts",
+    "currentHash": "cc3ddf1ba4dc47bfe80460987b50d52c1735eb62667189da19c491bdde44174c",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "LZMA-SDK-9.11-to-9.20",
+    "currentHash": "2869dab381022833592a0119b670b4876fd3fb4394c226985f197f7ff367a351",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "LZMA-SDK-9.22",
+    "currentHash": "24507d949ba18d6681faa4084c23f2e9412e24207df06056df3411177dfa8346",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Mackerras-3-Clause",
+    "currentHash": "cb83f78e1e2a9d11b9ffb458aa72a028d927eb5f9b7457ca2b58d4e8b13f7c64",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Mackerras-3-Clause-acknowledgment",
+    "currentHash": "870fdf4ff043a82baf807d5479ea3a6eef5cf57b5f564b25e07b1e979db3aa3e",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "magaz",
+    "currentHash": "1d5985ae7ea8cd6f990b15f43acdd4c70348b11afceefc60438a6bf807cadd73",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "mailprio",
+    "currentHash": "87e98a7147bd630431ac89ab26e2e21416180f5ad956c32c89849d5d5d7ab415",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "MakeIndex",
+    "currentHash": "c9b574fdd73ca0bb30246abe199ad02583c7bc1f6338ca43e73d07430ca85241",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "man2html",
+    "currentHash": "936c09cd9d58ac5968144c8fa20b0b838d4593d6825f5330be3ec4bd14a6e84d",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Martin-Birgmeier",
+    "currentHash": "682eaccc2a0e187d74129501e6b4903dfe47e958094ca803c073cc52c052651d",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "McPhee-slideshow",
+    "currentHash": "5e02d6328070b7ca5463c91e76c36bc5b4b1360b3c13f637490c88acdc1e0bd7",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "metamail",
+    "currentHash": "90aa71c4615156751af18b0d3a9aa4a0b77bda8f94139180f8568d7a3f9417f0",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Minpack",
+    "currentHash": "670f3d2f5d2e28d46e5cb71bbe74cb86318721e04346e890f829939189bd13db",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "MIPS",
+    "currentHash": "9463a01278c897d93e473aab02b8d42e38d7933cb19b19e62761532555bb3b71",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "MirOS",
+    "currentHash": "528f82af9637988f16f964d973be28f5807c929c721681d6569393627f08a7e8",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "MIT",
+    "currentHash": "21d8830d72116ce20adb7a7acb91ed7ef6d56d694b05fdc955feeec4e281f6b3",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "MIT-0",
+    "currentHash": "66e5948186d98a040586bc4a656382acf1dd21dc60d4cc337bb055e1e6860627",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "MIT-advertising",
+    "currentHash": "ad86fc1611d510523cf2542d9973f0bd67da8731bf182b03befd7e086234f3d4",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "MIT-Click",
+    "currentHash": "f328cbbf4c372dacc37a15320efc43e6b0db4880058d59998ce3864ac212d036",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "MIT-CMU",
+    "currentHash": "6d3cc7a2fb897d275cd3daa3b9676e2829af2d2b07d65514f9a0d74e921f4932",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "MIT-enna",
+    "currentHash": "3da598a49ba67e831692bdfc90e5ffdc4abcf13d8c3387f55950c41272b33240",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "MIT-feh",
+    "currentHash": "e4559b164dc189988098ca42c9b636059e7ac529b2a892b69a5108136c636b9b",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "MIT-Festival",
+    "currentHash": "2ec8a637155569656ccc109328c8ac29746edab9168d61672dca5b644302d2ae",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "MIT-Khronos-old",
+    "currentHash": "e253fb3710c3594a542a429f056c705961243d178b92191e35768850688ca80f",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "MIT-Modern-Variant",
+    "currentHash": "5a62b58aad5ba7f94aad55140b2bd9c204155b63b111bd37c43bf1bbc02c6dfa",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "MIT-open-group",
+    "currentHash": "759ef718e8d7a0d09e4a4ea34efdd5af3c9204ddd9f9c3868d1c9e141051e8af",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "MIT-STK",
+    "currentHash": "7fac7db920aa8edf0b4e23fbcc74bbfde7e580cddcdf449ee8675f5bcf678bce",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "MIT-testregex",
+    "currentHash": "4296487b9390b1f65f3931cc5a92daa8b21546496a56d6d35be2dc780c698d0c",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "MIT-Wu",
+    "currentHash": "209803db39082b4c0cf0e07e819c4d5d83d91f3e84b6c0593fc9981fbde215af",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "MITNFA",
+    "currentHash": "36023f142072227729faff2c770fa49c842e76e3af5620118fe810083eeeba84",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "MMIXware",
+    "currentHash": "e1a9a4e9b00d6ed862d2f48f0edb9d743df09a7c8381fcd5004f55bf66effdb5",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "MMPL-1.0.1",
+    "currentHash": "113c6a6b92cc4df493b5b2018f931db0885f0cb8e8f73622d19756701d04cc64",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Motosoto",
+    "currentHash": "df8edadc635b6462c49d6a290ed4b5404c9b578df1a82b8d882d1ba80c519eb4",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "MPEG-SSG",
+    "currentHash": "696f425955c4f99164d722236484bb3de3f8c0b6f3951801db524189a0abf43b",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "mpi-permissive",
+    "currentHash": "950f1f667602921277d25b846ddb8b89b56b88b25586158a9c50ceaf8b245c2a",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "mpich2",
+    "currentHash": "f8b132041298e804a15412784a241618698da2f3d42f99c9af9bf21fa20646a3",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "MPL-1.0",
+    "currentHash": "d3474d3ab98eaa8413526512dadb2064526d04b7f178ff345add089cdef2cc1f",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "MPL-1.1",
+    "currentHash": "18e1ce2a2ef78bcbca883fefcbc2550c09c242df6df00b9432fcc2b3fc812522",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "MPL-2.0",
+    "currentHash": "f956e0e4edc1489ca69f40328bfe4b260d078f2e2ce706c8c9f50986070e753d",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "MPL-2.0-no-copyleft-exception",
+    "currentHash": "20757225841404745bebdb526b2ed575692bf7d9a10fdf23a8790425394ac735",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "mplus",
+    "currentHash": "d58957a01ab2399fe7c4f7aa5c3c92f5ac55f2e3dd41d2a8af1a3e76d37c803c",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "MS-LPL",
+    "currentHash": "a2d6a82c10e74dd266406d9f69cc2cafaed836a87946013f8f91c1d0e432f281",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "MS-PL",
+    "currentHash": "eed89816d33ebfd8b889fb1a22018b262923f6c9c97f7237af78e60f3cff1a9b",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "MS-RL",
+    "currentHash": "890756982b43e7ca56a4736d345c8059d1d9ee568797bb44ec7c2eba1c1c59ef",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "MTLL",
+    "currentHash": "ffe3bb0a3e6eba40550e5edf4d2dac18f0223e15c969962efef02e8dfd1dbbad",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "MulanPSL-1.0",
+    "currentHash": "9cf4a7a00b37388cdf3e336dad8c5f3a5903e20e79a624fa528b5acd13c90195",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "MulanPSL-2.0",
+    "currentHash": "953b4f6ab827019acde9888e0bc9baed0e90210edf913310cbf6d61962172138",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Multics",
+    "currentHash": "85271d71eb61725fed971a1f7dc9e6a5a680de24c0541720a4024b56bd046024",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Mup",
+    "currentHash": "5e57c2b1b58306ac2c266ba06e0a9868af6275d50e2ee08fd88ca050314897b8",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "NAIST-2003",
+    "currentHash": "f9104044c96c6fe344b4301972da151176588a550faeb7a4c10d4a2c62ee7324",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "NASA-1.3",
+    "currentHash": "91019f57adb026b8d6b9ae02076a79271d3c2c444533be4100b761abb6c84e5c",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Naumen",
+    "currentHash": "bbb5311a5f7ed247c9864d249aaf405be56110c54384fad0a02bead8f47a4982",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "NBPL-1.0",
+    "currentHash": "fee2cb6241740494f762680a9aeae125e62ef0ffbe413cd0b5e45849b49e208b",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "NCBI-PD",
+    "currentHash": "b1db79b996c850d112a6bfc222d774e23def521e842b996f78fbfe626841bbfc",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "NCGL-UK-2.0",
+    "currentHash": "35bcfb5661ad5942ca557f0faaa8fad08e39cb4e895d0cd67c9b1fbfa3f7482c",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "NCL",
+    "currentHash": "e9077ee311317abb5984cd4c945e3be534237bbfff79f8d444290a0ab0f92e00",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "NCSA",
+    "currentHash": "aa1825992a2736e7d869d1aed9e5067a40f07b7a63b5cf5b8e7b3049963cfc7a",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Net-SNMP",
+    "currentHash": "b36dc77f0170b24e1a83009018890cc228402db650e0ef9d8be7c6841962653c",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "NetCDF",
+    "currentHash": "ddff448f87c8e21326c03864105ddfa8929ccb57788ca40b7c088adacaa9fea6",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Newsletr",
+    "currentHash": "0080e524801c006eaae78c27445b5f425bc8b6cf04148d1b7148e1b1c105d24b",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "NGPL",
+    "currentHash": "051bd081007689369d36b0768aa9cab53ac8173ebf2c556dec38bdaa03d88019",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "ngrep",
+    "currentHash": "ff4cc8da27bd5df0f1b4eede380add61cfa7ed8ec2ed5146e6ddb31d8024107e",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "NICTA-1.0",
+    "currentHash": "80e6e88cbc5d5d18de6e1c37ecc9455294d577e98b7f1f7637a2244af3ec0d9c",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "NIST-PD",
+    "currentHash": "feaa453a7c0f39ecb61a81e91c9ca419fefe5924459cbb9e845d2bc55cb67039",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "NIST-PD-fallback",
+    "currentHash": "b227dd59032df4602b77189c877f3ca6fe298b0f3f9049d6c09c8aad797d398d",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "NIST-PD-TNT",
+    "currentHash": "243a2fb2492200519cfc167ff03ce0cf0a4ac461870e8600b1c14decec749abf",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "NIST-Software",
+    "currentHash": "0fb2dda99d93f277e5128389344bf782a74ed8a8215748ddc238a2ed4c76a514",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "NLOD-1.0",
+    "currentHash": "238e3090b2e5c2029368da531579730489142b64bc365c679cfa1d3bb9acbbe4",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "NLOD-2.0",
+    "currentHash": "0c2c8a23bb534255d093d3dde0e4840af9ce782e9e48b3847e58be9f220da19f",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "NLPL",
+    "currentHash": "61d57d5294d3134fc28d78aa9ab4a7397c4258ff2bba802ce4d3cf6da79d0df7",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Nokia",
+    "currentHash": "908cabfbc00210989d7748b8887f0afa673ea062e0b6e5a66b7fd9435cc88515",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "NOSL",
+    "currentHash": "af13806535b44362e44176be5901bf2ac98724e3f4785ebb068069ca1515acad",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Noweb",
+    "currentHash": "7ad60eab7d4f2cc14c19156115f8b8201b973312d8b04549b0cb9535f73b5457",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "NPL-1.0",
+    "currentHash": "8c4af780c20ac123b430ecc196a52c53e17777a4b38290d6c095f50d5efb1082",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "NPL-1.1",
+    "currentHash": "1b58231e8d33760e2839e1af159b93e0033b786ad28d200fff48b2eb09fd83d7",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "NPOSL-3.0",
+    "currentHash": "5b8763faefd5b10e5093471e2753b2d47c169b82e2b77ab94bdae7fcee5d01f3",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "NRL",
+    "currentHash": "c995a074258c1427cdff58eb20b39f01f8b751f3713cf7826f6d855b25d4d929",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "NTIA-PD",
+    "currentHash": "f0c62e1b1e2726e2449509f661cf824fc4868f5adfbe99b3a13fd988085d6dd3",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "NTP",
+    "currentHash": "0f9b82a7ac95c4b08c48f2906e75461279c2bd5492dc680f5bab93cc3c57e98b",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "NTP-0",
+    "currentHash": "9d6905beb2e8df48c26112f727439093d1c5fa33a86b132a8fa38131ed9b9519",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Nunit",
+    "currentHash": "fa674c1b590c9c683abdfc27e46b490ab2242871a1364b1e299b2b5517eab2a3",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "O-UDA-1.0",
+    "currentHash": "ef8412ed056f4812b1913a662fce330d72892c4968ce062fbeda11e3426f959c",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "OAR",
+    "currentHash": "bb65ac80f534272ddf877224752beade138edcf7e2c74710613b358f8d3c68ff",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "OCCT-PL",
+    "currentHash": "6bb8797e3262e1a47b0f328d004f4db63e79ee009399adb85ba08faf3a0a96d3",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "OCLC-2.0",
+    "currentHash": "4cbdf9f26abb49c5e30c57f17d7edb01f6a9b36ff7f64ec84de23fc7cd7c83c8",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "ODbL-1.0",
+    "currentHash": "19c09d4b2daa0fa1be8761f0a79a10dda175447d75cadf247f2c4c4622272a6b",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "ODC-By-1.0",
+    "currentHash": "4a9d11743fa544032e2a3f035d3fed4016af7d6e77897a161c0e33e7ac83a2e6",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "OFFIS",
+    "currentHash": "39f6b2980c9d6fa70dd218ad30ccf0b0e2fc1b24ca2735179822159f9a17466f",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "OFL-1.0",
+    "currentHash": "c41a2d9b58e48970a78b7d46e0d788a1798ef3bbec876ed94a648730c5fad802",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "OFL-1.0-no-RFN",
+    "currentHash": "849efbeb94bf8b9fffbf80af7acd9b6a43dd4547eca8a1bfdf4d0264e17bd9b7",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "OFL-1.0-RFN",
+    "currentHash": "c30f78e07d76620d3e0dee184b9855ffdf15a9b60149c3bf9fb9227719058662",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "OFL-1.1",
+    "currentHash": "2ca13ea5e1464a0c4f7506c17b8a3a68967da5a0728352a4f64e1429ba0be18e",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "OFL-1.1-no-RFN",
+    "currentHash": "84ee03bb320f333d592e541e357d7b0f1ab38520b06203a51d2c1af676b80040",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "OFL-1.1-RFN",
+    "currentHash": "f1cc035d4eee0c7ed57741c29ff59edae31848249f9088d7fe474eb2b37165b3",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "OGC-1.0",
+    "currentHash": "4a9835f9ac4412e245d9e0cd286c33be77b1bc9ef9fb228503d739b39f593c36",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "OGDL-Taiwan-1.0",
+    "currentHash": "74c62814debd0b9862d9b46b4dc91a79607a0d199cabc15113d5a47443dd77c5",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "OGL-Canada-2.0",
+    "currentHash": "385fa4948bdb56d1faef590258f82c7684530dc550ac8acad8cca4386995e91a",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "OGL-UK-1.0",
+    "currentHash": "554b74dca95298fcc7cf8d7cb15f00f6b0ae65655ebafb8966cae59196332565",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "OGL-UK-2.0",
+    "currentHash": "3348a5911ac337963d5f1b0dd38ab16afa587d81ff62efea5eb70cd9e91ca48f",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "OGL-UK-3.0",
+    "currentHash": "759e1301674b963aa45222d20dc2fb20f0463f580a24be71773287bad44d59ef",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "OGTSL",
+    "currentHash": "94d7cc217ce21ac977c36c76097320b108c4b63285b5afc0e312dd456f456341",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "OLDAP-1.1",
+    "currentHash": "ea5d597b54cd97bd98e5f10ccbdf26de0f7c30e71500ca6d346d5a9ad0c7b4d3",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "OLDAP-1.2",
+    "currentHash": "9fef31d4cb2cc07b6c14d2c769b6df5de4e4e16f0585699c9243d799e3127d6b",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "OLDAP-1.3",
+    "currentHash": "b060231c6a3a7d5b09a0a975f0fc695faf6725df01644c764b16dabf2e3f9348",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "OLDAP-1.4",
+    "currentHash": "be8e5270a75dc76bece0dd3d7cc5f35ba5839d70d39e98050fb9ba82f1ea50a1",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "OLDAP-2.0",
+    "currentHash": "f98006052ff7274b5fde93472fab7ddf4d0838eae4d20185cf0faf04ef4e8396",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "OLDAP-2.0.1",
+    "currentHash": "646ec0d4347aaae724c771666470eab239c1b3eb753eb2a3c0fd096f4db78651",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "OLDAP-2.1",
+    "currentHash": "7ed57089a4a19cbf85d6e42801fc2a6ebb8ca12d58052ae2533f64519c562d9a",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "OLDAP-2.2",
+    "currentHash": "3ab938125f52235c3890c665241e2b71f7d7b95b8db59049f359bc6c1efc8386",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "OLDAP-2.2.1",
+    "currentHash": "3ec42b750f4e9d1f35f2479965a4f9abb760b12a780d1d7568832e61adf9afa2",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "OLDAP-2.2.2",
+    "currentHash": "b965fe6178df2362707901cd8268428486a2c77e8b5e5f8ec6e8d1f3da2a48f6",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "OLDAP-2.3",
+    "currentHash": "cc29309180c5060877390d1c43bfec6b429ff9f0e8b1aa1d83fc2f52bbfbe466",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "OLDAP-2.4",
+    "currentHash": "6da3097e7a24f9b32de48137a38e4c3fcc0e6cce0b18984f4474b7d0579d5757",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "OLDAP-2.5",
+    "currentHash": "8a58fb2fed34734d12fe69e6526340e713072e051d61f72242c87f832fe32895",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "OLDAP-2.6",
+    "currentHash": "0eea6588bb4b302bced60a531a4ce20ed37b75bd0fecc62b4ed6f5a9ce8c5a3d",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "OLDAP-2.7",
+    "currentHash": "43294d7a7847a627dba631e6b4a02843f928c8cb65de779cece2870e38103bb9",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "OLDAP-2.8",
+    "currentHash": "aec99ac55b6ef9b84dce91db5fbd0d64beed2041dd234968a31358e297d47c23",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "OLFL-1.3",
+    "currentHash": "1952d33eedf6cf7865a1cf1e74783db3a60f78127a7985ff4fada32ae42e09b1",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "OML",
+    "currentHash": "30f5a42aa63f54d2ba32378df65980ea30096cf119b813370aa4eb48d164e81c",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "OpenMDW-1.0",
+    "currentHash": "e703436ddf48ba2725bf5e8956081c183007459300157c768dd5947e266334c6",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "OpenPBS-2.3",
+    "currentHash": "912d127639d22f4e5db88c55c7c5df95047da121824245c2c98313eb59ece34e",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "OpenSSL",
+    "currentHash": "65a66ea641e84beab925d547e1491fad240544e92f63aa9ec4d25943cc901324",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "OpenSSL-standalone",
+    "currentHash": "40b4507189ca421e8e81bc64bef1a2efc1c7b8d6486772edb75b747992cd7d75",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "OpenVision",
+    "currentHash": "8e8db1cef8a1787ff9be57085ea168fa5ed460ffcda4f0c7922520e122613bc2",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "OPL-1.0",
+    "currentHash": "96d29dc75cc69c45ae1da99dae419b5c40cc30e054058a3d9dff95c1a15b4002",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "OPL-UK-3.0",
+    "currentHash": "343d5b76eb46e2ec41a8f586e2fbaa8a40baf4c18d3bdf3b0554a55c756344d8",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "OPUBL-1.0",
+    "currentHash": "ec7a949ff313d00c702993a93eddfd06fb29398f9a25731fd7f7628e56e71079",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "OSC-1.0",
+    "currentHash": "a6bb9f40be322985bcbfdc42e4028fc3e981121e2fcbd9e9ed9bbe801a0a5e27",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "OSET-PL-2.1",
+    "currentHash": "4f625460d2304a51c363d49a88422ff64c380d8a884786eb938f3618f55ad76f",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "OSL-1.0",
+    "currentHash": "322d899e85cf3097cf58cb6f88432eea8c6506f16258fd221e1472d12a42aff8",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "OSL-1.1",
+    "currentHash": "2caea1c2fb59d050c3a5d41ce9985e123b94013b85e7a4b0f4873104f6a39f53",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "OSL-2.0",
+    "currentHash": "c296f7aa456a43888b4ca5a0e0da748db26be73fd6d9d6492abccdfbf0ad0a3c",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "OSL-2.1",
+    "currentHash": "12f7b4ec9ea0bcb6517db31a30d2ee8e764a62491df4d81a8943ccb4632ff963",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "OSL-3.0",
+    "currentHash": "e5d399c012f95421ceae525c95a662323422d0d5765ab60178d782b38320f300",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "OSSP",
+    "currentHash": "42e2e7d6f6928646913a5b36bf7b9b3be749c750166a485339c58a03949adab4",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "PADL",
+    "currentHash": "5b9460b0c539ed9c58f7a60eb8da9b0f854a5696cd35d7b549d569afb1339b2a",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "ParaType-Free-Font-1.3",
+    "currentHash": "514dc1b4076e437db26a71924d9748e8deeb0870bb6ed4cd063769ff90a8db69",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Parity-6.0.0",
+    "currentHash": "76b5a7bd0d586b4a9aa60f3a3e8333f2574f30280d536f7ce5fcb198b143c7e8",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Parity-7.0.0",
+    "currentHash": "8323812dece6391b9fe61f66b6694fded770949d27484a2a22ee7848939d1c13",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "PDDL-1.0",
+    "currentHash": "2c8306bcfe2b855fde3b96481482567a19bc6b413a549757495c75cf37cd69bb",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "PHP-3.0",
+    "currentHash": "f9b843525d6eed302a3e2b87edfc97c9181c717e1f152b92e140ef510c56c2da",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "PHP-3.01",
+    "currentHash": "7bbd7a7e353602fff96847d6031c17b246046a8be589d746ad9633f0ae742749",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Pixar",
+    "currentHash": "cfea1b6435d7343ecf8a7ec5efb768c77fdda48c400b9f345b02e25ee50b70c5",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "pkgconf",
+    "currentHash": "648e8624b06d2e715f889837ee9a76a9cd972dffb8f583279f02b8c5f7b62bc3",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Plexus",
+    "currentHash": "fc249dff4b48ec7c2982bcba690bd7f5e3934992d30d69c221c92bc3487c2d1b",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "pnmstitch",
+    "currentHash": "63a6cb951000bfc83f926a1cafc5be0309bdf7b4ce019f81b82d2a58342121e3",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "PolyForm-Noncommercial-1.0.0",
+    "currentHash": "b6c12e72ffebc31216f098e03a43d0a6718e950803ffdf844d54ad65586174cd",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "PolyForm-Small-Business-1.0.0",
+    "currentHash": "e40f70200aa0c4f7691b84ed77b35331de44e390e111885bc97a7f22fc732666",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "PostgreSQL",
+    "currentHash": "ce0aabff6090928b8bad6f189ec301010d29c39333de284df9995fa2af76b75b",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "PPL",
+    "currentHash": "67a8a37d559aef26063876991124fbb4bed4aecb0429d5bef85f1dcf2f8a65fa",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "PSF-2.0",
+    "currentHash": "12f26d7dcc900b0abd772240f34c86b9bd7a560b8f3d009ba6adb9df3b144562",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "psfrag",
+    "currentHash": "96f49b6e49a209c68517964a09a4099bf6bd01d837706535a71dd48d3ce3d8ec",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "psutils",
+    "currentHash": "f84f93d7cceff4400b7b518ffba48d0948fdd2efc6e1c4a22333297e02ef789f",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Python-2.0",
+    "currentHash": "dee3fbccd71da308980f98ccea4047718d4ab384ba3e30dd1fe856a8bf86d4c5",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Python-2.0.1",
+    "currentHash": "ab2e5e79e1006b3465c4d49322057ee832ce0e1374f008aac0aec6a241fd2647",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "python-ldap",
+    "currentHash": "6713adf7f2ce66cd74f826d09c1e7c14dc576a5066fabec3f0409183d86967f3",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Qhull",
+    "currentHash": "556e2a56a726b330f2ba1004e2f5c657fbf118085a6063bcea93d6403ed0e223",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "QPL-1.0",
+    "currentHash": "d53f5c7008da8fc46bb7f4941cf69bd5672094dcad39ecfe164f35dd1cdc37d7",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "QPL-1.0-INRIA-2004",
+    "currentHash": "18e483250b0fd9cbc10cea35c3942f80c30bc44c78551d1fbddb0c6cc828b313",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "radvd",
+    "currentHash": "0c2196706a59e34eb90433abc4d134bfa3f35eb2cc03da354481abe12d971f64",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Rdisc",
+    "currentHash": "98907ec488379ef37528a789547bfe074252053ea965a3a060ea8f1d142474b1",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "RHeCos-1.1",
+    "currentHash": "6355dddc794ff20db5e1534919a20ec84e2ab32c38d4c58587d6301d370de700",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "RPL-1.1",
+    "currentHash": "266fb791abfea31c5ca4a120829be30ed95b5089a446ee498b51fee253e16c1e",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "RPL-1.5",
+    "currentHash": "25a3321dcaa930c56fe31e328ce981edf507a775874eb6a0120e59f6e09d76e3",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "RPSL-1.0",
+    "currentHash": "10fb1879dc470871bcbffc6df4ed57654057312b1659338d183270522c9046bb",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "RSA-MD",
+    "currentHash": "7ca923bfea27f51d12457efd959276e31bf8e7022a871afa72c892e4b0b7a174",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "RSCPL",
+    "currentHash": "545af344874dc45b40c65e94c4f7f36b8d5902fc394f51f3e09c853d51819c3f",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Ruby",
+    "currentHash": "2ea09d34ae85c02e6b9ce4d615d9afcdf560b91991ba7c2f78f6800e714fa90e",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Ruby-pty",
+    "currentHash": "69baed19eaf6a45bb59a48b0620a6ab9cd72b2318758fad7db7be6bc97343335",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "SAX-PD",
+    "currentHash": "08a260f984ba59d1a7d63d85805cd6b2671919c76cd55579fd4fbc4fc6f0832a",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "SAX-PD-2.0",
+    "currentHash": "aea7df5f4695e8d83f2c642cbc40adfd371aae858732a64a0136d3fb81a66839",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Saxpath",
+    "currentHash": "e7dc6a3e34d2cebce35f75085ba1d2167381d1c8fce1f390d26de00065c3996d",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "SCEA",
+    "currentHash": "51bfd083da675e7379284ad5e9e13e5e032c5bab2504930f21adfc631490ac85",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "SchemeReport",
+    "currentHash": "dabb248fa6685417a0f1471f395e8141e87ebb3c14cd1593ae0bbb376f022f42",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Sendmail",
+    "currentHash": "bfb025c692b1fa7c33d3881bfde56c8af95d2c8274444ba2d045d5f7ec370366",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Sendmail-8.23",
+    "currentHash": "1136e153741f4359eb990b0e44165270a854c10c5ea1c830cb1c4700b3bcf876",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Sendmail-Open-Source-1.1",
+    "currentHash": "67fcfaa6b50b6767603a026d0b4483a2f8cd96d6569df6e621d4b60e99b3c402",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "SGI-B-1.0",
+    "currentHash": "a61aefa6c9b1d75e217740184e05cf17d8bb0738755c697b1a5eac08b243de75",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "SGI-B-1.1",
+    "currentHash": "116337bf0c322158e6f470b1dce886f38b0faba022d4618790a2ac02b84b386a",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "SGI-B-2.0",
+    "currentHash": "0a9fb478c2f99686a68a71f9d022a5f41348695c6149b974b4b50bd2a64c88cf",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "SGI-OpenGL",
+    "currentHash": "10c8037ae2827e6f84a145780921c3c58f63984788a06d8b9ab7fc3b93106d23",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "SGMLUG-PM",
+    "currentHash": "e10bd09c83106a0dbcf8080017a68a07afa9eba1be7d0923a114c9d77bbd27dc",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "SGP4",
+    "currentHash": "d1d39babacdc70b91d359c41d910aec8f3a990941559ed6836e9f41f21df455e",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "SHL-0.5",
+    "currentHash": "9b7e6b449a23e9095baf4cf81bff728dcb232f7c9bd7bc3955196331f853070f",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "SHL-0.51",
+    "currentHash": "ebc7dc716ee0ee2f0a74f85856af28a99dd7eddc2b727feb2bf8e8ead250eca9",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "SimPL-2.0",
+    "currentHash": "ed0082c775ebc9a26b26a64b855c3eb5aa93f71a200d0552d9d1e184a80b190c",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "SISSL",
+    "currentHash": "d35b0da8bd0b41586422a62f6dc64e3ba2c57a7d1590372ac53c6d1d2c2b58ed",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "SISSL-1.2",
+    "currentHash": "2e59e3830269de5259f3e9981a1620311b6b96eff8231d14406c7867ac22d56c",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "SL",
+    "currentHash": "47ea8e3c5a1cfb19248ccd3fa5c5bf31b38079490bf96922b1323dc9458fa9c8",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Sleepycat",
+    "currentHash": "3885e8b36bae08bcdc4d2aa7bc6ce97a7bec15bde6158d4afed138a8b64c8f8b",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "SMAIL-GPL",
+    "currentHash": "aff3b56f56da36cc02b84413086ad151b919e2b24e2d51c1797e461c659f9a8f",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "SMLNJ",
+    "currentHash": "dd40da5cff61ff59830e2cbfe8611ae014ea033885f1b5aa24942c042e522d26",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "SMPPL",
+    "currentHash": "a5e2c2e4957624e95cd739f7f8712cf3b54ecfffb8404de5212db169ed7a1ced",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "SNIA",
+    "currentHash": "1c8bb26a584629476746f087636b1c9f90413e8b616ec4190b94edfe7ddb7945",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "snprintf",
+    "currentHash": "4ed93c5a17a8551ded91d1bfb35d4d9340e343be7b79484d5804df606694cd5d",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "SOFA",
+    "currentHash": "a0e933f969640c2d411e9976e93e5705cdb4408b95d154c34a8797b4d4335dbf",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "softSurfer",
+    "currentHash": "2ba3a294eb765070634ee33d3553b9e941a0998424c23d9d59a58f8460c3bd09",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Soundex",
+    "currentHash": "7230de1bc07ce00babc2dc091721c90896d8f0d099a88f6f39f1fdfabd5e9623",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Spencer-86",
+    "currentHash": "94527a7f6316b7ecf1ac7df9cee71903a8340192d3090ddacae3a028bcd60279",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Spencer-94",
+    "currentHash": "85c97207ea6c8f1286b41013d1098b08deee5070c0551b70541ea83e0368b8e0",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Spencer-99",
+    "currentHash": "e6d1f80e1582d326456428be6d05757c0c0792065f3846b31ee958a78f7c5748",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "SPL-1.0",
+    "currentHash": "0f611e0c7482fbb566514fa813b8c69fe97fef83d605505e310c9ee5e34a4d1c",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "ssh-keyscan",
+    "currentHash": "a190349f01da21c1432208df76ee66d3b1554872d6cdc08870c3aae09f7e4d4b",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "SSH-OpenSSH",
+    "currentHash": "2b13b33df0470c5ca3f949c75bfcdedb9978664fbc78d38e651bdd79452fe690",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "SSH-short",
+    "currentHash": "0e368317f3e8e031f6e63a395240168a55b184bd92530ce13df258fd0c1c20d0",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "SSLeay-standalone",
+    "currentHash": "43c2c8e065b5fbc5ec813d717f0ea22196846313e6d98b53bb720d2f76446792",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "SSPL-1.0",
+    "currentHash": "54c469c225529fcfadd16d52d6c71749951b8ca8cfb54cb00a6c2c4cb8ece91d",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "StandardML-NJ",
+    "currentHash": "f60ddfcfe1170af2a2d0dec3eacb83c64be1ca7995167214ad5e31c0eea62f6e",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "SugarCRM-1.1.3",
+    "currentHash": "867015483ccb70ee960b05f8a62cf6c51f3aea07b9b1d1ba37e6fae187f66ce5",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "SUL-1.0",
+    "currentHash": "e67b11b7cc6e6978bcaac64c83bdf739c00bd6231841a7e00635d4c8aaa3910b",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Sun-PPP",
+    "currentHash": "d0dd3a4cfb83d1a4cf367faa9760bf6e7a729acf89414fb6ea13d6b452b87a70",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Sun-PPP-2000",
+    "currentHash": "18ce176e45ada04ab5abc4afee00ef8112585feed6ddad6204949580952862d9",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "SunPro",
+    "currentHash": "1a6b5453ea7e20e8e417aea67f3f39344290cc86688498f36c5617129c871e64",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "SWL",
+    "currentHash": "ef2065f522f71031f2af8c829f9809f9e459aa9b9adc055e93aff8aa0636d4b1",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "swrule",
+    "currentHash": "944561dafed0091bce9467e9e97c3313a85753762568135eac6b1e3856652c79",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Symlinks",
+    "currentHash": "16c3a758e161c7f5f7ab87623509a3ae70ccc12c67d5c5df8d8894d58fc2fba0",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "TAPR-OHL-1.0",
+    "currentHash": "ab6c8cdc69f98a9c55a445fd0a3ebd119aced934fc1c4c320ff6d187c12d43a5",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "TCL",
+    "currentHash": "28cb50d80a7e9bd70ac2095a95a76a9e9b53566c2f0412d1b1ed36a8acf2f080",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "TCP-wrappers",
+    "currentHash": "e43d7dea4abc92c3ed0ca72163fc7513ff9d5234112a087fe549ba8ef7519678",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "TekHVC",
+    "currentHash": "908e2b718cf115f82569db131120d989bdb3d4197d8afb95fb3f6ec5a4c2cdd9",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "TermReadKey",
+    "currentHash": "6f1d1f887093aa72e18d40a7fabde3270b4ad36c984ab61de0fd1330903c163a",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "TGPPL-1.0",
+    "currentHash": "b74e9a9ce0d97b7f6c15437dc3a301914f4c7ab9b963ab005855990e923895fd",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "ThirdEye",
+    "currentHash": "5f7ed2d2bc3acf75bc55fd715a11706cc948af081446a904ea9b40eed017ef9e",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "threeparttable",
+    "currentHash": "3b6179c8b76fa517c99889f4e1990ceca4210ca4c09208ed85692d822b1368c1",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "TMate",
+    "currentHash": "020bab8ac80a05cb8574c44895c3d61ade5edd0a7643ed65cc04d6f85b5990a0",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "TORQUE-1.1",
+    "currentHash": "06889c189c281b9eb8188a5c8b3c18c2c9c0db4ef22dbf0acc51759ac7ce001d",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "TOSL",
+    "currentHash": "5ec33618f6c3a78011f2f192b5d6f1d5c862ebff92c80a05f6601cb56e55a239",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "TPDL",
+    "currentHash": "be341310e031df608974c3e1b87fdf13ee0697dbeebeb047eaf1fbbe7b32488e",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "TPL-1.0",
+    "currentHash": "e3a3b10947e97fe87340a748ad98e2b42e6d76284a523d770460ab9bee89a67b",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "TrustedQSL",
+    "currentHash": "3b72e129ff40349b2debfea7222f108ab3055a11060799cdb3316201333c2425",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "TTWL",
+    "currentHash": "4bbabf76e29e7aa2732485cbf96bb670f4db2c2661a52e4417c3f345de187868",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "TTYP0",
+    "currentHash": "9300571266f43a468bc61a06ba858d88c4e7e991b3b2f38cb0cf1d2879cb13a0",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "TU-Berlin-1.0",
+    "currentHash": "d1f04f6d837d295286cf60c16f3872572dbd81994d8155e0e2ea6bd91a82b96d",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "TU-Berlin-2.0",
+    "currentHash": "ad1bcefae7b3dcc97560cbcad34be73ba2d1df4703f5134919bc24e57be0f066",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Ubuntu-font-1.0",
+    "currentHash": "e964cd088ade89f7b49d41e83ee073a48837f6c5229dd60318b59f1f70c6653c",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "UCAR",
+    "currentHash": "59626ed9bbe259ae6d1fc180c3d29f03e52f598d120602d42dd2d550911c16a6",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "UCL-1.0",
+    "currentHash": "ef5b7ae46a43a50b89233a66bd9031a0ef4f7f7bb80fbd7a8a55b6f6e4db068f",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "ulem",
+    "currentHash": "f424816bb39b6b58e9989b5f67c8dc3facbb3e0dff06807993f3c260ed47107c",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "UMich-Merit",
+    "currentHash": "cd8f8d4701e2d1cfe2b5c5a108362fc02ef4557b55dd23264709b0d0588120ea",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Unicode-3.0",
+    "currentHash": "9cbfa9beebb03dad18d5dcf1c790e2f7b5f9f074f937565e3cb7027c1c144600",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Unicode-DFS-2015",
+    "currentHash": "37d92907a3045e98a2837f279756232944110ab4f79ce257c301dc499f3999b9",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Unicode-DFS-2016",
+    "currentHash": "5edfa2453be015ba2951c5695b3c9ad4fc8a48b82748c9e0213e832af48f9cc5",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Unicode-TOU",
+    "currentHash": "f13cb4143d33ce18ca620646eadc7280a980787dfd023c7ae8da810c1a1d6d75",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "UnixCrypt",
+    "currentHash": "0a693a2e2bffeba23f35b8d34da27030a8ef00dc7e0bfe7588a8383b5249bc6d",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Unlicense",
+    "currentHash": "4e4753d98358ad6f69a51f9d6fef4b4f9a9552c823a5a6d9768b460bc051860f",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Unlicense-libtelnet",
+    "currentHash": "da8521fac0213811e90e3fe3dcdd2836f59f023a84f5ae62ff0acd024d1ff9fa",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Unlicense-libwhirlpool",
+    "currentHash": "333fa74103142d7bb4e372ca5fc6c10693e7fe9b5143d9809bb8ddb7d39aab33",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "UnRAR",
+    "currentHash": "48a500426eae0098e5bc43d275de129ca97357b6b2a5701824fdd004c399d373",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "UPL-1.0",
+    "currentHash": "91aabc89c40af5b3d5240bf9e5a207cf13def3add8f3382dbd55720bc9f172e5",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "URT-RLE",
+    "currentHash": "2be7871123bf77a3fe4474a2ab1c70490f4f6d9e8baa8861eba353c0b1bd1465",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Vim",
+    "currentHash": "9ede825eac25f2cdcb142e4390b216ce986db67447a5e3a1e50a074420c21894",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Vixie-Cron",
+    "currentHash": "a394ecba219d6ae601deec7084984f69f9bc9f51e778163b597d7911ac386568",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "VOSTROM",
+    "currentHash": "3dda9a2ccef494f74e31fcf736b6334a406b82c3180ec07a79477f5856db7eee",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "VSL-1.0",
+    "currentHash": "d526899cd8827eca21d89b67c1ff311c951007bbd7f1f77d5f3407ac9e748733",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "W3C",
+    "currentHash": "28409ad6c2ed050f557717ee615c695286ba89aa0e8f251c309499c4260f7346",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "W3C-19980720",
+    "currentHash": "e8f0a07887daae8ba84e1d9065ea75be6ff4d176c640d12292dadc111ceb8ebe",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "W3C-20150513",
+    "currentHash": "beaece43b6db64e5223230bdfcdea965a24ff075da17a484426665a8daef57e5",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "w3m",
+    "currentHash": "e6e4839c2f75185105bd8843f5789309491041f6ab62a72a714be73d8efce235",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Watcom-1.0",
+    "currentHash": "e30b81577c749f32b3a19ad76dfeb58f08c78c331c5f35712f912cec6610f3bb",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Widget-Workshop",
+    "currentHash": "2186a62c0a97faf5b907af02d09e786bcb76ab4cead11425f2fafc8b6920b21c",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "WordNet",
+    "currentHash": "4323df5667e5f2f0b738d8162b392346d516244f4e7b4ff8d0b004937fcedd62",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Wsuipa",
+    "currentHash": "1027249156c0d1dad97e5e020d5d97a40b4698d5fa1d4bfde5a51c6ffaf5faaf",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "WTFNMFPL",
+    "currentHash": "aa02732ddf2ead50a2c0fa281026e5df537d2fda5732a16fc7e02951cc2e9ee3",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "WTFPL",
+    "currentHash": "fd84aef74d16401bc0d9b59643f8e3178bbb86f3ce00f9d6824bb37527471199",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "wwl",
+    "currentHash": "3b7d1096e6fac4b65f6f8c682bdba742ef03dd9fe896da26ed8210e22a3c7773",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "wxWindows",
+    "currentHash": "712e9ae49aa627772b6840a49739adef67c1c44ac7ade18c928259a5fe841f4d",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "X11",
+    "currentHash": "7ea977517573c25587646e9b0de4d2adc1ddeb9e2e460d681eb6141b6ac52a04",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "X11-distribute-modifications-variant",
+    "currentHash": "c585fa21364f44c56dcd9036cd89940e92bfc58c1483248f2fb39b690897465e",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "X11-no-permit-persons",
+    "currentHash": "a62204840e5ff43d7af9bc8fd2f9ec0a30a2c0a660b5d226b3103adf2a2408c7",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "X11-swapped",
+    "currentHash": "5892cc2b3a928d4d83bd71a62722057dff12ebd62bcc1bae51a0491cf9274d1a",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Xdebug-1.03",
+    "currentHash": "37f702f9c05b50332b1d2a63e44b6bf5fa26cdcc97d3be2c8d1edcdc6ec82430",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Xerox",
+    "currentHash": "0f94352e9cd5a51818f119e2b713b716e78a5bce5e5bf5aec007be9cedd4179f",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Xfig",
+    "currentHash": "7eaf5e9de79f93577858a20333109865444e0052dcfdc61742f2eb83ab036261",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "XFree86-1.1",
+    "currentHash": "9ce25dbd779593ea9e883455b87c5a114888dba6a856a4a278986ca59d65cc52",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "xinetd",
+    "currentHash": "984bae000692479705de3c853058a7dd6a37faf69674854ee93b1175c7462bbf",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "xkeyboard-config-Zinoviev",
+    "currentHash": "750a02f06a011685d6d73d6cc21b4ded5f783fcc18c7958e3299b41895f5e2d4",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "xlock",
+    "currentHash": "5d457af36e73136e89fe0612c57fba90a4113a634be51372c374d100a631a5a7",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Xnet",
+    "currentHash": "ec9494f0019d014fb040ce31fd214ce85a77dc89629186a8d73aba225549965c",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "xpp",
+    "currentHash": "efca55fae8d02b88788a5f22cf504d8e60478e7b6834946dd8ec4c7dc0c2ff97",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "XSkat",
+    "currentHash": "ed5cbb0d74d087f721124c449d4533c303d500be8ece3f15ca17660121639e70",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "xzoom",
+    "currentHash": "0d2999628f56c7b0e872135845e3379a508701735ce95cfea1fb9b73fef3335a",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "YPL-1.0",
+    "currentHash": "701a2721bfb835413d321e6ade20f25a166ca651492525cfc070d1b26a903c0e",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "YPL-1.1",
+    "currentHash": "2991eda4458eadfaffd502e30d25db34c6dffb0c2e1c8fd4fc71aedf256eaeab",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Zed",
+    "currentHash": "a4c08431ad2594bf3f9880f2e646e5e95d8c7f1affb9fd47ed858813244e7008",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Zeeff",
+    "currentHash": "ee7dd3b4ca7948166e9790a70e979bcc6c46aece69d2b459648b7eff5ea4ff68",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Zend-2.0",
+    "currentHash": "57366491208fcc228c0bfc5e61e4a9e9ad1b847986bdf38453c4299dd01a3822",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Zimbra-1.3",
+    "currentHash": "0af5c1c8263ed41f59f550590f2fe98e69d73a462241c6316fd9083de270cf2f",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Zimbra-1.4",
+    "currentHash": "89c75b082e8ccab2bb3cf229432e27817636ee06c08f4b587a036dd7657ec7aa",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "Zlib",
+    "currentHash": "a94c80e38fab2019076f73d4182ee2b5856107a96e53ee26d5b568696956d195",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "zlib-acknowledgement",
+    "currentHash": "639cc2f451888feee10fb1aced922ff4f119f507ca176c9b03549d5c836ac3c6",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "ZPL-1.1",
+    "currentHash": "5664d03e60a5e7de2529dd1e7fd0eb22a82c550b9653ee9f600a18a31d1f2405",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "ZPL-2.0",
+    "currentHash": "80749024c674b04ac31b7d500a1ea227b4d870b7cc1df8612fbc1f03c2a06ea3",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  },
+  {
+    "licenseId": "ZPL-2.1",
+    "currentHash": "c61a3bd8c756134c78d8e3e808f86da330caa14771ee101c22424787fcb9906e",
+    "lastUpdate": "2026-04-03T11:08:45.378Z"
+  }
+]

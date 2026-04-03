@@ -1,0 +1,15 @@
+import { License } from "../../schema/index.js";
+
+export const egenix: License = {
+  "reference": "https://spdx.org/licenses/eGenix.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/eGenix.json",
+  "referenceNumber": 488,
+  "name": "eGenix.com Public License 1.1.0",
+  "licenseId": "eGenix",
+  "seeAlso": [
+    "http://www.egenix.com/products/eGenix.com-Public-License-1.1.0.pdf",
+    "https://fedoraproject.org/wiki/Licensing/eGenix.com_Public_License_1.1.0"
+  ],
+  "isOsiApproved": false
+};
