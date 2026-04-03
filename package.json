@@ -1,0 +1,45 @@
+{
+  "name": "zod-spdx",
+  "version": "0.1.0",
+  "description": "Zod schemas and TypeScript types for SPDX license identifiers",
+  "type": "module",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "npx tsc --project tsconfig.build.json",
+    "generate": "npx tsx generator/index.ts && npx prettier -w ./src && npm run build",
+    "purge:generated": "npx tsx generator/purge-generated.ts",
+    "regenerate": "npm run purge:generated && npm run generate"
+  },
+  "author": "The Figulus Project",
+  "license": "MIT",
+  "dependencies": {
+    "zod": "^4.3.6"
+  },
+  "devDependencies": {
+    "@types/node": "^25.5.0",
+    "dotenv": "^17.4.0",
+    "prettier": "^3.8.1",
+    "typescript": "^6.0.2"
+  },
+  "sideEffects": false,
+  "exports": {
+    ".": {
+      "import": "./dist/index.js",
+      "types": "./dist/index.d.ts"
+    },
+    "./schema": {
+      "import": "./dist/schema/index.js",
+      "types": "./dist/schema/index.d.ts"
+    },
+    "./license/*.js": {
+      "import": "./dist/generated/licenses/*.js",
+      "types": "./dist/generated/licenses/*.d.ts"
+    }
+  },
+  "files": [
+    "dist",
+    "README.md",
+    "LICENSE"
+  ]
+}

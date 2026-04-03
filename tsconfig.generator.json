@@ -1,0 +1,15 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    "module": "nodenext",
+    "noEmit": false,
+    "rootDir": ".",
+    "declaration": true,
+    "declarationMap": true,
+    "sourceMap": true,
+    "moduleResolution": "nodenext",
+    "types": ["node"]
+  },
+  "include": ["generator/**/*"],
+  "exclude": ["tests/**/*", "src/**/*", "node_modules"]
+}

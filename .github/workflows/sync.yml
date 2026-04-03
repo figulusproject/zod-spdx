@@ -1,0 +1,56 @@
+name: Sync SPDX Licenses
+
+on:
+  schedule:
+    - cron: '0 6 * * 1'  # Monday 06:00 UTC
+    - cron: '0 6 * * 4'  # Thursday 06:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Configure git identity
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run SPDX generator
+        id: generator
+        env:
+          BYPASS_COOLDOWN: 'true'
+          BYPASS_CACHING: 'false'
+          BYPASS_FETCH: 'false'
+        run: npx tsx generator/index.ts
+
+      - name: Commit and tag if changes detected
+        if: steps.generator.outputs.has_changes == 'true'
+        env:
+          NEW_VERSION: ${{ steps.generator.outputs.new_version }}
+          CHANGE_MESSAGE: ${{ steps.generator.outputs.change_message }}
+        run: |
+          DECODED_MESSAGE=$(python3 -c "import urllib.parse, os; print(urllib.parse.unquote(os.environ['CHANGE_MESSAGE']))")
+          git add src/generated/ meta/ package.json
+          git commit -m "$DECODED_MESSAGE"
+          git tag -a "v$NEW_VERSION" -m "$DECODED_MESSAGE"
+          git push origin HEAD --tags
+
+      - name: No changes
+        if: steps.generator.outputs.has_changes == 'false'
+        run: echo "No SPDX changes detected, skipping commit"
