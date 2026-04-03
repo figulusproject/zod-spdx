@@ -31,6 +31,10 @@ export const packageJsonSchema = z
     type: z.literal("module"),
     main: z.literal("dist/index.js"),
     scripts: z.record(z.string(), z.string()),
+    repository: z.object({
+      type: z.literal("git"),
+      url: z.string().url(),
+    }),
     author: z.literal("The Figulus Project"),
     license: z.literal("MIT"),
     dependencies: z.record(z.string(), z.string()),

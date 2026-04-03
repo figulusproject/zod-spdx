@@ -11,6 +11,10 @@
     "purge:generated": "npx tsx generator/purge-generated.ts",
     "regenerate": "npm run purge:generated && npm run generate"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/figulusproject/zod-spdx"
+  },
   "author": "The Figulus Project",
   "license": "MIT",
   "dependencies": {
