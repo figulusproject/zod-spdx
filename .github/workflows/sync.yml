@@ -49,7 +49,7 @@ jobs:
           GH_TOKEN: ${{ github.token }}
         run: |
           DECODED_MESSAGE=$(python3 -c "import urllib.parse, os; print(urllib.parse.unquote(os.environ['CHANGE_MESSAGE']))")
-          git add src/generated/ meta/ package.json
+          git add src/generated/ meta/ package.json CHANGELOG.md
           git commit -m "$DECODED_MESSAGE"
           git tag -a "v$NEW_VERSION" -m "$DECODED_MESSAGE"
           git push origin HEAD --tags
