@@ -4,7 +4,7 @@ export const dec_3_clause: License = {
   "reference": "https://spdx.org/licenses/DEC-3-Clause.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/DEC-3-Clause.json",
-  "referenceNumber": 405,
+  "referenceNumber": 599,
   "name": "DEC 3-Clause License",
   "licenseId": "DEC-3-Clause",
   "seeAlso": [

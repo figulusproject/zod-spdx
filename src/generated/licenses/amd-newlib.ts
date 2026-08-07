@@ -4,7 +4,7 @@ export const amd_newlib: License = {
   "reference": "https://spdx.org/licenses/AMD-newlib.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/AMD-newlib.json",
-  "referenceNumber": 171,
+  "referenceNumber": 524,
   "name": "AMD newlib License",
   "licenseId": "AMD-newlib",
   "seeAlso": [

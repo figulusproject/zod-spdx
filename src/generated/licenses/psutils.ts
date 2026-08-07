@@ -4,7 +4,7 @@ export const psutils: License = {
   "reference": "https://spdx.org/licenses/psutils.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/psutils.json",
-  "referenceNumber": 529,
+  "referenceNumber": 591,
   "name": "psutils License",
   "licenseId": "psutils",
   "seeAlso": [

@@ -4,7 +4,7 @@ export const eupl_1_2: License = {
   "reference": "https://spdx.org/licenses/EUPL-1.2.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/EUPL-1.2.json",
-  "referenceNumber": 532,
+  "referenceNumber": 275,
   "name": "European Union Public License 1.2",
   "licenseId": "EUPL-1.2",
   "seeAlso": [
@@ -13,7 +13,8 @@ export const eupl_1_2: License = {
     "https://joinup.ec.europa.eu/sites/default/files/custom-page/attachment/2020-03/EUPL-1.2%20EN.txt",
     "https://joinup.ec.europa.eu/sites/default/files/inline-files/EUPL%20v1_2%20EN(1).txt",
     "http://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32017D0863",
-    "https://opensource.org/licenses/EUPL-1.2"
+    "https://opensource.org/license/EUPL-1.2",
+    "https://interoperable-europe.ec.europa.eu/sites/default/files/inline-files/EUPL%20v1_2%20EN(1).txt"
   ],
   "isOsiApproved": true
 };

@@ -4,11 +4,11 @@ export const motosoto: License = {
   "reference": "https://spdx.org/licenses/Motosoto.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/Motosoto.json",
-  "referenceNumber": 205,
+  "referenceNumber": 71,
   "name": "Motosoto License",
   "licenseId": "Motosoto",
   "seeAlso": [
-    "https://opensource.org/licenses/Motosoto"
+    "https://opensource.org/license/Motosoto"
   ],
   "isOsiApproved": true
 };

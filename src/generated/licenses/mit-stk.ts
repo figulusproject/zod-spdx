@@ -4,7 +4,7 @@ export const mit_stk: License = {
   "reference": "https://spdx.org/licenses/MIT-STK.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/MIT-STK.json",
-  "referenceNumber": 380,
+  "referenceNumber": 619,
   "name": "MIT-STK License",
   "licenseId": "MIT-STK",
   "seeAlso": [

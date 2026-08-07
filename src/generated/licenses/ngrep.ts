@@ -4,7 +4,7 @@ export const ngrep: License = {
   "reference": "https://spdx.org/licenses/ngrep.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/ngrep.json",
-  "referenceNumber": 282,
+  "referenceNumber": 70,
   "name": "ngrep License",
   "licenseId": "ngrep",
   "seeAlso": [

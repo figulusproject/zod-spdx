@@ -4,7 +4,7 @@ export const caldera_no_preamble: License = {
   "reference": "https://spdx.org/licenses/Caldera-no-preamble.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/Caldera-no-preamble.json",
-  "referenceNumber": 101,
+  "referenceNumber": 104,
   "name": "Caldera License (without preamble)",
   "licenseId": "Caldera-no-preamble",
   "seeAlso": [

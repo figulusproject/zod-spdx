@@ -4,7 +4,7 @@ export const unixcrypt: License = {
   "reference": "https://spdx.org/licenses/UnixCrypt.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/UnixCrypt.json",
-  "referenceNumber": 113,
+  "referenceNumber": 119,
   "name": "UnixCrypt License",
   "licenseId": "UnixCrypt",
   "seeAlso": [

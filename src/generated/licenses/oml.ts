@@ -4,7 +4,7 @@ export const oml: License = {
   "reference": "https://spdx.org/licenses/OML.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/OML.json",
-  "referenceNumber": 319,
+  "referenceNumber": 252,
   "name": "Open Market License",
   "licenseId": "OML",
   "seeAlso": [

@@ -4,7 +4,7 @@ export const cc_by_2_5_au: License = {
   "reference": "https://spdx.org/licenses/CC-BY-2.5-AU.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/CC-BY-2.5-AU.json",
-  "referenceNumber": 613,
+  "referenceNumber": 444,
   "name": "Creative Commons Attribution 2.5 Australia",
   "licenseId": "CC-BY-2.5-AU",
   "seeAlso": [

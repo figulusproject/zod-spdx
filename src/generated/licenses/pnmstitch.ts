@@ -4,7 +4,7 @@ export const pnmstitch: License = {
   "reference": "https://spdx.org/licenses/pnmstitch.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/pnmstitch.json",
-  "referenceNumber": 462,
+  "referenceNumber": 337,
   "name": "pnmstitch License",
   "licenseId": "pnmstitch",
   "seeAlso": [

@@ -4,7 +4,7 @@ export const dvipdfm: License = {
   "reference": "https://spdx.org/licenses/dvipdfm.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/dvipdfm.json",
-  "referenceNumber": 621,
+  "referenceNumber": 295,
   "name": "dvipdfm License",
   "licenseId": "dvipdfm",
   "seeAlso": [

@@ -4,7 +4,7 @@ export const bsd_2_clause_views: License = {
   "reference": "https://spdx.org/licenses/BSD-2-Clause-Views.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/BSD-2-Clause-Views.json",
-  "referenceNumber": 323,
+  "referenceNumber": 27,
   "name": "BSD 2-Clause with views sentence",
   "licenseId": "BSD-2-Clause-Views",
   "seeAlso": [

@@ -4,11 +4,11 @@ export const nokia: License = {
   "reference": "https://spdx.org/licenses/Nokia.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/Nokia.json",
-  "referenceNumber": 404,
+  "referenceNumber": 44,
   "name": "Nokia Open Source License",
   "licenseId": "Nokia",
   "seeAlso": [
-    "https://opensource.org/licenses/nokia"
+    "https://opensource.org/license/Nokia"
   ],
   "isOsiApproved": true
 };

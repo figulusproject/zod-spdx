@@ -4,11 +4,11 @@ export const ecl_2_0: License = {
   "reference": "https://spdx.org/licenses/ECL-2.0.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/ECL-2.0.json",
-  "referenceNumber": 381,
+  "referenceNumber": 8,
   "name": "Educational Community License v2.0",
   "licenseId": "ECL-2.0",
   "seeAlso": [
-    "https://opensource.org/licenses/ECL-2.0"
+    "https://opensource.org/license/ECL-2.0"
   ],
   "isOsiApproved": true
 };

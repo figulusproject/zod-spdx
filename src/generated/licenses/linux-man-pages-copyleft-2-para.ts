@@ -4,7 +4,7 @@ export const linux_man_pages_copyleft_2_para: License = {
   "reference": "https://spdx.org/licenses/Linux-man-pages-copyleft-2-para.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/Linux-man-pages-copyleft-2-para.json",
-  "referenceNumber": 713,
+  "referenceNumber": 602,
   "name": "Linux man-pages Copyleft - 2 paragraphs",
   "licenseId": "Linux-man-pages-copyleft-2-para",
   "seeAlso": [

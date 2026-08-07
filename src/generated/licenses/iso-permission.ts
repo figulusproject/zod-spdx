@@ -4,7 +4,7 @@ export const iso_permission: License = {
   "reference": "https://spdx.org/licenses/ISO-permission.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/ISO-permission.json",
-  "referenceNumber": 709,
+  "referenceNumber": 238,
   "name": "ISO permission notice",
   "licenseId": "ISO-permission",
   "seeAlso": [

@@ -4,7 +4,7 @@ export const afl_2_0: License = {
   "reference": "https://spdx.org/licenses/AFL-2.0.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/AFL-2.0.json",
-  "referenceNumber": 19,
+  "referenceNumber": 281,
   "name": "Academic Free License v2.0",
   "licenseId": "AFL-2.0",
   "seeAlso": [

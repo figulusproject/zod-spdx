@@ -4,11 +4,11 @@ export const entessa: License = {
   "reference": "https://spdx.org/licenses/Entessa.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/Entessa.json",
-  "referenceNumber": 69,
+  "referenceNumber": 336,
   "name": "Entessa Public License v1.0",
   "licenseId": "Entessa",
   "seeAlso": [
-    "https://opensource.org/licenses/Entessa"
+    "https://opensource.org/license/Entessa"
   ],
   "isOsiApproved": true
 };

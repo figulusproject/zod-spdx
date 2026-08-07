@@ -4,7 +4,7 @@ export const cdla_permissive_2_0: License = {
   "reference": "https://spdx.org/licenses/CDLA-Permissive-2.0.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/CDLA-Permissive-2.0.json",
-  "referenceNumber": 672,
+  "referenceNumber": 264,
   "name": "Community Data License Agreement Permissive 2.0",
   "licenseId": "CDLA-Permissive-2.0",
   "seeAlso": [

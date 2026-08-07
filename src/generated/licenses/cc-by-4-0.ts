@@ -4,7 +4,7 @@ export const cc_by_4_0: License = {
   "reference": "https://spdx.org/licenses/CC-BY-4.0.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/CC-BY-4.0.json",
-  "referenceNumber": 302,
+  "referenceNumber": 479,
   "name": "Creative Commons Attribution 4.0 International",
   "licenseId": "CC-BY-4.0",
   "seeAlso": [

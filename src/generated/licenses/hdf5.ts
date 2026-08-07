@@ -4,7 +4,7 @@ export const hdf5: License = {
   "reference": "https://spdx.org/licenses/HDF5.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/HDF5.json",
-  "referenceNumber": 273,
+  "referenceNumber": 197,
   "name": "HDF5 License",
   "licenseId": "HDF5",
   "seeAlso": [

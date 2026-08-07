@@ -4,7 +4,7 @@ export const lzma_sdk_9_22: License = {
   "reference": "https://spdx.org/licenses/LZMA-SDK-9.22.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/LZMA-SDK-9.22.json",
-  "referenceNumber": 482,
+  "referenceNumber": 678,
   "name": "LZMA SDK License (versions 9.22 and beyond)",
   "licenseId": "LZMA-SDK-9.22",
   "seeAlso": [

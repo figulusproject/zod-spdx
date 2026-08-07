@@ -4,7 +4,7 @@ export const egenix: License = {
   "reference": "https://spdx.org/licenses/eGenix.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/eGenix.json",
-  "referenceNumber": 488,
+  "referenceNumber": 182,
   "name": "eGenix.com Public License 1.1.0",
   "licenseId": "eGenix",
   "seeAlso": [

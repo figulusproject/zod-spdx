@@ -4,7 +4,7 @@ export const mailprio: License = {
   "reference": "https://spdx.org/licenses/mailprio.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/mailprio.json",
-  "referenceNumber": 290,
+  "referenceNumber": 170,
   "name": "mailprio License",
   "licenseId": "mailprio",
   "seeAlso": [

@@ -4,7 +4,7 @@ export const mips: License = {
   "reference": "https://spdx.org/licenses/MIPS.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/MIPS.json",
-  "referenceNumber": 236,
+  "referenceNumber": 468,
   "name": "MIPS License",
   "licenseId": "MIPS",
   "seeAlso": [

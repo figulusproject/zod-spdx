@@ -4,7 +4,7 @@ export const man2html: License = {
   "reference": "https://spdx.org/licenses/man2html.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/man2html.json",
-  "referenceNumber": 207,
+  "referenceNumber": 562,
   "name": "man2html License",
   "licenseId": "man2html",
   "seeAlso": [

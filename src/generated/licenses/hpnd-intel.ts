@@ -4,7 +4,7 @@ export const hpnd_intel: License = {
   "reference": "https://spdx.org/licenses/HPND-Intel.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/HPND-Intel.json",
-  "referenceNumber": 662,
+  "referenceNumber": 625,
   "name": "Historical Permission Notice and Disclaimer - Intel variant",
   "licenseId": "HPND-Intel",
   "seeAlso": [

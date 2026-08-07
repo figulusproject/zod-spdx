@@ -4,7 +4,7 @@ export const ppl: License = {
   "reference": "https://spdx.org/licenses/PPL.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/PPL.json",
-  "referenceNumber": 211,
+  "referenceNumber": 658,
   "name": "Peer Production License",
   "licenseId": "PPL",
   "seeAlso": [

@@ -4,7 +4,7 @@ export const lgpl_2_0_or_later: License = {
   "reference": "https://spdx.org/licenses/LGPL-2.0-or-later.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/LGPL-2.0-or-later.json",
-  "referenceNumber": 343,
+  "referenceNumber": 706,
   "name": "GNU Library General Public License v2 or later",
   "licenseId": "LGPL-2.0-or-later",
   "seeAlso": [

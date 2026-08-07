@@ -4,7 +4,7 @@ export const cecill_c: License = {
   "reference": "https://spdx.org/licenses/CECILL-C.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/CECILL-C.json",
-  "referenceNumber": 136,
+  "referenceNumber": 49,
   "name": "CeCILL-C Free Software License Agreement",
   "licenseId": "CECILL-C",
   "seeAlso": [

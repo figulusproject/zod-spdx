@@ -4,7 +4,7 @@ export const bsd_mark_modifications: License = {
   "reference": "https://spdx.org/licenses/BSD-Mark-Modifications.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/BSD-Mark-Modifications.json",
-  "referenceNumber": 614,
+  "referenceNumber": 195,
   "name": "BSD Mark Modifications License",
   "licenseId": "BSD-Mark-Modifications",
   "seeAlso": [

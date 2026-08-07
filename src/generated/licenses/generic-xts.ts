@@ -4,7 +4,7 @@ export const generic_xts: License = {
   "reference": "https://spdx.org/licenses/generic-xts.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/generic-xts.json",
-  "referenceNumber": 698,
+  "referenceNumber": 167,
   "name": "Generic XTS License",
   "licenseId": "generic-xts",
   "seeAlso": [

@@ -4,7 +4,7 @@ export const oldap_2_2_2: License = {
   "reference": "https://spdx.org/licenses/OLDAP-2.2.2.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/OLDAP-2.2.2.json",
-  "referenceNumber": 608,
+  "referenceNumber": 423,
   "name": "Open LDAP Public License 2.2.2",
   "licenseId": "OLDAP-2.2.2",
   "seeAlso": [

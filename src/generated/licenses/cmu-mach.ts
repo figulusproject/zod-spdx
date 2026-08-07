@@ -4,7 +4,7 @@ export const cmu_mach: License = {
   "reference": "https://spdx.org/licenses/CMU-Mach.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/CMU-Mach.json",
-  "referenceNumber": 689,
+  "referenceNumber": 115,
   "name": "CMU Mach License",
   "licenseId": "CMU-Mach",
   "seeAlso": [

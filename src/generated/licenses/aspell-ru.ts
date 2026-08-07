@@ -4,7 +4,7 @@ export const aspell_ru: License = {
   "reference": "https://spdx.org/licenses/Aspell-RU.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/Aspell-RU.json",
-  "referenceNumber": 495,
+  "referenceNumber": 43,
   "name": "Aspell Russian License",
   "licenseId": "Aspell-RU",
   "seeAlso": [

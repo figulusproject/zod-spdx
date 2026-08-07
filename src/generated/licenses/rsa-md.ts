@@ -4,7 +4,7 @@ export const rsa_md: License = {
   "reference": "https://spdx.org/licenses/RSA-MD.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/RSA-MD.json",
-  "referenceNumber": 303,
+  "referenceNumber": 500,
   "name": "RSA Message-Digest License",
   "licenseId": "RSA-MD",
   "seeAlso": [

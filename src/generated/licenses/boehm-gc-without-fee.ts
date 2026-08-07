@@ -4,7 +4,7 @@ export const boehm_gc_without_fee: License = {
   "reference": "https://spdx.org/licenses/Boehm-GC-without-fee.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/Boehm-GC-without-fee.json",
-  "referenceNumber": 21,
+  "referenceNumber": 501,
   "name": "Boehm-Demers-Weiser GC License (without fee)",
   "licenseId": "Boehm-GC-without-fee",
   "seeAlso": [

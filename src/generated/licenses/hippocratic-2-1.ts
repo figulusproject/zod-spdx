@@ -4,7 +4,7 @@ export const hippocratic_2_1: License = {
   "reference": "https://spdx.org/licenses/Hippocratic-2.1.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/Hippocratic-2.1.json",
-  "referenceNumber": 129,
+  "referenceNumber": 682,
   "name": "Hippocratic License 2.1",
   "licenseId": "Hippocratic-2.1",
   "seeAlso": [

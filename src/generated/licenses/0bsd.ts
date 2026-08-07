@@ -4,12 +4,12 @@ export const _0bsd: License = {
   "reference": "https://spdx.org/licenses/0BSD.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/0BSD.json",
-  "referenceNumber": 459,
+  "referenceNumber": 627,
   "name": "BSD Zero Clause License",
   "licenseId": "0BSD",
   "seeAlso": [
     "http://landley.net/toybox/license.html",
-    "https://opensource.org/licenses/0BSD"
+    "https://opensource.org/license/0BSD"
   ],
   "isOsiApproved": true
 };

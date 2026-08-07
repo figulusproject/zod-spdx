@@ -4,7 +4,7 @@ export const bsd_2_clause_first_lines: License = {
   "reference": "https://spdx.org/licenses/BSD-2-Clause-first-lines.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/BSD-2-Clause-first-lines.json",
-  "referenceNumber": 562,
+  "referenceNumber": 575,
   "name": "BSD 2-Clause - first lines requirement",
   "licenseId": "BSD-2-Clause-first-lines",
   "seeAlso": [

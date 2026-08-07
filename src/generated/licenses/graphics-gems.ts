@@ -4,7 +4,7 @@ export const graphics_gems: License = {
   "reference": "https://spdx.org/licenses/Graphics-Gems.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/Graphics-Gems.json",
-  "referenceNumber": 30,
+  "referenceNumber": 364,
   "name": "Graphics Gems License",
   "licenseId": "Graphics-Gems",
   "seeAlso": [

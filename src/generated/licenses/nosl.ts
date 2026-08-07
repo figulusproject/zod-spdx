@@ -4,7 +4,7 @@ export const nosl: License = {
   "reference": "https://spdx.org/licenses/NOSL.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/NOSL.json",
-  "referenceNumber": 237,
+  "referenceNumber": 39,
   "name": "Netizen Open Source License",
   "licenseId": "NOSL",
   "seeAlso": [

@@ -4,11 +4,11 @@ export const ntp: License = {
   "reference": "https://spdx.org/licenses/NTP.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/NTP.json",
-  "referenceNumber": 502,
+  "referenceNumber": 18,
   "name": "NTP License",
   "licenseId": "NTP",
   "seeAlso": [
-    "https://opensource.org/licenses/NTP"
+    "https://opensource.org/license/NTP"
   ],
   "isOsiApproved": true
 };

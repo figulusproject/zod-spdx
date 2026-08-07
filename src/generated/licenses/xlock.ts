@@ -4,7 +4,7 @@ export const xlock: License = {
   "reference": "https://spdx.org/licenses/xlock.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/xlock.json",
-  "referenceNumber": 435,
+  "referenceNumber": 588,
   "name": "xlock License",
   "licenseId": "xlock",
   "seeAlso": [

@@ -4,7 +4,7 @@ export const dsdp: License = {
   "reference": "https://spdx.org/licenses/DSDP.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/DSDP.json",
-  "referenceNumber": 663,
+  "referenceNumber": 286,
   "name": "DSDP License",
   "licenseId": "DSDP",
   "seeAlso": [

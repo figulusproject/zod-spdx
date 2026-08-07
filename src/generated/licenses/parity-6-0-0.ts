@@ -4,7 +4,7 @@ export const parity_6_0_0: License = {
   "reference": "https://spdx.org/licenses/Parity-6.0.0.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/Parity-6.0.0.json",
-  "referenceNumber": 556,
+  "referenceNumber": 294,
   "name": "The Parity Public License 6.0.0",
   "licenseId": "Parity-6.0.0",
   "seeAlso": [

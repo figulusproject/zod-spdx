@@ -4,7 +4,7 @@ export const cornell_lossless_jpeg: License = {
   "reference": "https://spdx.org/licenses/Cornell-Lossless-JPEG.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/Cornell-Lossless-JPEG.json",
-  "referenceNumber": 184,
+  "referenceNumber": 509,
   "name": "Cornell Lossless JPEG License",
   "licenseId": "Cornell-Lossless-JPEG",
   "seeAlso": [

@@ -4,7 +4,7 @@ export const x11_swapped: License = {
   "reference": "https://spdx.org/licenses/X11-swapped.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/X11-swapped.json",
-  "referenceNumber": 543,
+  "referenceNumber": 416,
   "name": "X11 swapped final paragraphs",
   "licenseId": "X11-swapped",
   "seeAlso": [

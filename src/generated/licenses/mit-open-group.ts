@@ -4,7 +4,7 @@ export const mit_open_group: License = {
   "reference": "https://spdx.org/licenses/MIT-open-group.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/MIT-open-group.json",
-  "referenceNumber": 84,
+  "referenceNumber": 168,
   "name": "MIT Open Group variant",
   "licenseId": "MIT-open-group",
   "seeAlso": [

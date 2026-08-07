@@ -4,7 +4,7 @@ export const checkmk: License = {
   "reference": "https://spdx.org/licenses/checkmk.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/checkmk.json",
-  "referenceNumber": 725,
+  "referenceNumber": 60,
   "name": "Checkmk License",
   "licenseId": "checkmk",
   "seeAlso": [

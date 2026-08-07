@@ -4,7 +4,7 @@ export const hyphen_bulgarian: License = {
   "reference": "https://spdx.org/licenses/hyphen-bulgarian.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/hyphen-bulgarian.json",
-  "referenceNumber": 351,
+  "referenceNumber": 629,
   "name": "hyphen-bulgarian License",
   "licenseId": "hyphen-bulgarian",
   "seeAlso": [

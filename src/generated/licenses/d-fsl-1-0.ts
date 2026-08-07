@@ -4,7 +4,7 @@ export const d_fsl_1_0: License = {
   "reference": "https://spdx.org/licenses/D-FSL-1.0.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/D-FSL-1.0.json",
-  "referenceNumber": 128,
+  "referenceNumber": 239,
   "name": "Deutsche Freie Software Lizenz",
   "licenseId": "D-FSL-1.0",
   "seeAlso": [

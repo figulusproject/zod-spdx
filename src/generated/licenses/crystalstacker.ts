@@ -4,7 +4,7 @@ export const crystalstacker: License = {
   "reference": "https://spdx.org/licenses/CrystalStacker.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/CrystalStacker.json",
-  "referenceNumber": 609,
+  "referenceNumber": 153,
   "name": "CrystalStacker License",
   "licenseId": "CrystalStacker",
   "seeAlso": [

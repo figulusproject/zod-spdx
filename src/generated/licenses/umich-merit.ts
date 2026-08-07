@@ -4,7 +4,7 @@ export const umich_merit: License = {
   "reference": "https://spdx.org/licenses/UMich-Merit.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/UMich-Merit.json",
-  "referenceNumber": 385,
+  "referenceNumber": 406,
   "name": "Michigan/Merit Networks License",
   "licenseId": "UMich-Merit",
   "seeAlso": [

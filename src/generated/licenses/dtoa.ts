@@ -4,7 +4,7 @@ export const dtoa: License = {
   "reference": "https://spdx.org/licenses/dtoa.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/dtoa.json",
-  "referenceNumber": 208,
+  "referenceNumber": 438,
   "name": "David M. Gay dtoa License",
   "licenseId": "dtoa",
   "seeAlso": [

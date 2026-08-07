@@ -4,7 +4,7 @@ export const wtfpl: License = {
   "reference": "https://spdx.org/licenses/WTFPL.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/WTFPL.json",
-  "referenceNumber": 289,
+  "referenceNumber": 412,
   "name": "Do What The F*ck You Want To Public License",
   "licenseId": "WTFPL",
   "seeAlso": [

@@ -4,11 +4,11 @@ export const aal: License = {
   "reference": "https://spdx.org/licenses/AAL.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/AAL.json",
-  "referenceNumber": 314,
+  "referenceNumber": 23,
   "name": "Attribution Assurance License",
   "licenseId": "AAL",
   "seeAlso": [
-    "https://opensource.org/licenses/attribution"
+    "https://opensource.org/license/AAL"
   ],
   "isOsiApproved": true
 };

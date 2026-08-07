@@ -4,7 +4,7 @@ export const etalab_2_0: License = {
   "reference": "https://spdx.org/licenses/etalab-2.0.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/etalab-2.0.json",
-  "referenceNumber": 703,
+  "referenceNumber": 250,
   "name": "Etalab Open License 2.0",
   "licenseId": "etalab-2.0",
   "seeAlso": [

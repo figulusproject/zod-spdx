@@ -4,7 +4,7 @@ export const swrule: License = {
   "reference": "https://spdx.org/licenses/swrule.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/swrule.json",
-  "referenceNumber": 567,
+  "referenceNumber": 287,
   "name": "swrule License",
   "licenseId": "swrule",
   "seeAlso": [

@@ -4,7 +4,7 @@ export const fsfullr: License = {
   "reference": "https://spdx.org/licenses/FSFULLR.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/FSFULLR.json",
-  "referenceNumber": 629,
+  "referenceNumber": 22,
   "name": "FSF Unlimited License (with License Retention)",
   "licenseId": "FSFULLR",
   "seeAlso": [

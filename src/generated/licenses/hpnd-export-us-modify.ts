@@ -4,7 +4,7 @@ export const hpnd_export_us_modify: License = {
   "reference": "https://spdx.org/licenses/HPND-export-US-modify.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/HPND-export-US-modify.json",
-  "referenceNumber": 97,
+  "referenceNumber": 596,
   "name": "HPND with US Government export control warning and modification rqmt",
   "licenseId": "HPND-export-US-modify",
   "seeAlso": [

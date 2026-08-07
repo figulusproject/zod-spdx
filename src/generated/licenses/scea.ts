@@ -4,7 +4,7 @@ export const scea: License = {
   "reference": "https://spdx.org/licenses/SCEA.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/SCEA.json",
-  "referenceNumber": 531,
+  "referenceNumber": 304,
   "name": "SCEA Shared Source License",
   "licenseId": "SCEA",
   "seeAlso": [

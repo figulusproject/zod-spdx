@@ -4,7 +4,7 @@ export const arphic_1999: License = {
   "reference": "https://spdx.org/licenses/Arphic-1999.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/Arphic-1999.json",
-  "referenceNumber": 347,
+  "referenceNumber": 128,
   "name": "Arphic Public License",
   "licenseId": "Arphic-1999",
   "seeAlso": [

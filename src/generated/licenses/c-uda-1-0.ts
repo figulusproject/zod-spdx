@@ -4,7 +4,7 @@ export const c_uda_1_0: License = {
   "reference": "https://spdx.org/licenses/C-UDA-1.0.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/C-UDA-1.0.json",
-  "referenceNumber": 560,
+  "referenceNumber": 306,
   "name": "Computational Use of Data Agreement v1.0",
   "licenseId": "C-UDA-1.0",
   "seeAlso": [

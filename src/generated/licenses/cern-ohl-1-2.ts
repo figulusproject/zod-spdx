@@ -4,7 +4,7 @@ export const cern_ohl_1_2: License = {
   "reference": "https://spdx.org/licenses/CERN-OHL-1.2.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/CERN-OHL-1.2.json",
-  "referenceNumber": 46,
+  "referenceNumber": 198,
   "name": "CERN Open Hardware Licence v1.2",
   "licenseId": "CERN-OHL-1.2",
   "seeAlso": [

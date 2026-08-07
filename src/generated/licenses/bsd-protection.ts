@@ -4,7 +4,7 @@ export const bsd_protection: License = {
   "reference": "https://spdx.org/licenses/BSD-Protection.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/BSD-Protection.json",
-  "referenceNumber": 399,
+  "referenceNumber": 343,
   "name": "BSD Protection License",
   "licenseId": "BSD-Protection",
   "seeAlso": [

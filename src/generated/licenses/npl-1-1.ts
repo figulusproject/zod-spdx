@@ -4,7 +4,7 @@ export const npl_1_1: License = {
   "reference": "https://spdx.org/licenses/NPL-1.1.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/NPL-1.1.json",
-  "referenceNumber": 179,
+  "referenceNumber": 670,
   "name": "Netscape Public License v1.1",
   "licenseId": "NPL-1.1",
   "seeAlso": [

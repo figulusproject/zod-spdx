@@ -4,7 +4,7 @@ export const knuth_ctan: License = {
   "reference": "https://spdx.org/licenses/Knuth-CTAN.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/Knuth-CTAN.json",
-  "referenceNumber": 39,
+  "referenceNumber": 180,
   "name": "Knuth CTAN License",
   "licenseId": "Knuth-CTAN",
   "seeAlso": [

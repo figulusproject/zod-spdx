@@ -4,7 +4,7 @@ export const docbook_xml: License = {
   "reference": "https://spdx.org/licenses/DocBook-XML.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/DocBook-XML.json",
-  "referenceNumber": 195,
+  "referenceNumber": 375,
   "name": "DocBook XML License",
   "licenseId": "DocBook-XML",
   "seeAlso": [

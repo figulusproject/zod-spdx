@@ -4,7 +4,7 @@ export const bsd_3_clause_attribution: License = {
   "reference": "https://spdx.org/licenses/BSD-3-Clause-Attribution.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/BSD-3-Clause-Attribution.json",
-  "referenceNumber": 95,
+  "referenceNumber": 137,
   "name": "BSD with attribution",
   "licenseId": "BSD-3-Clause-Attribution",
   "seeAlso": [

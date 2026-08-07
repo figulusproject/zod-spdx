@@ -4,7 +4,7 @@ export const lpd_document: License = {
   "reference": "https://spdx.org/licenses/LPD-document.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/LPD-document.json",
-  "referenceNumber": 722,
+  "referenceNumber": 640,
   "name": "LPD Documentation License",
   "licenseId": "LPD-document",
   "seeAlso": [

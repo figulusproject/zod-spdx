@@ -4,7 +4,7 @@ export const bsd_source_beginning_file: License = {
   "reference": "https://spdx.org/licenses/BSD-Source-beginning-file.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/BSD-Source-beginning-file.json",
-  "referenceNumber": 167,
+  "referenceNumber": 722,
   "name": "BSD Source Code Attribution - beginning of file variant",
   "licenseId": "BSD-Source-beginning-file",
   "seeAlso": [

@@ -4,7 +4,7 @@ export const ypl_1_1: License = {
   "reference": "https://spdx.org/licenses/YPL-1.1.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/YPL-1.1.json",
-  "referenceNumber": 141,
+  "referenceNumber": 139,
   "name": "Yahoo! Public License v1.1",
   "licenseId": "YPL-1.1",
   "seeAlso": [

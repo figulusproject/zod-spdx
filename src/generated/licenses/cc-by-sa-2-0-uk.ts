@@ -4,7 +4,7 @@ export const cc_by_sa_2_0_uk: License = {
   "reference": "https://spdx.org/licenses/CC-BY-SA-2.0-UK.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/CC-BY-SA-2.0-UK.json",
-  "referenceNumber": 383,
+  "referenceNumber": 296,
   "name": "Creative Commons Attribution Share Alike 2.0 England and Wales",
   "licenseId": "CC-BY-SA-2.0-UK",
   "seeAlso": [

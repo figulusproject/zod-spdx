@@ -4,7 +4,7 @@ export const bsd_4_3tahoe: License = {
   "reference": "https://spdx.org/licenses/BSD-4.3TAHOE.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/BSD-4.3TAHOE.json",
-  "referenceNumber": 376,
+  "referenceNumber": 64,
   "name": "BSD 4.3 TAHOE License",
   "licenseId": "BSD-4.3TAHOE",
   "seeAlso": [
