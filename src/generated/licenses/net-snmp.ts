@@ -4,7 +4,7 @@ export const net_snmp: License = {
   "reference": "https://spdx.org/licenses/Net-SNMP.html",
   "isDeprecatedLicenseId": true,
   "detailsUrl": "https://spdx.org/licenses/Net-SNMP.json",
-  "referenceNumber": 389,
+  "referenceNumber": 9,
   "name": "Net-SNMP License",
   "licenseId": "Net-SNMP",
   "seeAlso": [

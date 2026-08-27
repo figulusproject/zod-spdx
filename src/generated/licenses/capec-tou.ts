@@ -4,7 +4,7 @@ export const capec_tou: License = {
   "reference": "https://spdx.org/licenses/CAPEC-tou.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/CAPEC-tou.json",
-  "referenceNumber": 386,
+  "referenceNumber": 456,
   "name": "Common Attack    Pattern Enumeration and Classification License",
   "licenseId": "CAPEC-tou",
   "seeAlso": [

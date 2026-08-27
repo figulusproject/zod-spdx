@@ -4,7 +4,7 @@ export const furuseth: License = {
   "reference": "https://spdx.org/licenses/Furuseth.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/Furuseth.json",
-  "referenceNumber": 1,
+  "referenceNumber": 360,
   "name": "Furuseth License",
   "licenseId": "Furuseth",
   "seeAlso": [

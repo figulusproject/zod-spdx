@@ -4,7 +4,7 @@ export const openpbs_2_3: License = {
   "reference": "https://spdx.org/licenses/OpenPBS-2.3.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/OpenPBS-2.3.json",
-  "referenceNumber": 710,
+  "referenceNumber": 614,
   "name": "OpenPBS v2.3 Software License",
   "licenseId": "OpenPBS-2.3",
   "seeAlso": [

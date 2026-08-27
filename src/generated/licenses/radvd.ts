@@ -4,7 +4,7 @@ export const radvd: License = {
   "reference": "https://spdx.org/licenses/radvd.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/radvd.json",
-  "referenceNumber": 155,
+  "referenceNumber": 511,
   "name": "radvd License",
   "licenseId": "radvd",
   "seeAlso": [

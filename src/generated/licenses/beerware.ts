@@ -4,7 +4,7 @@ export const beerware: License = {
   "reference": "https://spdx.org/licenses/Beerware.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/Beerware.json",
-  "referenceNumber": 226,
+  "referenceNumber": 299,
   "name": "Beerware License",
   "licenseId": "Beerware",
   "seeAlso": [

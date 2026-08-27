@@ -4,7 +4,7 @@ export const epics: License = {
   "reference": "https://spdx.org/licenses/EPICS.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/EPICS.json",
-  "referenceNumber": 215,
+  "referenceNumber": 111,
   "name": "EPICS Open License",
   "licenseId": "EPICS",
   "seeAlso": [

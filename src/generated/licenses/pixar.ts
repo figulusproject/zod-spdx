@@ -4,7 +4,7 @@ export const pixar: License = {
   "reference": "https://spdx.org/licenses/Pixar.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/Pixar.json",
-  "referenceNumber": 647,
+  "referenceNumber": 566,
   "name": "Pixar License",
   "licenseId": "Pixar",
   "seeAlso": [

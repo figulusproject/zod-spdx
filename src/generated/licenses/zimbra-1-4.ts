@@ -4,7 +4,7 @@ export const zimbra_1_4: License = {
   "reference": "https://spdx.org/licenses/Zimbra-1.4.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/Zimbra-1.4.json",
-  "referenceNumber": 429,
+  "referenceNumber": 582,
   "name": "Zimbra Public License v1.4",
   "licenseId": "Zimbra-1.4",
   "seeAlso": [

@@ -4,7 +4,7 @@ export const apl_1_0: License = {
   "reference": "https://spdx.org/licenses/APL-1.0.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/APL-1.0.json",
-  "referenceNumber": 623,
+  "referenceNumber": 441,
   "name": "Adaptive Public License 1.0",
   "licenseId": "APL-1.0",
   "seeAlso": [

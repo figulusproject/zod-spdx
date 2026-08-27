@@ -4,7 +4,7 @@ export const odbl_1_0: License = {
   "reference": "https://spdx.org/licenses/ODbL-1.0.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/ODbL-1.0.json",
-  "referenceNumber": 667,
+  "referenceNumber": 365,
   "name": "Open Data Commons Open Database License v1.0",
   "licenseId": "ODbL-1.0",
   "seeAlso": [

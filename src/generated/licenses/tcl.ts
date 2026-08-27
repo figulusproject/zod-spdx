@@ -4,7 +4,7 @@ export const tcl: License = {
   "reference": "https://spdx.org/licenses/TCL.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/TCL.json",
-  "referenceNumber": 102,
+  "referenceNumber": 727,
   "name": "TCL/TK License",
   "licenseId": "TCL",
   "seeAlso": [

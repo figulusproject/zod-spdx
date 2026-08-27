@@ -4,7 +4,7 @@ export const buddy: License = {
   "reference": "https://spdx.org/licenses/Buddy.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/Buddy.json",
-  "referenceNumber": 181,
+  "referenceNumber": 109,
   "name": "Buddy License",
   "licenseId": "Buddy",
   "seeAlso": [

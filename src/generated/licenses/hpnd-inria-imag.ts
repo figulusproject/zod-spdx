@@ -4,7 +4,7 @@ export const hpnd_inria_imag: License = {
   "reference": "https://spdx.org/licenses/HPND-INRIA-IMAG.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/HPND-INRIA-IMAG.json",
-  "referenceNumber": 106,
+  "referenceNumber": 337,
   "name": "Historical Permission Notice and Disclaimer    - INRIA-IMAG variant",
   "licenseId": "HPND-INRIA-IMAG",
   "seeAlso": [

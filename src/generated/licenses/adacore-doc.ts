@@ -4,7 +4,7 @@ export const adacore_doc: License = {
   "reference": "https://spdx.org/licenses/AdaCore-doc.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/AdaCore-doc.json",
-  "referenceNumber": 342,
+  "referenceNumber": 681,
   "name": "AdaCore Doc License",
   "licenseId": "AdaCore-doc",
   "seeAlso": [

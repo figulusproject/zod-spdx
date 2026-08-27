@@ -4,7 +4,7 @@ export const eudatagrid: License = {
   "reference": "https://spdx.org/licenses/EUDatagrid.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/EUDatagrid.json",
-  "referenceNumber": 544,
+  "referenceNumber": 67,
   "name": "EU DataGrid Software License",
   "licenseId": "EUDatagrid",
   "seeAlso": [

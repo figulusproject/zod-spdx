@@ -4,7 +4,7 @@ export const zlib_acknowledgement: License = {
   "reference": "https://spdx.org/licenses/zlib-acknowledgement.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/zlib-acknowledgement.json",
-  "referenceNumber": 100,
+  "referenceNumber": 314,
   "name": "zlib/libpng License with Acknowledgement",
   "licenseId": "zlib-acknowledgement",
   "seeAlso": [

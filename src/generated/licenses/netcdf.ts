@@ -4,7 +4,7 @@ export const netcdf: License = {
   "reference": "https://spdx.org/licenses/NetCDF.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/NetCDF.json",
-  "referenceNumber": 3,
+  "referenceNumber": 156,
   "name": "NetCDF license",
   "licenseId": "NetCDF",
   "seeAlso": [

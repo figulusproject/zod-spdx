@@ -4,7 +4,7 @@ export const bzip2_1_0_6: License = {
   "reference": "https://spdx.org/licenses/bzip2-1.0.6.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/bzip2-1.0.6.json",
-  "referenceNumber": 317,
+  "referenceNumber": 104,
   "name": "bzip2 and libbzip2 License v1.0.6",
   "licenseId": "bzip2-1.0.6",
   "seeAlso": [

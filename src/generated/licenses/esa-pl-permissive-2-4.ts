@@ -4,7 +4,7 @@ export const esa_pl_permissive_2_4: License = {
   "reference": "https://spdx.org/licenses/ESA-PL-permissive-2.4.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/ESA-PL-permissive-2.4.json",
-  "referenceNumber": 489,
+  "referenceNumber": 198,
   "name": "European Space Agency Public License – v2.4 – Permissive (Type 3)",
   "licenseId": "ESA-PL-permissive-2.4",
   "seeAlso": [

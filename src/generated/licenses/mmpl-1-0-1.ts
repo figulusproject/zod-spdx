@@ -4,7 +4,7 @@ export const mmpl_1_0_1: License = {
   "reference": "https://spdx.org/licenses/MMPL-1.0.1.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/MMPL-1.0.1.json",
-  "referenceNumber": 595,
+  "referenceNumber": 90,
   "name": "Minecraft Mod Public License v1.0.1",
   "licenseId": "MMPL-1.0.1",
   "seeAlso": [

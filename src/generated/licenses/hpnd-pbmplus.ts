@@ -4,7 +4,7 @@ export const hpnd_pbmplus: License = {
   "reference": "https://spdx.org/licenses/HPND-Pbmplus.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/HPND-Pbmplus.json",
-  "referenceNumber": 348,
+  "referenceNumber": 292,
   "name": "Historical Permission Notice and Disclaimer - Pbmplus variant",
   "licenseId": "HPND-Pbmplus",
   "seeAlso": [

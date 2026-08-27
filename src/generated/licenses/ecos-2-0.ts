@@ -4,7 +4,7 @@ export const ecos_2_0: License = {
   "reference": "https://spdx.org/licenses/eCos-2.0.html",
   "isDeprecatedLicenseId": true,
   "detailsUrl": "https://spdx.org/licenses/eCos-2.0.json",
-  "referenceNumber": 158,
+  "referenceNumber": 736,
   "name": "eCos license version 2.0",
   "licenseId": "eCos-2.0",
   "seeAlso": [

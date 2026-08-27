@@ -4,7 +4,7 @@ export const bsd_2_clause_netbsd: License = {
   "reference": "https://spdx.org/licenses/BSD-2-Clause-NetBSD.html",
   "isDeprecatedLicenseId": true,
   "detailsUrl": "https://spdx.org/licenses/BSD-2-Clause-NetBSD.json",
-  "referenceNumber": 56,
+  "referenceNumber": 571,
   "name": "BSD 2-Clause NetBSD License",
   "licenseId": "BSD-2-Clause-NetBSD",
   "seeAlso": [

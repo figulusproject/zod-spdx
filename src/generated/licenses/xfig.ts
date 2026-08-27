@@ -4,7 +4,7 @@ export const xfig: License = {
   "reference": "https://spdx.org/licenses/Xfig.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/Xfig.json",
-  "referenceNumber": 548,
+  "referenceNumber": 54,
   "name": "Xfig License",
   "licenseId": "Xfig",
   "seeAlso": [

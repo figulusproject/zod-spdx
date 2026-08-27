@@ -4,7 +4,7 @@ export const opl_1_0: License = {
   "reference": "https://spdx.org/licenses/OPL-1.0.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/OPL-1.0.json",
-  "referenceNumber": 680,
+  "referenceNumber": 682,
   "name": "Open Public License v1.0",
   "licenseId": "OPL-1.0",
   "seeAlso": [

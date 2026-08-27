@@ -4,7 +4,7 @@ export const freeimage: License = {
   "reference": "https://spdx.org/licenses/FreeImage.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/FreeImage.json",
-  "referenceNumber": 535,
+  "referenceNumber": 232,
   "name": "FreeImage Public License v1.0",
   "licenseId": "FreeImage",
   "seeAlso": [

@@ -4,7 +4,7 @@ export const bsd_3_clause_sun: License = {
   "reference": "https://spdx.org/licenses/BSD-3-Clause-Sun.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/BSD-3-Clause-Sun.json",
-  "referenceNumber": 543,
+  "referenceNumber": 408,
   "name": "BSD 3-Clause Sun Microsystems",
   "licenseId": "BSD-3-Clause-Sun",
   "seeAlso": [

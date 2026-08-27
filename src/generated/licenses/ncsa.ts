@@ -4,7 +4,7 @@ export const ncsa: License = {
   "reference": "https://spdx.org/licenses/NCSA.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/NCSA.json",
-  "referenceNumber": 236,
+  "referenceNumber": 332,
   "name": "University of Illinois/NCSA Open Source License",
   "licenseId": "NCSA",
   "seeAlso": [

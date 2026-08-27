@@ -4,7 +4,7 @@ export const agpl_3_0_or_later: License = {
   "reference": "https://spdx.org/licenses/AGPL-3.0-or-later.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/AGPL-3.0-or-later.json",
-  "referenceNumber": 455,
+  "referenceNumber": 730,
   "name": "GNU Affero General Public License v3.0 or later",
   "licenseId": "AGPL-3.0-or-later",
   "seeAlso": [

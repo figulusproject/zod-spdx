@@ -4,7 +4,7 @@ export const fsfullrwd: License = {
   "reference": "https://spdx.org/licenses/FSFULLRWD.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/FSFULLRWD.json",
-  "referenceNumber": 242,
+  "referenceNumber": 695,
   "name": "FSF Unlimited License (With License Retention and Warranty Disclaimer)",
   "licenseId": "FSFULLRWD",
   "seeAlso": [

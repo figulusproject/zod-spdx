@@ -4,7 +4,7 @@ export const docbook_dtd: License = {
   "reference": "https://spdx.org/licenses/DocBook-DTD.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/DocBook-DTD.json",
-  "referenceNumber": 636,
+  "referenceNumber": 644,
   "name": "DocBook DTD License",
   "licenseId": "DocBook-DTD",
   "seeAlso": [

@@ -4,7 +4,7 @@ export const bsd_attribution_hpnd_disclaimer: License = {
   "reference": "https://spdx.org/licenses/BSD-Attribution-HPND-disclaimer.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/BSD-Attribution-HPND-disclaimer.json",
-  "referenceNumber": 695,
+  "referenceNumber": 159,
   "name": "BSD with Attribution and HPND disclaimer",
   "licenseId": "BSD-Attribution-HPND-disclaimer",
   "seeAlso": [

@@ -4,7 +4,7 @@ export const bsd_3_clause_flex: License = {
   "reference": "https://spdx.org/licenses/BSD-3-Clause-flex.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/BSD-3-Clause-flex.json",
-  "referenceNumber": 266,
+  "referenceNumber": 565,
   "name": "BSD 3-Clause Flex variant",
   "licenseId": "BSD-3-Clause-flex",
   "seeAlso": [

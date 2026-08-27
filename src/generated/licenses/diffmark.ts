@@ -4,7 +4,7 @@ export const diffmark: License = {
   "reference": "https://spdx.org/licenses/diffmark.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/diffmark.json",
-  "referenceNumber": 561,
+  "referenceNumber": 559,
   "name": "diffmark license",
   "licenseId": "diffmark",
   "seeAlso": [

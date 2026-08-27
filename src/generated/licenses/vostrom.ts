@@ -4,7 +4,7 @@ export const vostrom: License = {
   "reference": "https://spdx.org/licenses/VOSTROM.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/VOSTROM.json",
-  "referenceNumber": 603,
+  "referenceNumber": 484,
   "name": "VOSTROM Public License for Open Source",
   "licenseId": "VOSTROM",
   "seeAlso": [

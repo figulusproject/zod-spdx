@@ -4,7 +4,7 @@ export const ofl_1_0_no_rfn: License = {
   "reference": "https://spdx.org/licenses/OFL-1.0-no-RFN.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/OFL-1.0-no-RFN.json",
-  "referenceNumber": 593,
+  "referenceNumber": 666,
   "name": "SIL Open Font License 1.0 with no Reserved Font Name",
   "licenseId": "OFL-1.0-no-RFN",
   "seeAlso": [

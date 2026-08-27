@@ -4,7 +4,7 @@ export const nlod_2_0: License = {
   "reference": "https://spdx.org/licenses/NLOD-2.0.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/NLOD-2.0.json",
-  "referenceNumber": 78,
+  "referenceNumber": 22,
   "name": "Norwegian Licence for Open Government Data (NLOD) 2.0",
   "licenseId": "NLOD-2.0",
   "seeAlso": [

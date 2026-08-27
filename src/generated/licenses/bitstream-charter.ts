@@ -4,7 +4,7 @@ export const bitstream_charter: License = {
   "reference": "https://spdx.org/licenses/Bitstream-Charter.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/Bitstream-Charter.json",
-  "referenceNumber": 660,
+  "referenceNumber": 322,
   "name": "Bitstream Charter Font License",
   "licenseId": "Bitstream-Charter",
   "seeAlso": [

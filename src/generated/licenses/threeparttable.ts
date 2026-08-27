@@ -4,7 +4,7 @@ export const threeparttable: License = {
   "reference": "https://spdx.org/licenses/threeparttable.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/threeparttable.json",
-  "referenceNumber": 368,
+  "referenceNumber": 151,
   "name": "threeparttable License",
   "licenseId": "threeparttable",
   "seeAlso": [

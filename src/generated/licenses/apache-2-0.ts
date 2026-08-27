@@ -4,7 +4,7 @@ export const apache_2_0: License = {
   "reference": "https://spdx.org/licenses/Apache-2.0.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/Apache-2.0.json",
-  "referenceNumber": 505,
+  "referenceNumber": 517,
   "name": "Apache License 2.0",
   "licenseId": "Apache-2.0",
   "seeAlso": [

@@ -4,7 +4,7 @@ export const ms_lpl: License = {
   "reference": "https://spdx.org/licenses/MS-LPL.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/MS-LPL.json",
-  "referenceNumber": 518,
+  "referenceNumber": 122,
   "name": "Microsoft Limited Public License",
   "licenseId": "MS-LPL",
   "seeAlso": [

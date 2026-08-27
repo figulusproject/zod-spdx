@@ -4,7 +4,7 @@ export const smlnj: License = {
   "reference": "https://spdx.org/licenses/SMLNJ.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/SMLNJ.json",
-  "referenceNumber": 428,
+  "referenceNumber": 64,
   "name": "Standard ML of New Jersey License",
   "licenseId": "SMLNJ",
   "seeAlso": [

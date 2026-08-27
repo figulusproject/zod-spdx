@@ -4,7 +4,7 @@ export const php_3_0: License = {
   "reference": "https://spdx.org/licenses/PHP-3.0.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/PHP-3.0.json",
-  "referenceNumber": 525,
+  "referenceNumber": 94,
   "name": "PHP License v3.0",
   "licenseId": "PHP-3.0",
   "seeAlso": [

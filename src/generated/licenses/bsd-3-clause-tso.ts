@@ -4,7 +4,7 @@ export const bsd_3_clause_tso: License = {
   "reference": "https://spdx.org/licenses/BSD-3-Clause-Tso.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/BSD-3-Clause-Tso.json",
-  "referenceNumber": 556,
+  "referenceNumber": 231,
   "name": "BSD 3-Clause Tso variant",
   "licenseId": "BSD-3-Clause-Tso",
   "seeAlso": [

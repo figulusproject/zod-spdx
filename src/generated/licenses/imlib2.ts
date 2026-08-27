@@ -4,7 +4,7 @@ export const imlib2: License = {
   "reference": "https://spdx.org/licenses/Imlib2.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/Imlib2.json",
-  "referenceNumber": 299,
+  "referenceNumber": 713,
   "name": "Imlib2 License",
   "licenseId": "Imlib2",
   "seeAlso": [

@@ -4,7 +4,7 @@ export const liliq_p_1_1: License = {
   "reference": "https://spdx.org/licenses/LiLiQ-P-1.1.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/LiLiQ-P-1.1.json",
-  "referenceNumber": 225,
+  "referenceNumber": 253,
   "name": "Licence Libre du Québec – Permissive version 1.1",
   "licenseId": "LiLiQ-P-1.1",
   "seeAlso": [

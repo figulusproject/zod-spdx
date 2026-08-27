@@ -4,7 +4,7 @@ export const dotseqn: License = {
   "reference": "https://spdx.org/licenses/Dotseqn.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/Dotseqn.json",
-  "referenceNumber": 213,
+  "referenceNumber": 474,
   "name": "Dotseqn License",
   "licenseId": "Dotseqn",
   "seeAlso": [

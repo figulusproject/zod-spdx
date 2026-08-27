@@ -4,7 +4,7 @@ export const ncgl_uk_2_0: License = {
   "reference": "https://spdx.org/licenses/NCGL-UK-2.0.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/NCGL-UK-2.0.json",
-  "referenceNumber": 276,
+  "referenceNumber": 598,
   "name": "Non-Commercial Government Licence",
   "licenseId": "NCGL-UK-2.0",
   "seeAlso": [

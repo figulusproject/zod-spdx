@@ -4,7 +4,7 @@ export const openssl: License = {
   "reference": "https://spdx.org/licenses/OpenSSL.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/OpenSSL.json",
-  "referenceNumber": 125,
+  "referenceNumber": 21,
   "name": "OpenSSL License",
   "licenseId": "OpenSSL",
   "seeAlso": [

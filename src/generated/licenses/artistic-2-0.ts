@@ -4,7 +4,7 @@ export const artistic_2_0: License = {
   "reference": "https://spdx.org/licenses/Artistic-2.0.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/Artistic-2.0.json",
-  "referenceNumber": 332,
+  "referenceNumber": 539,
   "name": "Artistic License 2.0",
   "licenseId": "Artistic-2.0",
   "seeAlso": [

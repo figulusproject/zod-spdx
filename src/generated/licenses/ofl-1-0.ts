@@ -4,7 +4,7 @@ export const ofl_1_0: License = {
   "reference": "https://spdx.org/licenses/OFL-1.0.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/OFL-1.0.json",
-  "referenceNumber": 157,
+  "referenceNumber": 57,
   "name": "SIL Open Font License 1.0",
   "licenseId": "OFL-1.0",
   "seeAlso": [

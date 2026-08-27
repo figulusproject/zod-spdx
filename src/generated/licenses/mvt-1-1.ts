@@ -4,7 +4,7 @@ export const mvt_1_1: License = {
   "reference": "https://spdx.org/licenses/MVT-1.1.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/MVT-1.1.json",
-  "referenceNumber": 138,
+  "referenceNumber": 220,
   "name": "MVT License 1.1",
   "licenseId": "MVT-1.1",
   "seeAlso": [

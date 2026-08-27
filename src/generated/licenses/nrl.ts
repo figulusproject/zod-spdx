@@ -4,7 +4,7 @@ export const nrl: License = {
   "reference": "https://spdx.org/licenses/NRL.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/NRL.json",
-  "referenceNumber": 255,
+  "referenceNumber": 328,
   "name": "NRL License",
   "licenseId": "NRL",
   "seeAlso": [

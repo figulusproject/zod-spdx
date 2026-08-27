@@ -4,7 +4,7 @@ export const openvision: License = {
   "reference": "https://spdx.org/licenses/OpenVision.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/OpenVision.json",
-  "referenceNumber": 447,
+  "referenceNumber": 11,
   "name": "OpenVision License",
   "licenseId": "OpenVision",
   "seeAlso": [

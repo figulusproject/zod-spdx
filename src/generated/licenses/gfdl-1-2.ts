@@ -4,7 +4,7 @@ export const gfdl_1_2: License = {
   "reference": "https://spdx.org/licenses/GFDL-1.2.html",
   "isDeprecatedLicenseId": true,
   "detailsUrl": "https://spdx.org/licenses/GFDL-1.2.json",
-  "referenceNumber": 77,
+  "referenceNumber": 216,
   "name": "GNU Free Documentation License v1.2",
   "licenseId": "GFDL-1.2",
   "seeAlso": [

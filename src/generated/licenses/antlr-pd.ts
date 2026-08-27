@@ -4,7 +4,7 @@ export const antlr_pd: License = {
   "reference": "https://spdx.org/licenses/ANTLR-PD.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/ANTLR-PD.json",
-  "referenceNumber": 245,
+  "referenceNumber": 150,
   "name": "ANTLR Software Rights Notice",
   "licenseId": "ANTLR-PD",
   "seeAlso": [

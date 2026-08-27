@@ -4,7 +4,7 @@ export const hpnd_sell_regexpr: License = {
   "reference": "https://spdx.org/licenses/HPND-sell-regexpr.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/HPND-sell-regexpr.json",
-  "referenceNumber": 237,
+  "referenceNumber": 652,
   "name": "Historical Permission Notice and Disclaimer - sell regexpr variant",
   "licenseId": "HPND-sell-regexpr",
   "seeAlso": [

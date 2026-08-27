@@ -4,7 +4,7 @@ export const docbook_stylesheet: License = {
   "reference": "https://spdx.org/licenses/DocBook-Stylesheet.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/DocBook-Stylesheet.json",
-  "referenceNumber": 589,
+  "referenceNumber": 577,
   "name": "DocBook Stylesheet License",
   "licenseId": "DocBook-Stylesheet",
   "seeAlso": [

@@ -4,7 +4,7 @@ export const advanced_cryptics_dictionary: License = {
   "reference": "https://spdx.org/licenses/Advanced-Cryptics-Dictionary.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/Advanced-Cryptics-Dictionary.json",
-  "referenceNumber": 136,
+  "referenceNumber": 732,
   "name": "Advanced Cryptics Dictionary License",
   "licenseId": "Advanced-Cryptics-Dictionary",
   "seeAlso": [

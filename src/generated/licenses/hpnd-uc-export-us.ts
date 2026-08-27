@@ -4,7 +4,7 @@ export const hpnd_uc_export_us: License = {
   "reference": "https://spdx.org/licenses/HPND-UC-export-US.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/HPND-UC-export-US.json",
-  "referenceNumber": 339,
+  "referenceNumber": 105,
   "name": "Historical Permission Notice and Disclaimer - University of California, US export warning",
   "licenseId": "HPND-UC-export-US",
   "seeAlso": [

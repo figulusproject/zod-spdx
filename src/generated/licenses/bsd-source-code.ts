@@ -4,7 +4,7 @@ export const bsd_source_code: License = {
   "reference": "https://spdx.org/licenses/BSD-Source-Code.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/BSD-Source-Code.json",
-  "referenceNumber": 408,
+  "referenceNumber": 649,
   "name": "BSD Source Code Attribution",
   "licenseId": "BSD-Source-Code",
   "seeAlso": [

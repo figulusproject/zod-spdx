@@ -4,7 +4,7 @@ export const any_osi: License = {
   "reference": "https://spdx.org/licenses/any-OSI.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/any-OSI.json",
-  "referenceNumber": 205,
+  "referenceNumber": 308,
   "name": "Any OSI License",
   "licenseId": "any-OSI",
   "seeAlso": [

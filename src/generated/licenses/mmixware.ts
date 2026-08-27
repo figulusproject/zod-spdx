@@ -4,7 +4,7 @@ export const mmixware: License = {
   "reference": "https://spdx.org/licenses/MMIXware.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/MMIXware.json",
-  "referenceNumber": 395,
+  "referenceNumber": 290,
   "name": "MMIXware License",
   "licenseId": "MMIXware",
   "seeAlso": [

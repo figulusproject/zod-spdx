@@ -4,7 +4,7 @@ export const mpeg_ssg: License = {
   "reference": "https://spdx.org/licenses/MPEG-SSG.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/MPEG-SSG.json",
-  "referenceNumber": 421,
+  "referenceNumber": 89,
   "name": "MPEG Software Simulation",
   "licenseId": "MPEG-SSG",
   "seeAlso": [

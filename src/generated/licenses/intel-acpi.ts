@@ -4,7 +4,7 @@ export const intel_acpi: License = {
   "reference": "https://spdx.org/licenses/Intel-ACPI.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/Intel-ACPI.json",
-  "referenceNumber": 582,
+  "referenceNumber": 206,
   "name": "Intel ACPI Software License Agreement",
   "licenseId": "Intel-ACPI",
   "seeAlso": [

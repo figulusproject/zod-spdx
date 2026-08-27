@@ -4,7 +4,7 @@ export const mit_feh: License = {
   "reference": "https://spdx.org/licenses/MIT-feh.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/MIT-feh.json",
-  "referenceNumber": 240,
+  "referenceNumber": 532,
   "name": "feh License",
   "licenseId": "MIT-feh",
   "seeAlso": [

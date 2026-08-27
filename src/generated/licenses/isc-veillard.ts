@@ -4,7 +4,7 @@ export const isc_veillard: License = {
   "reference": "https://spdx.org/licenses/ISC-Veillard.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/ISC-Veillard.json",
-  "referenceNumber": 32,
+  "referenceNumber": 49,
   "name": "ISC Veillard variant",
   "licenseId": "ISC-Veillard",
   "seeAlso": [

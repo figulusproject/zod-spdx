@@ -4,7 +4,7 @@ export const ampas: License = {
   "reference": "https://spdx.org/licenses/AMPAS.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/AMPAS.json",
-  "referenceNumber": 338,
+  "referenceNumber": 58,
   "name": "Academy of Motion Picture Arts and Sciences BSD",
   "licenseId": "AMPAS",
   "seeAlso": [

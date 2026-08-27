@@ -4,7 +4,7 @@ export const ijg_short: License = {
   "reference": "https://spdx.org/licenses/IJG-short.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/IJG-short.json",
-  "referenceNumber": 284,
+  "referenceNumber": 228,
   "name": "Independent JPEG Group License - short",
   "licenseId": "IJG-short",
   "seeAlso": [

@@ -4,7 +4,7 @@ export const apache_1_1: License = {
   "reference": "https://spdx.org/licenses/Apache-1.1.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/Apache-1.1.json",
-  "referenceNumber": 624,
+  "referenceNumber": 193,
   "name": "Apache License 1.1",
   "licenseId": "Apache-1.1",
   "seeAlso": [

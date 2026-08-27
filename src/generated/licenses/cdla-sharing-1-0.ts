@@ -4,7 +4,7 @@ export const cdla_sharing_1_0: License = {
   "reference": "https://spdx.org/licenses/CDLA-Sharing-1.0.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/CDLA-Sharing-1.0.json",
-  "referenceNumber": 311,
+  "referenceNumber": 653,
   "name": "Community Data License Agreement Sharing 1.0",
   "licenseId": "CDLA-Sharing-1.0",
   "seeAlso": [

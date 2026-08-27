@@ -4,7 +4,7 @@ export const borceux: License = {
   "reference": "https://spdx.org/licenses/Borceux.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/Borceux.json",
-  "referenceNumber": 352,
+  "referenceNumber": 40,
   "name": "Borceux license",
   "licenseId": "Borceux",
   "seeAlso": [

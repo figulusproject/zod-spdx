@@ -4,7 +4,7 @@ export const artistic_1_0_perl: License = {
   "reference": "https://spdx.org/licenses/Artistic-1.0-Perl.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/Artistic-1.0-Perl.json",
-  "referenceNumber": 134,
+  "referenceNumber": 282,
   "name": "Artistic License 1.0 (Perl)",
   "licenseId": "Artistic-1.0-Perl",
   "seeAlso": [

@@ -4,7 +4,7 @@ export const sgi_b_1_1: License = {
   "reference": "https://spdx.org/licenses/SGI-B-1.1.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/SGI-B-1.1.json",
-  "referenceNumber": 520,
+  "referenceNumber": 69,
   "name": "SGI Free Software License B v1.1",
   "licenseId": "SGI-B-1.1",
   "seeAlso": [

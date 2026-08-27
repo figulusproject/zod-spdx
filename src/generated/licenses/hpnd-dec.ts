@@ -4,7 +4,7 @@ export const hpnd_dec: License = {
   "reference": "https://spdx.org/licenses/HPND-DEC.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/HPND-DEC.json",
-  "referenceNumber": 590,
+  "referenceNumber": 279,
   "name": "Historical Permission Notice and Disclaimer - DEC variant",
   "licenseId": "HPND-DEC",
   "seeAlso": [

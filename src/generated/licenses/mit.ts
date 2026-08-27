@@ -4,7 +4,7 @@ export const mit: License = {
   "reference": "https://spdx.org/licenses/MIT.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/MIT.json",
-  "referenceNumber": 331,
+  "referenceNumber": 518,
   "name": "MIT License",
   "licenseId": "MIT",
   "seeAlso": [

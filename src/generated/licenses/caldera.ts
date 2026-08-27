@@ -4,7 +4,7 @@ export const caldera: License = {
   "reference": "https://spdx.org/licenses/Caldera.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/Caldera.json",
-  "referenceNumber": 516,
+  "referenceNumber": 561,
   "name": "Caldera License",
   "licenseId": "Caldera",
   "seeAlso": [

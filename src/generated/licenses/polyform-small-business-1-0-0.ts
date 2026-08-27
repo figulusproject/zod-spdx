@@ -4,7 +4,7 @@ export const polyform_small_business_1_0_0: License = {
   "reference": "https://spdx.org/licenses/PolyForm-Small-Business-1.0.0.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/PolyForm-Small-Business-1.0.0.json",
-  "referenceNumber": 522,
+  "referenceNumber": 140,
   "name": "PolyForm Small Business License 1.0.0",
   "licenseId": "PolyForm-Small-Business-1.0.0",
   "seeAlso": [

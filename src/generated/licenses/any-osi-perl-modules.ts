@@ -4,7 +4,7 @@ export const any_osi_perl_modules: License = {
   "reference": "https://spdx.org/licenses/any-OSI-perl-modules.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/any-OSI-perl-modules.json",
-  "referenceNumber": 554,
+  "referenceNumber": 691,
   "name": "Any OSI License - Perl Modules",
   "licenseId": "any-OSI-perl-modules",
   "seeAlso": [

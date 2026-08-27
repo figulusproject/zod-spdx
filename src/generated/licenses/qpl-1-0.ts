@@ -4,7 +4,7 @@ export const qpl_1_0: License = {
   "reference": "https://spdx.org/licenses/QPL-1.0.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/QPL-1.0.json",
-  "referenceNumber": 383,
+  "referenceNumber": 356,
   "name": "Q Public License 1.0",
   "licenseId": "QPL-1.0",
   "seeAlso": [

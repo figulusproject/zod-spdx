@@ -4,7 +4,7 @@ export const xpp: License = {
   "reference": "https://spdx.org/licenses/xpp.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/xpp.json",
-  "referenceNumber": 47,
+  "referenceNumber": 490,
   "name": "XPP License",
   "licenseId": "xpp",
   "seeAlso": [

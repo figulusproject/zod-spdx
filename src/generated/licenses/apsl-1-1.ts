@@ -4,7 +4,7 @@ export const apsl_1_1: License = {
   "reference": "https://spdx.org/licenses/APSL-1.1.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/APSL-1.1.json",
-  "referenceNumber": 15,
+  "referenceNumber": 470,
   "name": "Apple Public Source License 1.1",
   "licenseId": "APSL-1.1",
   "seeAlso": [

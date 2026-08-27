@@ -4,7 +4,7 @@ export const bsd_systemics_w3works: License = {
   "reference": "https://spdx.org/licenses/BSD-Systemics-W3Works.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/BSD-Systemics-W3Works.json",
-  "referenceNumber": 542,
+  "referenceNumber": 171,
   "name": "Systemics W3Works BSD variant license",
   "licenseId": "BSD-Systemics-W3Works",
   "seeAlso": [

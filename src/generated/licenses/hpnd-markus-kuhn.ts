@@ -4,7 +4,7 @@ export const hpnd_markus_kuhn: License = {
   "reference": "https://spdx.org/licenses/HPND-Markus-Kuhn.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/HPND-Markus-Kuhn.json",
-  "referenceNumber": 676,
+  "referenceNumber": 248,
   "name": "Historical Permission Notice and Disclaimer - Markus Kuhn variant",
   "licenseId": "HPND-Markus-Kuhn",
   "seeAlso": [

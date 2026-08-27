@@ -4,7 +4,7 @@ export const nposl_3_0: License = {
   "reference": "https://spdx.org/licenses/NPOSL-3.0.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/NPOSL-3.0.json",
-  "referenceNumber": 120,
+  "referenceNumber": 522,
   "name": "Non-Profit Open Software License 3.0",
   "licenseId": "NPOSL-3.0",
   "seeAlso": [

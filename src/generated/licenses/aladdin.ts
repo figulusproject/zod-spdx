@@ -4,7 +4,7 @@ export const aladdin: License = {
   "reference": "https://spdx.org/licenses/Aladdin.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/Aladdin.json",
-  "referenceNumber": 434,
+  "referenceNumber": 226,
   "name": "Aladdin Free Public License",
   "licenseId": "Aladdin",
   "seeAlso": [

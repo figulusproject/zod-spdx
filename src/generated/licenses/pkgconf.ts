@@ -4,7 +4,7 @@ export const pkgconf: License = {
   "reference": "https://spdx.org/licenses/pkgconf.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/pkgconf.json",
-  "referenceNumber": 646,
+  "referenceNumber": 107,
   "name": "pkgconf License",
   "licenseId": "pkgconf",
   "seeAlso": [

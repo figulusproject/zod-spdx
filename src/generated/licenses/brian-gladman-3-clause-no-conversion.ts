@@ -4,7 +4,7 @@ export const brian_gladman_3_clause_no_conversion: License = {
   "reference": "https://spdx.org/licenses/Brian-Gladman-3-Clause-no-conversion.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/Brian-Gladman-3-Clause-no-conversion.json",
-  "referenceNumber": 679,
+  "referenceNumber": 267,
   "name": "Brian Gladman 3-Clause License (no conversion clause)",
   "licenseId": "Brian-Gladman-3-Clause-no-conversion",
   "seeAlso": [

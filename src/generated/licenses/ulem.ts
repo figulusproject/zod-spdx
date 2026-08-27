@@ -4,7 +4,7 @@ export const ulem: License = {
   "reference": "https://spdx.org/licenses/ulem.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/ulem.json",
-  "referenceNumber": 381,
+  "referenceNumber": 208,
   "name": "ulem License",
   "licenseId": "ulem",
   "seeAlso": [

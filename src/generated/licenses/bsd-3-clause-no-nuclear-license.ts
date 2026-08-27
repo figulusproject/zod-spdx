@@ -4,7 +4,7 @@ export const bsd_3_clause_no_nuclear_license: License = {
   "reference": "https://spdx.org/licenses/BSD-3-Clause-No-Nuclear-License.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/BSD-3-Clause-No-Nuclear-License.json",
-  "referenceNumber": 613,
+  "referenceNumber": 93,
   "name": "BSD 3-Clause No Nuclear License",
   "licenseId": "BSD-3-Clause-No-Nuclear-License",
   "seeAlso": [

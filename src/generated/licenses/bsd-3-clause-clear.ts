@@ -4,7 +4,7 @@ export const bsd_3_clause_clear: License = {
   "reference": "https://spdx.org/licenses/BSD-3-Clause-Clear.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/BSD-3-Clause-Clear.json",
-  "referenceNumber": 344,
+  "referenceNumber": 46,
   "name": "BSD 3-Clause Clear License",
   "licenseId": "BSD-3-Clause-Clear",
   "seeAlso": [

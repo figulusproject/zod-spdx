@@ -4,7 +4,7 @@ export const w3c: License = {
   "reference": "https://spdx.org/licenses/W3C.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/W3C.json",
-  "referenceNumber": 172,
+  "referenceNumber": 457,
   "name": "W3C Software Notice and License (2002-12-31)",
   "licenseId": "W3C",
   "seeAlso": [

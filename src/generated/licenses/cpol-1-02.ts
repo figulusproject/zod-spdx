@@ -4,7 +4,7 @@ export const cpol_1_02: License = {
   "reference": "https://spdx.org/licenses/CPOL-1.02.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/CPOL-1.02.json",
-  "referenceNumber": 96,
+  "referenceNumber": 535,
   "name": "Code Project Open License 1.02",
   "licenseId": "CPOL-1.02",
   "seeAlso": [

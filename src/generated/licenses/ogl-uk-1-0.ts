@@ -4,7 +4,7 @@ export const ogl_uk_1_0: License = {
   "reference": "https://spdx.org/licenses/OGL-UK-1.0.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/OGL-UK-1.0.json",
-  "referenceNumber": 607,
+  "referenceNumber": 346,
   "name": "Open Government Licence v1.0",
   "licenseId": "OGL-UK-1.0",
   "seeAlso": [

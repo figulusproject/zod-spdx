@@ -4,7 +4,7 @@ export const cnri_python: License = {
   "reference": "https://spdx.org/licenses/CNRI-Python.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/CNRI-Python.json",
-  "referenceNumber": 446,
+  "referenceNumber": 309,
   "name": "CNRI Python License",
   "licenseId": "CNRI-Python",
   "seeAlso": [

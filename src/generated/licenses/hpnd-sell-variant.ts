@@ -4,7 +4,7 @@ export const hpnd_sell_variant: License = {
   "reference": "https://spdx.org/licenses/HPND-sell-variant.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/HPND-sell-variant.json",
-  "referenceNumber": 291,
+  "referenceNumber": 392,
   "name": "Historical Permission Notice and Disclaimer - sell variant",
   "licenseId": "HPND-sell-variant",
   "seeAlso": [

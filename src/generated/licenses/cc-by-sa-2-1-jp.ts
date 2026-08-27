@@ -4,7 +4,7 @@ export const cc_by_sa_2_1_jp: License = {
   "reference": "https://spdx.org/licenses/CC-BY-SA-2.1-JP.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/CC-BY-SA-2.1-JP.json",
-  "referenceNumber": 103,
+  "referenceNumber": 55,
   "name": "Creative Commons Attribution Share Alike 2.1 Japan",
   "licenseId": "CC-BY-SA-2.1-JP",
   "seeAlso": [

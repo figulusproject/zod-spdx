@@ -4,7 +4,7 @@ export const mackerras_3_clause_acknowledgment: License = {
   "reference": "https://spdx.org/licenses/Mackerras-3-Clause-acknowledgment.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/Mackerras-3-Clause-acknowledgment.json",
-  "referenceNumber": 363,
+  "referenceNumber": 406,
   "name": "Mackerras 3-Clause - acknowledgment variant",
   "licenseId": "Mackerras-3-Clause-acknowledgment",
   "seeAlso": [

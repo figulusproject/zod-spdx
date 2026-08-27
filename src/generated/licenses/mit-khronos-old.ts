@@ -4,7 +4,7 @@ export const mit_khronos_old: License = {
   "reference": "https://spdx.org/licenses/MIT-Khronos-old.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/MIT-Khronos-old.json",
-  "referenceNumber": 550,
+  "referenceNumber": 636,
   "name": "MIT Khronos - old variant",
   "licenseId": "MIT-Khronos-old",
   "seeAlso": [

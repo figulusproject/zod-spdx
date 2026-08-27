@@ -4,7 +4,7 @@ export const hidapi: License = {
   "reference": "https://spdx.org/licenses/HIDAPI.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/HIDAPI.json",
-  "referenceNumber": 578,
+  "referenceNumber": 312,
   "name": "HIDAPI License",
   "licenseId": "HIDAPI",
   "seeAlso": [

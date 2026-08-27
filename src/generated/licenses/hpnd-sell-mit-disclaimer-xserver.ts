@@ -4,7 +4,7 @@ export const hpnd_sell_mit_disclaimer_xserver: License = {
   "reference": "https://spdx.org/licenses/HPND-sell-MIT-disclaimer-xserver.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/HPND-sell-MIT-disclaimer-xserver.json",
-  "referenceNumber": 210,
+  "referenceNumber": 307,
   "name": "Historical Permission Notice and Disclaimer - sell xserver variant with MIT disclaimer",
   "licenseId": "HPND-sell-MIT-disclaimer-xserver",
   "seeAlso": [

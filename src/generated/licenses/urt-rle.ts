@@ -4,7 +4,7 @@ export const urt_rle: License = {
   "reference": "https://spdx.org/licenses/URT-RLE.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/URT-RLE.json",
-  "referenceNumber": 282,
+  "referenceNumber": 502,
   "name": "Utah Raster Toolkit Run Length Encoded License",
   "licenseId": "URT-RLE",
   "seeAlso": [

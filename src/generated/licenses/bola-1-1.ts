@@ -4,7 +4,7 @@ export const bola_1_1: License = {
   "reference": "https://spdx.org/licenses/BOLA-1.1.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/BOLA-1.1.json",
-  "referenceNumber": 116,
+  "referenceNumber": 199,
   "name": "Buena Onda License Agreement v1.1",
   "licenseId": "BOLA-1.1",
   "seeAlso": [

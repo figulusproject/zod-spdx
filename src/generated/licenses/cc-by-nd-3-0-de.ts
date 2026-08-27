@@ -4,7 +4,7 @@ export const cc_by_nd_3_0_de: License = {
   "reference": "https://spdx.org/licenses/CC-BY-ND-3.0-DE.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/CC-BY-ND-3.0-DE.json",
-  "referenceNumber": 73,
+  "referenceNumber": 431,
   "name": "Creative Commons Attribution No Derivatives 3.0 Germany",
   "licenseId": "CC-BY-ND-3.0-DE",
   "seeAlso": [

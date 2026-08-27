@@ -4,7 +4,7 @@ export const gcr_docs: License = {
   "reference": "https://spdx.org/licenses/GCR-docs.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/GCR-docs.json",
-  "referenceNumber": 443,
+  "referenceNumber": 549,
   "name": "Gnome GCR Documentation License",
   "licenseId": "GCR-docs",
   "seeAlso": [

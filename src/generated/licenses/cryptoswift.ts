@@ -4,7 +4,7 @@ export const cryptoswift: License = {
   "reference": "https://spdx.org/licenses/CryptoSwift.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/CryptoSwift.json",
-  "referenceNumber": 355,
+  "referenceNumber": 610,
   "name": "CryptoSwift License",
   "licenseId": "CryptoSwift",
   "seeAlso": [

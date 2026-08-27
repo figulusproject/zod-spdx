@@ -4,7 +4,7 @@ export const sleepycat: License = {
   "reference": "https://spdx.org/licenses/Sleepycat.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/Sleepycat.json",
-  "referenceNumber": 604,
+  "referenceNumber": 702,
   "name": "Sleepycat License",
   "licenseId": "Sleepycat",
   "seeAlso": [

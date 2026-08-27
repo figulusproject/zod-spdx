@@ -4,7 +4,7 @@ export const bcrypt_solar_designer: License = {
   "reference": "https://spdx.org/licenses/bcrypt-Solar-Designer.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/bcrypt-Solar-Designer.json",
-  "referenceNumber": 466,
+  "referenceNumber": 244,
   "name": "bcrypt Solar Designer License",
   "licenseId": "bcrypt-Solar-Designer",
   "seeAlso": [

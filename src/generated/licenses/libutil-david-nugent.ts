@@ -4,7 +4,7 @@ export const libutil_david_nugent: License = {
   "reference": "https://spdx.org/licenses/libutil-David-Nugent.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/libutil-David-Nugent.json",
-  "referenceNumber": 402,
+  "referenceNumber": 619,
   "name": "libutil David Nugent License",
   "licenseId": "libutil-David-Nugent",
   "seeAlso": [

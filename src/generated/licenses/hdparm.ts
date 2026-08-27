@@ -4,7 +4,7 @@ export const hdparm: License = {
   "reference": "https://spdx.org/licenses/hdparm.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/hdparm.json",
-  "referenceNumber": 114,
+  "referenceNumber": 485,
   "name": "hdparm License",
   "licenseId": "hdparm",
   "seeAlso": [

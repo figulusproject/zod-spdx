@@ -4,7 +4,7 @@ export const ftl: License = {
   "reference": "https://spdx.org/licenses/FTL.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/FTL.json",
-  "referenceNumber": 269,
+  "referenceNumber": 330,
   "name": "Freetype Project License",
   "licenseId": "FTL",
   "seeAlso": [

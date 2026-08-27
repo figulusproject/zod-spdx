@@ -4,7 +4,7 @@ export const alglib_documentation: License = {
   "reference": "https://spdx.org/licenses/ALGLIB-Documentation.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/ALGLIB-Documentation.json",
-  "referenceNumber": 68,
+  "referenceNumber": 178,
   "name": "ALGLIB Documentation License",
   "licenseId": "ALGLIB-Documentation",
   "seeAlso": [],
