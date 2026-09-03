@@ -4,7 +4,7 @@ export const bsd_2_clause_pkgconf_disclaimer: License = {
   "reference": "https://spdx.org/licenses/BSD-2-Clause-pkgconf-disclaimer.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/BSD-2-Clause-pkgconf-disclaimer.json",
-  "referenceNumber": 419,
+  "referenceNumber": 425,
   "name": "BSD 2-Clause pkgconf disclaimer variant",
   "licenseId": "BSD-2-Clause-pkgconf-disclaimer",
   "seeAlso": [

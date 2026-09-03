@@ -4,7 +4,7 @@ export const lppl_1_1: License = {
   "reference": "https://spdx.org/licenses/LPPL-1.1.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/LPPL-1.1.json",
-  "referenceNumber": 631,
+  "referenceNumber": 638,
   "name": "LaTeX Project Public License v1.1",
   "licenseId": "LPPL-1.1",
   "seeAlso": [

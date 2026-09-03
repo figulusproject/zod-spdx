@@ -4,7 +4,7 @@ export const mup: License = {
   "reference": "https://spdx.org/licenses/Mup.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/Mup.json",
-  "referenceNumber": 83,
+  "referenceNumber": 89,
   "name": "Mup License",
   "licenseId": "Mup",
   "seeAlso": [

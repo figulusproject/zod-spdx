@@ -4,7 +4,7 @@ export const imatix: License = {
   "reference": "https://spdx.org/licenses/iMatix.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/iMatix.json",
-  "referenceNumber": 563,
+  "referenceNumber": 565,
   "name": "iMatix Standard Function Library Agreement",
   "licenseId": "iMatix",
   "seeAlso": [

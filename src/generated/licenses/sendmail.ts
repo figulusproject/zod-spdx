@@ -4,7 +4,7 @@ export const sendmail: License = {
   "reference": "https://spdx.org/licenses/Sendmail.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/Sendmail.json",
-  "referenceNumber": 116,
+  "referenceNumber": 117,
   "name": "Sendmail License",
   "licenseId": "Sendmail",
   "seeAlso": [

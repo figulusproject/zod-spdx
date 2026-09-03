@@ -4,7 +4,7 @@ export const docbook_schema: License = {
   "reference": "https://spdx.org/licenses/DocBook-Schema.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/DocBook-Schema.json",
-  "referenceNumber": 583,
+  "referenceNumber": 592,
   "name": "DocBook Schema License",
   "licenseId": "DocBook-Schema",
   "seeAlso": [

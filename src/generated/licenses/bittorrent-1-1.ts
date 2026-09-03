@@ -4,7 +4,7 @@ export const bittorrent_1_1: License = {
   "reference": "https://spdx.org/licenses/BitTorrent-1.1.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/BitTorrent-1.1.json",
-  "referenceNumber": 425,
+  "referenceNumber": 424,
   "name": "BitTorrent Open Source License v1.1",
   "licenseId": "BitTorrent-1.1",
   "seeAlso": [

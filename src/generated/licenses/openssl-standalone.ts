@@ -4,7 +4,7 @@ export const openssl_standalone: License = {
   "reference": "https://spdx.org/licenses/OpenSSL-standalone.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/OpenSSL-standalone.json",
-  "referenceNumber": 615,
+  "referenceNumber": 636,
   "name": "OpenSSL License - standalone",
   "licenseId": "OpenSSL-standalone",
   "seeAlso": [

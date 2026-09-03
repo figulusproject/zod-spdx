@@ -4,7 +4,7 @@ export const cc_by_nc_3_0_igo: License = {
   "reference": "https://spdx.org/licenses/CC-BY-NC-3.0-IGO.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/CC-BY-NC-3.0-IGO.json",
-  "referenceNumber": 527,
+  "referenceNumber": 525,
   "name": "Creative Commons Attribution Non Commercial 3.0 IGO",
   "licenseId": "CC-BY-NC-3.0-IGO",
   "seeAlso": [

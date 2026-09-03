@@ -4,7 +4,7 @@ export const hpnd_kevlin_henney: License = {
   "reference": "https://spdx.org/licenses/HPND-Kevlin-Henney.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/HPND-Kevlin-Henney.json",
-  "referenceNumber": 584,
+  "referenceNumber": 582,
   "name": "Historical Permission Notice and Disclaimer - Kevlin Henney variant",
   "licenseId": "HPND-Kevlin-Henney",
   "seeAlso": [

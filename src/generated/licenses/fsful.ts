@@ -4,7 +4,7 @@ export const fsful: License = {
   "reference": "https://spdx.org/licenses/FSFUL.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/FSFUL.json",
-  "referenceNumber": 149,
+  "referenceNumber": 147,
   "name": "FSF Unlimited License",
   "licenseId": "FSFUL",
   "seeAlso": [

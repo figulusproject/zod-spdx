@@ -4,7 +4,7 @@ export const brian_gladman_2_clause: License = {
   "reference": "https://spdx.org/licenses/Brian-Gladman-2-Clause.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/Brian-Gladman-2-Clause.json",
-  "referenceNumber": 91,
+  "referenceNumber": 84,
   "name": "Brian Gladman 2-Clause License",
   "licenseId": "Brian-Gladman-2-Clause",
   "seeAlso": [

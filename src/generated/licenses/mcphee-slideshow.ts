@@ -4,7 +4,7 @@ export const mcphee_slideshow: License = {
   "reference": "https://spdx.org/licenses/McPhee-slideshow.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/McPhee-slideshow.json",
-  "referenceNumber": 258,
+  "referenceNumber": 256,
   "name": "McPhee Slideshow License",
   "licenseId": "McPhee-slideshow",
   "seeAlso": [

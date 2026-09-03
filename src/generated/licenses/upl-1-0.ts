@@ -4,7 +4,7 @@ export const upl_1_0: License = {
   "reference": "https://spdx.org/licenses/UPL-1.0.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/UPL-1.0.json",
-  "referenceNumber": 72,
+  "referenceNumber": 71,
   "name": "Universal Permissive License v1.0",
   "licenseId": "UPL-1.0",
   "seeAlso": [

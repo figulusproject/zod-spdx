@@ -4,7 +4,7 @@ export const xerox: License = {
   "reference": "https://spdx.org/licenses/Xerox.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/Xerox.json",
-  "referenceNumber": 674,
+  "referenceNumber": 679,
   "name": "Xerox License",
   "licenseId": "Xerox",
   "seeAlso": [

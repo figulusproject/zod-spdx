@@ -4,7 +4,7 @@ export const ssh_openssh: License = {
   "reference": "https://spdx.org/licenses/SSH-OpenSSH.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/SSH-OpenSSH.json",
-  "referenceNumber": 413,
+  "referenceNumber": 410,
   "name": "SSH OpenSSH license",
   "licenseId": "SSH-OpenSSH",
   "seeAlso": [

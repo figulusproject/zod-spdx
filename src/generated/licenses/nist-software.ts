@@ -4,7 +4,7 @@ export const nist_software: License = {
   "reference": "https://spdx.org/licenses/NIST-Software.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/NIST-Software.json",
-  "referenceNumber": 318,
+  "referenceNumber": 322,
   "name": "NIST Software License",
   "licenseId": "NIST-Software",
   "seeAlso": [

@@ -4,7 +4,7 @@ export const fdk_mpeg_h: License = {
   "reference": "https://spdx.org/licenses/FDK-MPEG-H.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/FDK-MPEG-H.json",
-  "referenceNumber": 194,
+  "referenceNumber": 188,
   "name": "Fraunhofer FDK MPEG-H Software",
   "licenseId": "FDK-MPEG-H",
   "seeAlso": [

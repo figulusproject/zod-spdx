@@ -4,7 +4,7 @@ export const python_2_0_1: License = {
   "reference": "https://spdx.org/licenses/Python-2.0.1.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/Python-2.0.1.json",
-  "referenceNumber": 300,
+  "referenceNumber": 296,
   "name": "Python License 2.0.1",
   "licenseId": "Python-2.0.1",
   "seeAlso": [

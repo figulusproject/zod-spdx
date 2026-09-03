@@ -4,7 +4,7 @@ export const ttwl: License = {
   "reference": "https://spdx.org/licenses/TTWL.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/TTWL.json",
-  "referenceNumber": 169,
+  "referenceNumber": 157,
   "name": "Text-Tabs+Wrap License",
   "licenseId": "TTWL",
   "seeAlso": [

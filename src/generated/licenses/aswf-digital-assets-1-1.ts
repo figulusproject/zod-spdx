@@ -4,7 +4,7 @@ export const aswf_digital_assets_1_1: License = {
   "reference": "https://spdx.org/licenses/ASWF-Digital-Assets-1.1.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/ASWF-Digital-Assets-1.1.json",
-  "referenceNumber": 729,
+  "referenceNumber": 732,
   "name": "ASWF Digital Assets License 1.1",
   "licenseId": "ASWF-Digital-Assets-1.1",
   "seeAlso": [

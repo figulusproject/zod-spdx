@@ -4,7 +4,7 @@ export const gd: License = {
   "reference": "https://spdx.org/licenses/GD.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/GD.json",
-  "referenceNumber": 440,
+  "referenceNumber": 439,
   "name": "GD License",
   "licenseId": "GD",
   "seeAlso": [

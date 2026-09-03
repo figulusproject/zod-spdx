@@ -4,7 +4,7 @@ export const nist_pd_fallback: License = {
   "reference": "https://spdx.org/licenses/NIST-PD-fallback.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/NIST-PD-fallback.json",
-  "referenceNumber": 557,
+  "referenceNumber": 558,
   "name": "NIST Public Domain Notice with license fallback",
   "licenseId": "NIST-PD-fallback",
   "seeAlso": [

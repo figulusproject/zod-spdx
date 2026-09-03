@@ -4,7 +4,7 @@ export const bsd_source_code_no_disclaimer: License = {
   "reference": "https://spdx.org/licenses/BSD-Source-Code-no-disclaimer.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/BSD-Source-Code-no-disclaimer.json",
-  "referenceNumber": 30,
+  "referenceNumber": 33,
   "name": "BSD Source Code Attribution - no disclaimer",
   "licenseId": "BSD-Source-Code-no-disclaimer",
   "seeAlso": [

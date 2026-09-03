@@ -4,7 +4,7 @@ export const cube: License = {
   "reference": "https://spdx.org/licenses/Cube.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/Cube.json",
-  "referenceNumber": 270,
+  "referenceNumber": 263,
   "name": "Cube License",
   "licenseId": "Cube",
   "seeAlso": [

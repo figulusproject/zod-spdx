@@ -4,7 +4,7 @@ export const ruby_pty: License = {
   "reference": "https://spdx.org/licenses/Ruby-pty.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/Ruby-pty.json",
-  "referenceNumber": 495,
+  "referenceNumber": 498,
   "name": "Ruby pty extension license",
   "licenseId": "Ruby-pty",
   "seeAlso": [

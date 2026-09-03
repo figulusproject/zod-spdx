@@ -4,7 +4,7 @@ export const hpnd_sell_variant_critical_systems: License = {
   "reference": "https://spdx.org/licenses/HPND-sell-variant-critical-systems.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/HPND-sell-variant-critical-systems.json",
-  "referenceNumber": 219,
+  "referenceNumber": 223,
   "name": "HPND - sell variant with safety critical systems clause",
   "licenseId": "HPND-sell-variant-critical-systems",
   "seeAlso": [

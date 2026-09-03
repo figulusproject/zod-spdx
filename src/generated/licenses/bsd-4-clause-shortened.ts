@@ -4,7 +4,7 @@ export const bsd_4_clause_shortened: License = {
   "reference": "https://spdx.org/licenses/BSD-4-Clause-Shortened.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/BSD-4-Clause-Shortened.json",
-  "referenceNumber": 218,
+  "referenceNumber": 217,
   "name": "BSD 4 Clause Shortened",
   "licenseId": "BSD-4-Clause-Shortened",
   "seeAlso": [

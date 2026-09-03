@@ -4,7 +4,7 @@ export const bsd_3_clause_no_nuclear_warranty: License = {
   "reference": "https://spdx.org/licenses/BSD-3-Clause-No-Nuclear-Warranty.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/BSD-3-Clause-No-Nuclear-Warranty.json",
-  "referenceNumber": 320,
+  "referenceNumber": 306,
   "name": "BSD 3-Clause No Nuclear Warranty",
   "licenseId": "BSD-3-Clause-No-Nuclear-Warranty",
   "seeAlso": [

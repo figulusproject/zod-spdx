@@ -4,7 +4,7 @@ export const mackerras_3_clause: License = {
   "reference": "https://spdx.org/licenses/Mackerras-3-Clause.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/Mackerras-3-Clause.json",
-  "referenceNumber": 6,
+  "referenceNumber": 34,
   "name": "Mackerras 3-Clause License",
   "licenseId": "Mackerras-3-Clause",
   "seeAlso": [

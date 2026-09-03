@@ -4,11 +4,12 @@ export const curl: License = {
   "reference": "https://spdx.org/licenses/curl.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/curl.json",
-  "referenceNumber": 85,
+  "referenceNumber": 86,
   "name": "curl License",
   "licenseId": "curl",
   "seeAlso": [
-    "https://github.com/bagder/curl/blob/master/COPYING"
+    "https://github.com/bagder/curl/blob/master/COPYING",
+    "https://opensource.org/license/curl"
   ],
-  "isOsiApproved": false
+  "isOsiApproved": true
 };

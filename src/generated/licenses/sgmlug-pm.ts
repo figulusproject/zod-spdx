@@ -4,7 +4,7 @@ export const sgmlug_pm: License = {
   "reference": "https://spdx.org/licenses/SGMLUG-PM.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/SGMLUG-PM.json",
-  "referenceNumber": 188,
+  "referenceNumber": 171,
   "name": "SGMLUG Parser Materials License",
   "licenseId": "SGMLUG-PM",
   "seeAlso": [

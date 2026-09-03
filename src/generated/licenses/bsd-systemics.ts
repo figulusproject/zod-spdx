@@ -4,7 +4,7 @@ export const bsd_systemics: License = {
   "reference": "https://spdx.org/licenses/BSD-Systemics.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/BSD-Systemics.json",
-  "referenceNumber": 18,
+  "referenceNumber": 17,
   "name": "Systemics BSD variant license",
   "licenseId": "BSD-Systemics",
   "seeAlso": [

@@ -4,7 +4,7 @@ export const mulanpsl_1_0: License = {
   "reference": "https://spdx.org/licenses/MulanPSL-1.0.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/MulanPSL-1.0.json",
-  "referenceNumber": 712,
+  "referenceNumber": 666,
   "name": "Mulan Permissive Software License, Version 1",
   "licenseId": "MulanPSL-1.0",
   "seeAlso": [

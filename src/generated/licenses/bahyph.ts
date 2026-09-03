@@ -4,7 +4,7 @@ export const bahyph: License = {
   "reference": "https://spdx.org/licenses/Bahyph.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/Bahyph.json",
-  "referenceNumber": 166,
+  "referenceNumber": 161,
   "name": "Bahyph License",
   "licenseId": "Bahyph",
   "seeAlso": [

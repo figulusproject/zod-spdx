@@ -4,7 +4,7 @@ export const xkeyboard_config_zinoviev: License = {
   "reference": "https://spdx.org/licenses/xkeyboard-config-Zinoviev.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/xkeyboard-config-Zinoviev.json",
-  "referenceNumber": 73,
+  "referenceNumber": 69,
   "name": "xkeyboard-config Zinoviev License",
   "licenseId": "xkeyboard-config-Zinoviev",
   "seeAlso": [

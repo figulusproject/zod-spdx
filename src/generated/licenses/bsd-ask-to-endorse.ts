@@ -4,7 +4,7 @@ export const bsd_ask_to_endorse: License = {
   "reference": "https://spdx.org/licenses/BSD-ask-to-endorse.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/BSD-ask-to-endorse.json",
-  "referenceNumber": 14,
+  "referenceNumber": 10,
   "name": "BSD - ask to endorse",
   "licenseId": "BSD-ask-to-endorse",
   "seeAlso": [

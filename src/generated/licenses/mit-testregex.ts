@@ -4,7 +4,7 @@ export const mit_testregex: License = {
   "reference": "https://spdx.org/licenses/MIT-testregex.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/MIT-testregex.json",
-  "referenceNumber": 369,
+  "referenceNumber": 372,
   "name": "MIT testregex Variant",
   "licenseId": "MIT-testregex",
   "seeAlso": [

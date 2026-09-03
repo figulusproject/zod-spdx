@@ -4,7 +4,7 @@ export const libpng: License = {
   "reference": "https://spdx.org/licenses/Libpng.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/Libpng.json",
-  "referenceNumber": 192,
+  "referenceNumber": 193,
   "name": "libpng License",
   "licenseId": "Libpng",
   "seeAlso": [

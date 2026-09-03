@@ -4,7 +4,7 @@ export const x11_distribute_modifications_variant: License = {
   "reference": "https://spdx.org/licenses/X11-distribute-modifications-variant.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/X11-distribute-modifications-variant.json",
-  "referenceNumber": 251,
+  "referenceNumber": 242,
   "name": "X11 License Distribution Modification Variant",
   "licenseId": "X11-distribute-modifications-variant",
   "seeAlso": [

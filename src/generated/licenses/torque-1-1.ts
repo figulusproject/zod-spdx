@@ -4,7 +4,7 @@ export const torque_1_1: License = {
   "reference": "https://spdx.org/licenses/TORQUE-1.1.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/TORQUE-1.1.json",
-  "referenceNumber": 272,
+  "referenceNumber": 291,
   "name": "TORQUE v2.5+ Software License v1.1",
   "licenseId": "TORQUE-1.1",
   "seeAlso": [

@@ -4,7 +4,7 @@ export const giftware: License = {
   "reference": "https://spdx.org/licenses/Giftware.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/Giftware.json",
-  "referenceNumber": 27,
+  "referenceNumber": 21,
   "name": "Giftware License",
   "licenseId": "Giftware",
   "seeAlso": [

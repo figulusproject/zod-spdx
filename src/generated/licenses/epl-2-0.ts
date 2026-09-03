@@ -4,7 +4,7 @@ export const epl_2_0: License = {
   "reference": "https://spdx.org/licenses/EPL-2.0.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/EPL-2.0.json",
-  "referenceNumber": 353,
+  "referenceNumber": 347,
   "name": "Eclipse Public License 2.0",
   "licenseId": "EPL-2.0",
   "seeAlso": [

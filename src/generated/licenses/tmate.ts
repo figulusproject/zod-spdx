@@ -4,7 +4,7 @@ export const tmate: License = {
   "reference": "https://spdx.org/licenses/TMate.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/TMate.json",
-  "referenceNumber": 23,
+  "referenceNumber": 22,
   "name": "TMate Open Source License",
   "licenseId": "TMate",
   "seeAlso": [

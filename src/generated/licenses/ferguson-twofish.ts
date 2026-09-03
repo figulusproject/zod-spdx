@@ -4,7 +4,7 @@ export const ferguson_twofish: License = {
   "reference": "https://spdx.org/licenses/Ferguson-Twofish.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/Ferguson-Twofish.json",
-  "referenceNumber": 734,
+  "referenceNumber": 731,
   "name": "Ferguson Twofish License",
   "licenseId": "Ferguson-Twofish",
   "seeAlso": [

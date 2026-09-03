@@ -4,7 +4,7 @@ export const lal_1_2: License = {
   "reference": "https://spdx.org/licenses/LAL-1.2.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/LAL-1.2.json",
-  "referenceNumber": 696,
+  "referenceNumber": 707,
   "name": "Licence Art Libre 1.2",
   "licenseId": "LAL-1.2",
   "seeAlso": [

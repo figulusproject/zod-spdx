@@ -4,7 +4,7 @@ export const mit_click: License = {
   "reference": "https://spdx.org/licenses/MIT-Click.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/MIT-Click.json",
-  "referenceNumber": 266,
+  "referenceNumber": 276,
   "name": "MIT Click License",
   "licenseId": "MIT-Click",
   "seeAlso": [

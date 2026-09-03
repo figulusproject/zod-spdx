@@ -4,7 +4,7 @@ export const iec_code_components_eula: License = {
   "reference": "https://spdx.org/licenses/IEC-Code-Components-EULA.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/IEC-Code-Components-EULA.json",
-  "referenceNumber": 622,
+  "referenceNumber": 623,
   "name": "IEC    Code Components End-user licence agreement",
   "licenseId": "IEC-Code-Components-EULA",
   "seeAlso": [

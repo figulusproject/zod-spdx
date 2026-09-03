@@ -4,7 +4,7 @@ export const bsd_4_3reno: License = {
   "reference": "https://spdx.org/licenses/BSD-4.3RENO.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/BSD-4.3RENO.json",
-  "referenceNumber": 153,
+  "referenceNumber": 150,
   "name": "BSD 4.3 RENO License",
   "licenseId": "BSD-4.3RENO",
   "seeAlso": [

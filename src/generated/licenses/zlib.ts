@@ -4,7 +4,7 @@ export const zlib: License = {
   "reference": "https://spdx.org/licenses/Zlib.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/Zlib.json",
-  "referenceNumber": 505,
+  "referenceNumber": 499,
   "name": "zlib License",
   "licenseId": "Zlib",
   "seeAlso": [

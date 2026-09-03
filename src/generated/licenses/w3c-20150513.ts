@@ -4,7 +4,7 @@ export const w3c_20150513: License = {
   "reference": "https://spdx.org/licenses/W3C-20150513.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/W3C-20150513.json",
-  "referenceNumber": 45,
+  "referenceNumber": 40,
   "name": "W3C Software Notice and Document License (2015-05-13)",
   "licenseId": "W3C-20150513",
   "seeAlso": [

@@ -4,7 +4,7 @@ export const nlpl: License = {
   "reference": "https://spdx.org/licenses/NLPL.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/NLPL.json",
-  "referenceNumber": 536,
+  "referenceNumber": 538,
   "name": "No Limit Public License",
   "licenseId": "NLPL",
   "seeAlso": [

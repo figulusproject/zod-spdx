@@ -4,7 +4,7 @@ export const ssh_keyscan: License = {
   "reference": "https://spdx.org/licenses/ssh-keyscan.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/ssh-keyscan.json",
-  "referenceNumber": 707,
+  "referenceNumber": 715,
   "name": "ssh-keyscan License",
   "licenseId": "ssh-keyscan",
   "seeAlso": [

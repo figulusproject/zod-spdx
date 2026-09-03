@@ -4,7 +4,7 @@ export const informatica: License = {
   "reference": "https://spdx.org/licenses/Informatica.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/Informatica.json",
-  "referenceNumber": 618,
+  "referenceNumber": 621,
   "name": "Informatica License",
   "licenseId": "Informatica",
   "seeAlso": [

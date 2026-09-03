@@ -4,7 +4,7 @@ export const unicode_tou: License = {
   "reference": "https://spdx.org/licenses/Unicode-TOU.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/Unicode-TOU.json",
-  "referenceNumber": 553,
+  "referenceNumber": 562,
   "name": "Unicode Terms of Use",
   "licenseId": "Unicode-TOU",
   "seeAlso": [

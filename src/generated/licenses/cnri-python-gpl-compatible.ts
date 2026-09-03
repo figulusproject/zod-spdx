@@ -4,7 +4,7 @@ export const cnri_python_gpl_compatible: License = {
   "reference": "https://spdx.org/licenses/CNRI-Python-GPL-Compatible.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/CNRI-Python-GPL-Compatible.json",
-  "referenceNumber": 726,
+  "referenceNumber": 729,
   "name": "CNRI Python Open Source GPL Compatible License Agreement",
   "licenseId": "CNRI-Python-GPL-Compatible",
   "seeAlso": [

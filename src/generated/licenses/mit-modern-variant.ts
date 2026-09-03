@@ -4,7 +4,7 @@ export const mit_modern_variant: License = {
   "reference": "https://spdx.org/licenses/MIT-Modern-Variant.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/MIT-Modern-Variant.json",
-  "referenceNumber": 215,
+  "referenceNumber": 204,
   "name": "MIT License Modern Variant",
   "licenseId": "MIT-Modern-Variant",
   "seeAlso": [

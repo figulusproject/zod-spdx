@@ -4,7 +4,7 @@ export const mit_advertising: License = {
   "reference": "https://spdx.org/licenses/MIT-advertising.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/MIT-advertising.json",
-  "referenceNumber": 626,
+  "referenceNumber": 615,
   "name": "Enlightenment License (e16)",
   "licenseId": "MIT-advertising",
   "seeAlso": [

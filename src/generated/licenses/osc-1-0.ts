@@ -4,7 +4,7 @@ export const osc_1_0: License = {
   "reference": "https://spdx.org/licenses/OSC-1.0.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/OSC-1.0.json",
-  "referenceNumber": 262,
+  "referenceNumber": 261,
   "name": "OSC License 1.0",
   "licenseId": "OSC-1.0",
   "seeAlso": [

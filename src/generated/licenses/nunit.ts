@@ -4,7 +4,7 @@ export const nunit: License = {
   "reference": "https://spdx.org/licenses/Nunit.html",
   "isDeprecatedLicenseId": true,
   "detailsUrl": "https://spdx.org/licenses/Nunit.json",
-  "referenceNumber": 157,
+  "referenceNumber": 145,
   "name": "Nunit License",
   "licenseId": "Nunit",
   "seeAlso": [

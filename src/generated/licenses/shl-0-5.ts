@@ -4,7 +4,7 @@ export const shl_0_5: License = {
   "reference": "https://spdx.org/licenses/SHL-0.5.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/SHL-0.5.json",
-  "referenceNumber": 367,
+  "referenceNumber": 366,
   "name": "Solderpad Hardware License v0.5",
   "licenseId": "SHL-0.5",
   "seeAlso": [

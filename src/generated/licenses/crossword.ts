@@ -4,7 +4,7 @@ export const crossword: License = {
   "reference": "https://spdx.org/licenses/Crossword.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/Crossword.json",
-  "referenceNumber": 453,
+  "referenceNumber": 455,
   "name": "Crossword License",
   "licenseId": "Crossword",
   "seeAlso": [

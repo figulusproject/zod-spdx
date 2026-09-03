@@ -4,7 +4,7 @@ export const sl: License = {
   "reference": "https://spdx.org/licenses/SL.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/SL.json",
-  "referenceNumber": 578,
+  "referenceNumber": 585,
   "name": "SL License",
   "licenseId": "SL",
   "seeAlso": [

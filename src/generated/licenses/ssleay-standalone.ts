@@ -4,7 +4,7 @@ export const ssleay_standalone: License = {
   "reference": "https://spdx.org/licenses/SSLeay-standalone.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/SSLeay-standalone.json",
-  "referenceNumber": 701,
+  "referenceNumber": 708,
   "name": "SSLeay License - standalone",
   "licenseId": "SSLeay-standalone",
   "seeAlso": [

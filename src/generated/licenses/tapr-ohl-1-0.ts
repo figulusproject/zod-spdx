@@ -4,7 +4,7 @@ export const tapr_ohl_1_0: License = {
   "reference": "https://spdx.org/licenses/TAPR-OHL-1.0.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/TAPR-OHL-1.0.json",
-  "referenceNumber": 692,
+  "referenceNumber": 695,
   "name": "TAPR Open Hardware License v1.0",
   "licenseId": "TAPR-OHL-1.0",
   "seeAlso": [

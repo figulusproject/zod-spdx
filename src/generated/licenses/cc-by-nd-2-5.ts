@@ -4,7 +4,7 @@ export const cc_by_nd_2_5: License = {
   "reference": "https://spdx.org/licenses/CC-BY-ND-2.5.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/CC-BY-ND-2.5.json",
-  "referenceNumber": 385,
+  "referenceNumber": 384,
   "name": "Creative Commons Attribution No Derivatives 2.5 Generic",
   "licenseId": "CC-BY-ND-2.5",
   "seeAlso": [

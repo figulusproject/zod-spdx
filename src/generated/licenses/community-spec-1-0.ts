@@ -4,7 +4,7 @@ export const community_spec_1_0: License = {
   "reference": "https://spdx.org/licenses/Community-Spec-1.0.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/Community-Spec-1.0.json",
-  "referenceNumber": 637,
+  "referenceNumber": 640,
   "name": "Community Specification License 1.0",
   "licenseId": "Community-Spec-1.0",
   "seeAlso": [

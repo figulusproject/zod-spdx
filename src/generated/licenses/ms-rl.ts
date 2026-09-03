@@ -4,7 +4,7 @@ export const ms_rl: License = {
   "reference": "https://spdx.org/licenses/MS-RL.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/MS-RL.json",
-  "referenceNumber": 389,
+  "referenceNumber": 392,
   "name": "Microsoft Reciprocal License",
   "licenseId": "MS-RL",
   "seeAlso": [

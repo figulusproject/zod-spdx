@@ -4,7 +4,7 @@ export const ogtsl: License = {
   "reference": "https://spdx.org/licenses/OGTSL.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/OGTSL.json",
-  "referenceNumber": 39,
+  "referenceNumber": 36,
   "name": "Open Group Test Suite License",
   "licenseId": "OGTSL",
   "seeAlso": [

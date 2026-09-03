@@ -4,7 +4,7 @@ export const sul_1_0: License = {
   "reference": "https://spdx.org/licenses/SUL-1.0.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/SUL-1.0.json",
-  "referenceNumber": 627,
+  "referenceNumber": 624,
   "name": "Sustainable Use License v1.0",
   "licenseId": "SUL-1.0",
   "seeAlso": [

@@ -4,7 +4,7 @@ export const hpnd_fenneberg_livingston: License = {
   "reference": "https://spdx.org/licenses/HPND-Fenneberg-Livingston.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/HPND-Fenneberg-Livingston.json",
-  "referenceNumber": 515,
+  "referenceNumber": 516,
   "name": "Historical Permission Notice and Disclaimer - Fenneberg-Livingston variant",
   "licenseId": "HPND-Fenneberg-Livingston",
   "seeAlso": [

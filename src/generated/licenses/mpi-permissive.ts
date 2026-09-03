@@ -4,7 +4,7 @@ export const mpi_permissive: License = {
   "reference": "https://spdx.org/licenses/mpi-permissive.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/mpi-permissive.json",
-  "referenceNumber": 274,
+  "referenceNumber": 279,
   "name": "mpi Permissive License",
   "licenseId": "mpi-permissive",
   "seeAlso": [

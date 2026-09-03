@@ -4,7 +4,7 @@ export const gl2ps: License = {
   "reference": "https://spdx.org/licenses/GL2PS.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/GL2PS.json",
-  "referenceNumber": 728,
+  "referenceNumber": 723,
   "name": "GL2PS License",
   "licenseId": "GL2PS",
   "seeAlso": [

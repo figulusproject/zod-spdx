@@ -4,7 +4,7 @@ export const lpl_1_02: License = {
   "reference": "https://spdx.org/licenses/LPL-1.02.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/LPL-1.02.json",
-  "referenceNumber": 690,
+  "referenceNumber": 693,
   "name": "Lucent Public License v1.02",
   "licenseId": "LPL-1.02",
   "seeAlso": [

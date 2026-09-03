@@ -4,7 +4,7 @@ export const hp_1989: License = {
   "reference": "https://spdx.org/licenses/HP-1989.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/HP-1989.json",
-  "referenceNumber": 34,
+  "referenceNumber": 32,
   "name": "Hewlett-Packard 1989 License",
   "licenseId": "HP-1989",
   "seeAlso": [

@@ -4,7 +4,7 @@ export const padl: License = {
   "reference": "https://spdx.org/licenses/PADL.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/PADL.json",
-  "referenceNumber": 221,
+  "referenceNumber": 213,
   "name": "PADL License",
   "licenseId": "PADL",
   "seeAlso": [

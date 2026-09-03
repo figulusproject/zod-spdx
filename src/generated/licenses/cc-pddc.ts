@@ -4,7 +4,7 @@ export const cc_pddc: License = {
   "reference": "https://spdx.org/licenses/CC-PDDC.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/CC-PDDC.json",
-  "referenceNumber": 233,
+  "referenceNumber": 230,
   "name": "Creative Commons Public Domain Dedication and Certification",
   "licenseId": "CC-PDDC",
   "seeAlso": [

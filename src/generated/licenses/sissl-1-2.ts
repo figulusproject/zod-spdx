@@ -4,7 +4,7 @@ export const sissl_1_2: License = {
   "reference": "https://spdx.org/licenses/SISSL-1.2.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/SISSL-1.2.json",
-  "referenceNumber": 96,
+  "referenceNumber": 87,
   "name": "Sun Industry Standards Source License v1.2",
   "licenseId": "SISSL-1.2",
   "seeAlso": [

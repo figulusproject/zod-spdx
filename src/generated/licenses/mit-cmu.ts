@@ -4,7 +4,7 @@ export const mit_cmu: License = {
   "reference": "https://spdx.org/licenses/MIT-CMU.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/MIT-CMU.json",
-  "referenceNumber": 326,
+  "referenceNumber": 328,
   "name": "CMU License",
   "licenseId": "MIT-CMU",
   "seeAlso": [

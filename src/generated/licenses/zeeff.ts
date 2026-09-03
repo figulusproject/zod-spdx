@@ -4,7 +4,7 @@ export const zeeff: License = {
   "reference": "https://spdx.org/licenses/Zeeff.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/Zeeff.json",
-  "referenceNumber": 223,
+  "referenceNumber": 224,
   "name": "Zeeff License",
   "licenseId": "Zeeff",
   "seeAlso": [

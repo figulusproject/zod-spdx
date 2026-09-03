@@ -4,7 +4,7 @@ export const hpnd_mit_disclaimer: License = {
   "reference": "https://spdx.org/licenses/HPND-MIT-disclaimer.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/HPND-MIT-disclaimer.json",
-  "referenceNumber": 611,
+  "referenceNumber": 610,
   "name": "Historical Permission Notice and Disclaimer with MIT disclaimer",
   "licenseId": "HPND-MIT-disclaimer",
   "seeAlso": [

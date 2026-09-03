@@ -4,7 +4,7 @@ export const boehm_gc: License = {
   "reference": "https://spdx.org/licenses/Boehm-GC.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/Boehm-GC.json",
-  "referenceNumber": 464,
+  "referenceNumber": 465,
   "name": "Boehm-Demers-Weiser GC License",
   "licenseId": "Boehm-GC",
   "seeAlso": [

@@ -4,7 +4,7 @@ export const x11: License = {
   "reference": "https://spdx.org/licenses/X11.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/X11.json",
-  "referenceNumber": 179,
+  "referenceNumber": 178,
   "name": "X11 License",
   "licenseId": "X11",
   "seeAlso": [

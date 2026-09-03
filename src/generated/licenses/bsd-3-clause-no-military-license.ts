@@ -4,7 +4,7 @@ export const bsd_3_clause_no_military_license: License = {
   "reference": "https://spdx.org/licenses/BSD-3-Clause-No-Military-License.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/BSD-3-Clause-No-Military-License.json",
-  "referenceNumber": 395,
+  "referenceNumber": 387,
   "name": "BSD 3-Clause No Military License",
   "licenseId": "BSD-3-Clause-No-Military-License",
   "seeAlso": [

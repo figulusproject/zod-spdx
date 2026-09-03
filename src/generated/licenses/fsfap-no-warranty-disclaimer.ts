@@ -4,7 +4,7 @@ export const fsfap_no_warranty_disclaimer: License = {
   "reference": "https://spdx.org/licenses/FSFAP-no-warranty-disclaimer.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/FSFAP-no-warranty-disclaimer.json",
-  "referenceNumber": 264,
+  "referenceNumber": 273,
   "name": "FSF All Permissive License (without Warranty)",
   "licenseId": "FSFAP-no-warranty-disclaimer",
   "seeAlso": [

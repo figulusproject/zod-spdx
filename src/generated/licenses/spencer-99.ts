@@ -4,7 +4,7 @@ export const spencer_99: License = {
   "reference": "https://spdx.org/licenses/Spencer-99.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/Spencer-99.json",
-  "referenceNumber": 284,
+  "referenceNumber": 283,
   "name": "Spencer License 99",
   "licenseId": "Spencer-99",
   "seeAlso": [

@@ -4,7 +4,7 @@ export const sun_ppp: License = {
   "reference": "https://spdx.org/licenses/Sun-PPP.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/Sun-PPP.json",
-  "referenceNumber": 324,
+  "referenceNumber": 331,
   "name": "Sun PPP License",
   "licenseId": "Sun-PPP",
   "seeAlso": [

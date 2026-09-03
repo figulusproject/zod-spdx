@@ -4,7 +4,7 @@ export const naist_2003: License = {
   "reference": "https://spdx.org/licenses/NAIST-2003.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/NAIST-2003.json",
-  "referenceNumber": 130,
+  "referenceNumber": 123,
   "name": "Nara Institute of Science and Technology License (2003)",
   "licenseId": "NAIST-2003",
   "seeAlso": [

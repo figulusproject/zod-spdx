@@ -4,7 +4,7 @@ export const lucida_bitmap_fonts: License = {
   "reference": "https://spdx.org/licenses/Lucida-Bitmap-Fonts.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/Lucida-Bitmap-Fonts.json",
-  "referenceNumber": 331,
+  "referenceNumber": 336,
   "name": "Lucida Bitmap Fonts License",
   "licenseId": "Lucida-Bitmap-Fonts",
   "seeAlso": [

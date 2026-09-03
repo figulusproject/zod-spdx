@@ -4,7 +4,7 @@ export const schemereport: License = {
   "reference": "https://spdx.org/licenses/SchemeReport.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/SchemeReport.json",
-  "referenceNumber": 479,
+  "referenceNumber": 480,
   "name": "Scheme Language Report License",
   "licenseId": "SchemeReport",
   "seeAlso": [],

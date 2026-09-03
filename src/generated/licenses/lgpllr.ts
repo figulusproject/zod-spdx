@@ -4,7 +4,7 @@ export const lgpllr: License = {
   "reference": "https://spdx.org/licenses/LGPLLR.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/LGPLLR.json",
-  "referenceNumber": 520,
+  "referenceNumber": 524,
   "name": "Lesser General Public License For Linguistic Resources",
   "licenseId": "LGPLLR",
   "seeAlso": [

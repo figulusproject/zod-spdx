@@ -93,6 +93,7 @@ export { bsd_3_clause_no_nuclear_license } from "./bsd-3-clause-no-nuclear-licen
 export { bsd_3_clause_no_nuclear_license_2014 } from "./bsd-3-clause-no-nuclear-license-2014.js";
 export { bsd_3_clause_no_nuclear_warranty } from "./bsd-3-clause-no-nuclear-warranty.js";
 export { bsd_3_clause_open_mpi } from "./bsd-3-clause-open-mpi.js";
+export { bsd_3_clause_openwebui } from "./bsd-3-clause-openwebui.js";
 export { bsd_3_clause_sun } from "./bsd-3-clause-sun.js";
 export { bsd_3_clause_tso } from "./bsd-3-clause-tso.js";
 export { bsd_4_clause } from "./bsd-4-clause.js";
@@ -340,6 +341,7 @@ export { hdf5 } from "./hdf5.js";
 export { hdparm } from "./hdparm.js";
 export { hidapi } from "./hidapi.js";
 export { hippocratic_2_1 } from "./hippocratic-2-1.js";
+export { hippocratic_3_0_core } from "./hippocratic-3-0-core.js";
 export { hp_1986 } from "./hp-1986.js";
 export { hp_1989 } from "./hp-1989.js";
 export { hpnd } from "./hpnd.js";

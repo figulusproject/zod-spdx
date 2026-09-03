@@ -4,7 +4,7 @@ export const aml: License = {
   "reference": "https://spdx.org/licenses/AML.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/AML.json",
-  "referenceNumber": 48,
+  "referenceNumber": 58,
   "name": "Apple MIT License",
   "licenseId": "AML",
   "seeAlso": [
