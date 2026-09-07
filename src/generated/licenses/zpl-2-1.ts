@@ -4,7 +4,7 @@ export const zpl_2_1: License = {
   "reference": "https://spdx.org/licenses/ZPL-2.1.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/ZPL-2.1.json",
-  "referenceNumber": 471,
+  "referenceNumber": 714,
   "name": "Zope Public License 2.1",
   "licenseId": "ZPL-2.1",
   "seeAlso": [

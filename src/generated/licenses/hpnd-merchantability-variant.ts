@@ -4,7 +4,7 @@ export const hpnd_merchantability_variant: License = {
   "reference": "https://spdx.org/licenses/HPND-merchantability-variant.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/HPND-merchantability-variant.json",
-  "referenceNumber": 79,
+  "referenceNumber": 529,
   "name": "Historical Permission Notice and Disclaimer - merchantability variant",
   "licenseId": "HPND-merchantability-variant",
   "seeAlso": [

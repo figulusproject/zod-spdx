@@ -4,7 +4,7 @@ export const adobe_glyph: License = {
   "reference": "https://spdx.org/licenses/Adobe-Glyph.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/Adobe-Glyph.json",
-  "referenceNumber": 205,
+  "referenceNumber": 678,
   "name": "Adobe Glyph List License",
   "licenseId": "Adobe-Glyph",
   "seeAlso": [

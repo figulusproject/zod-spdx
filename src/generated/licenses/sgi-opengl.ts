@@ -4,7 +4,7 @@ export const sgi_opengl: License = {
   "reference": "https://spdx.org/licenses/SGI-OpenGL.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/SGI-OpenGL.json",
-  "referenceNumber": 646,
+  "referenceNumber": 454,
   "name": "SGI OpenGL License",
   "licenseId": "SGI-OpenGL",
   "seeAlso": [

@@ -4,7 +4,7 @@ export const rhecos_1_1: License = {
   "reference": "https://spdx.org/licenses/RHeCos-1.1.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/RHeCos-1.1.json",
-  "referenceNumber": 433,
+  "referenceNumber": 149,
   "name": "Red Hat eCos Public License v1.1",
   "licenseId": "RHeCos-1.1",
   "seeAlso": [

@@ -4,7 +4,7 @@ export const mtll: License = {
   "reference": "https://spdx.org/licenses/MTLL.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/MTLL.json",
-  "referenceNumber": 320,
+  "referenceNumber": 657,
   "name": "Matrix Template Library License",
   "licenseId": "MTLL",
   "seeAlso": [

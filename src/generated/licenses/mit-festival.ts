@@ -4,7 +4,7 @@ export const mit_festival: License = {
   "reference": "https://spdx.org/licenses/MIT-Festival.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/MIT-Festival.json",
-  "referenceNumber": 80,
+  "referenceNumber": 250,
   "name": "MIT Festival Variant",
   "licenseId": "MIT-Festival",
   "seeAlso": [

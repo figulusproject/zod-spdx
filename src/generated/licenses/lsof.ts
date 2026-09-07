@@ -4,7 +4,7 @@ export const lsof: License = {
   "reference": "https://spdx.org/licenses/lsof.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/lsof.json",
-  "referenceNumber": 454,
+  "referenceNumber": 565,
   "name": "lsof License",
   "licenseId": "lsof",
   "seeAlso": [

@@ -4,7 +4,7 @@ export const sax_pd: License = {
   "reference": "https://spdx.org/licenses/SAX-PD.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/SAX-PD.json",
-  "referenceNumber": 280,
+  "referenceNumber": 189,
   "name": "Sax Public Domain Notice",
   "licenseId": "SAX-PD",
   "seeAlso": [

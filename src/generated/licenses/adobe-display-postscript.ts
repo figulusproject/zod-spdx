@@ -4,7 +4,7 @@ export const adobe_display_postscript: License = {
   "reference": "https://spdx.org/licenses/Adobe-Display-PostScript.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/Adobe-Display-PostScript.json",
-  "referenceNumber": 479,
+  "referenceNumber": 249,
   "name": "Adobe Display PostScript License",
   "licenseId": "Adobe-Display-PostScript",
   "seeAlso": [

@@ -4,7 +4,7 @@ export const wxwindows: License = {
   "reference": "https://spdx.org/licenses/wxWindows.html",
   "isDeprecatedLicenseId": true,
   "detailsUrl": "https://spdx.org/licenses/wxWindows.json",
-  "referenceNumber": 215,
+  "referenceNumber": 272,
   "name": "wxWindows Library License",
   "licenseId": "wxWindows",
   "seeAlso": [

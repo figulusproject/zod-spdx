@@ -4,7 +4,7 @@ export const newsletr: License = {
   "reference": "https://spdx.org/licenses/Newsletr.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/Newsletr.json",
-  "referenceNumber": 531,
+  "referenceNumber": 661,
   "name": "Newsletr License",
   "licenseId": "Newsletr",
   "seeAlso": [

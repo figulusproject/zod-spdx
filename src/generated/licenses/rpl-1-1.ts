@@ -4,7 +4,7 @@ export const rpl_1_1: License = {
   "reference": "https://spdx.org/licenses/RPL-1.1.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/RPL-1.1.json",
-  "referenceNumber": 409,
+  "referenceNumber": 346,
   "name": "Reciprocal Public License 1.1",
   "licenseId": "RPL-1.1",
   "seeAlso": [

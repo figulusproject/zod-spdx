@@ -4,7 +4,7 @@ export const martin_birgmeier: License = {
   "reference": "https://spdx.org/licenses/Martin-Birgmeier.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/Martin-Birgmeier.json",
-  "referenceNumber": 432,
+  "referenceNumber": 26,
   "name": "Martin Birgmeier License",
   "licenseId": "Martin-Birgmeier",
   "seeAlso": [

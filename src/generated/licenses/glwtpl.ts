@@ -4,7 +4,7 @@ export const glwtpl: License = {
   "reference": "https://spdx.org/licenses/GLWTPL.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/GLWTPL.json",
-  "referenceNumber": 101,
+  "referenceNumber": 41,
   "name": "Good Luck With That Public License",
   "licenseId": "GLWTPL",
   "seeAlso": [

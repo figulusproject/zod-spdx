@@ -4,7 +4,7 @@ export const rscpl: License = {
   "reference": "https://spdx.org/licenses/RSCPL.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/RSCPL.json",
-  "referenceNumber": 512,
+  "referenceNumber": 554,
   "name": "Ricoh Source Code Public License",
   "licenseId": "RSCPL",
   "seeAlso": [

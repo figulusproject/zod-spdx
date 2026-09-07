@@ -4,7 +4,7 @@ export const qhull: License = {
   "reference": "https://spdx.org/licenses/Qhull.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/Qhull.json",
-  "referenceNumber": 645,
+  "referenceNumber": 615,
   "name": "Qhull License",
   "licenseId": "Qhull",
   "seeAlso": [

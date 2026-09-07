@@ -4,7 +4,7 @@ export const ngpl: License = {
   "reference": "https://spdx.org/licenses/NGPL.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/NGPL.json",
-  "referenceNumber": 637,
+  "referenceNumber": 4,
   "name": "Nethack General Public License",
   "licenseId": "NGPL",
   "seeAlso": [

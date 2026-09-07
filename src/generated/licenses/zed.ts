@@ -4,7 +4,7 @@ export const zed: License = {
   "reference": "https://spdx.org/licenses/Zed.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/Zed.json",
-  "referenceNumber": 2,
+  "referenceNumber": 595,
   "name": "Zed License",
   "licenseId": "Zed",
   "seeAlso": [

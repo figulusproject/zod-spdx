@@ -4,7 +4,7 @@ export const soundex: License = {
   "reference": "https://spdx.org/licenses/Soundex.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/Soundex.json",
-  "referenceNumber": 709,
+  "referenceNumber": 636,
   "name": "Soundex License",
   "licenseId": "Soundex",
   "seeAlso": [

@@ -4,7 +4,7 @@ export const plexus: License = {
   "reference": "https://spdx.org/licenses/Plexus.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/Plexus.json",
-  "referenceNumber": 251,
+  "referenceNumber": 123,
   "name": "Plexus Classworlds License",
   "licenseId": "Plexus",
   "seeAlso": [

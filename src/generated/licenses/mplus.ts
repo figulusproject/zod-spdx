@@ -4,7 +4,7 @@ export const mplus: License = {
   "reference": "https://spdx.org/licenses/mplus.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/mplus.json",
-  "referenceNumber": 241,
+  "referenceNumber": 574,
   "name": "mplus Font License",
   "licenseId": "mplus",
   "seeAlso": [

@@ -4,7 +4,7 @@ export const innosetup: License = {
   "reference": "https://spdx.org/licenses/InnoSetup.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/InnoSetup.json",
-  "referenceNumber": 286,
+  "referenceNumber": 562,
   "name": "Inno Setup License",
   "licenseId": "InnoSetup",
   "seeAlso": [

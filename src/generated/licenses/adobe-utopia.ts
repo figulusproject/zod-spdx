@@ -4,7 +4,7 @@ export const adobe_utopia: License = {
   "reference": "https://spdx.org/licenses/Adobe-Utopia.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/Adobe-Utopia.json",
-  "referenceNumber": 459,
+  "referenceNumber": 84,
   "name": "Adobe Utopia Font License",
   "licenseId": "Adobe-Utopia",
   "seeAlso": [

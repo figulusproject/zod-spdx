@@ -4,7 +4,7 @@ export const widget_workshop: License = {
   "reference": "https://spdx.org/licenses/Widget-Workshop.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/Widget-Workshop.json",
-  "referenceNumber": 403,
+  "referenceNumber": 258,
   "name": "Widget Workshop License",
   "licenseId": "Widget-Workshop",
   "seeAlso": [

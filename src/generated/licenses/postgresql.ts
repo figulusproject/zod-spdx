@@ -4,7 +4,7 @@ export const postgresql: License = {
   "reference": "https://spdx.org/licenses/PostgreSQL.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/PostgreSQL.json",
-  "referenceNumber": 702,
+  "referenceNumber": 577,
   "name": "PostgreSQL License",
   "licenseId": "PostgreSQL",
   "seeAlso": [

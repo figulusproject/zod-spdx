@@ -4,7 +4,7 @@ export const cfitsio: License = {
   "reference": "https://spdx.org/licenses/CFITSIO.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/CFITSIO.json",
-  "referenceNumber": 683,
+  "referenceNumber": 599,
   "name": "CFITSIO License",
   "licenseId": "CFITSIO",
   "seeAlso": [

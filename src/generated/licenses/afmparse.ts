@@ -4,7 +4,7 @@ export const afmparse: License = {
   "reference": "https://spdx.org/licenses/Afmparse.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/Afmparse.json",
-  "referenceNumber": 553,
+  "referenceNumber": 710,
   "name": "Afmparse License",
   "licenseId": "Afmparse",
   "seeAlso": [

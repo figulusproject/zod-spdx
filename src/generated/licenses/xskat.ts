@@ -4,7 +4,7 @@ export const xskat: License = {
   "reference": "https://spdx.org/licenses/XSkat.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/XSkat.json",
-  "referenceNumber": 170,
+  "referenceNumber": 510,
   "name": "XSkat License",
   "licenseId": "XSkat",
   "seeAlso": [

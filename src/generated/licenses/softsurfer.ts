@@ -4,7 +4,7 @@ export const softsurfer: License = {
   "reference": "https://spdx.org/licenses/softSurfer.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/softSurfer.json",
-  "referenceNumber": 419,
+  "referenceNumber": 399,
   "name": "softSurfer License",
   "licenseId": "softSurfer",
   "seeAlso": [

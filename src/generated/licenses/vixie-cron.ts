@@ -4,7 +4,7 @@ export const vixie_cron: License = {
   "reference": "https://spdx.org/licenses/Vixie-Cron.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/Vixie-Cron.json",
-  "referenceNumber": 475,
+  "referenceNumber": 292,
   "name": "Vixie Cron License",
   "licenseId": "Vixie-Cron",
   "seeAlso": [

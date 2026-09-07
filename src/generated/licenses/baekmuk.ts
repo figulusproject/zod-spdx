@@ -4,7 +4,7 @@ export const baekmuk: License = {
   "reference": "https://spdx.org/licenses/Baekmuk.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/Baekmuk.json",
-  "referenceNumber": 478,
+  "referenceNumber": 280,
   "name": "Baekmuk License",
   "licenseId": "Baekmuk",
   "seeAlso": [

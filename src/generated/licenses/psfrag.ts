@@ -4,7 +4,7 @@ export const psfrag: License = {
   "reference": "https://spdx.org/licenses/psfrag.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/psfrag.json",
-  "referenceNumber": 685,
+  "referenceNumber": 649,
   "name": "psfrag License",
   "licenseId": "psfrag",
   "seeAlso": [

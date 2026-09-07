@@ -4,7 +4,7 @@ export const smppl: License = {
   "reference": "https://spdx.org/licenses/SMPPL.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/SMPPL.json",
-  "referenceNumber": 472,
+  "referenceNumber": 155,
   "name": "Secure Messaging Protocol Public License",
   "licenseId": "SMPPL",
   "seeAlso": [

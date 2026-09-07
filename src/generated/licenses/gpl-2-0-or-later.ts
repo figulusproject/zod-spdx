@@ -4,7 +4,7 @@ export const gpl_2_0_or_later: License = {
   "reference": "https://spdx.org/licenses/GPL-2.0-or-later.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/GPL-2.0-or-later.json",
-  "referenceNumber": 520,
+  "referenceNumber": 169,
   "name": "GNU General Public License v2.0 or later",
   "licenseId": "GPL-2.0-or-later",
   "seeAlso": [

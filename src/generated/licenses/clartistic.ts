@@ -4,7 +4,7 @@ export const clartistic: License = {
   "reference": "https://spdx.org/licenses/ClArtistic.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/ClArtistic.json",
-  "referenceNumber": 572,
+  "referenceNumber": 95,
   "name": "Clarified Artistic License",
   "licenseId": "ClArtistic",
   "seeAlso": [

@@ -4,7 +4,7 @@ export const abstyles: License = {
   "reference": "https://spdx.org/licenses/Abstyles.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/Abstyles.json",
-  "referenceNumber": 722,
+  "referenceNumber": 118,
   "name": "Abstyles License",
   "licenseId": "Abstyles",
   "seeAlso": [

@@ -4,7 +4,7 @@ export const latex2e_translated_notice: License = {
   "reference": "https://spdx.org/licenses/Latex2e-translated-notice.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/Latex2e-translated-notice.json",
-  "referenceNumber": 14,
+  "referenceNumber": 56,
   "name": "Latex2e with translated notice permission",
   "licenseId": "Latex2e-translated-notice",
   "seeAlso": [

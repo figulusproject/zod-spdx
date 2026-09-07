@@ -4,7 +4,7 @@ export const loop: License = {
   "reference": "https://spdx.org/licenses/LOOP.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/LOOP.json",
-  "referenceNumber": 466,
+  "referenceNumber": 35,
   "name": "Common Lisp LOOP License",
   "licenseId": "LOOP",
   "seeAlso": [

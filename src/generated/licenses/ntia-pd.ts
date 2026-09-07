@@ -4,7 +4,7 @@ export const ntia_pd: License = {
   "reference": "https://spdx.org/licenses/NTIA-PD.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/NTIA-PD.json",
-  "referenceNumber": 167,
+  "referenceNumber": 447,
   "name": "NTIA Public Domain Notice",
   "licenseId": "NTIA-PD",
   "seeAlso": [

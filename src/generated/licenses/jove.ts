@@ -4,7 +4,7 @@ export const jove: License = {
   "reference": "https://spdx.org/licenses/jove.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/jove.json",
-  "referenceNumber": 588,
+  "referenceNumber": 530,
   "name": "Jove License",
   "licenseId": "jove",
   "seeAlso": [

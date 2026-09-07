@@ -1,6 +1,6 @@
 {
   "name": "zod-spdx",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Zod schemas and TypeScript types for SPDX license identifiers",
   "type": "module",
   "main": "dist/index.js",

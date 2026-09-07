@@ -4,7 +4,7 @@ export const freebsd_doc: License = {
   "reference": "https://spdx.org/licenses/FreeBSD-DOC.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/FreeBSD-DOC.json",
-  "referenceNumber": 577,
+  "referenceNumber": 31,
   "name": "FreeBSD Documentation License",
   "licenseId": "FreeBSD-DOC",
   "seeAlso": [

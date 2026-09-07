@@ -4,7 +4,7 @@ export const xzoom: License = {
   "reference": "https://spdx.org/licenses/xzoom.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/xzoom.json",
-  "referenceNumber": 62,
+  "referenceNumber": 113,
   "name": "xzoom License",
   "licenseId": "xzoom",
   "seeAlso": [

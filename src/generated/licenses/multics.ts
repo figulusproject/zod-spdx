@@ -4,7 +4,7 @@ export const multics: License = {
   "reference": "https://spdx.org/licenses/Multics.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/Multics.json",
-  "referenceNumber": 660,
+  "referenceNumber": 11,
   "name": "Multics License",
   "licenseId": "Multics",
   "seeAlso": [

@@ -4,7 +4,7 @@ export const info_zip: License = {
   "reference": "https://spdx.org/licenses/Info-ZIP.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/Info-ZIP.json",
-  "referenceNumber": 83,
+  "referenceNumber": 321,
   "name": "Info-ZIP License",
   "licenseId": "Info-ZIP",
   "seeAlso": [

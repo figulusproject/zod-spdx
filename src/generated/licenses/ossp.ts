@@ -4,7 +4,7 @@ export const ossp: License = {
   "reference": "https://spdx.org/licenses/OSSP.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/OSSP.json",
-  "referenceNumber": 703,
+  "referenceNumber": 310,
   "name": "OSSP License",
   "licenseId": "OSSP",
   "seeAlso": [

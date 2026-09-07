@@ -4,7 +4,7 @@ export const catharon: License = {
   "reference": "https://spdx.org/licenses/Catharon.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/Catharon.json",
-  "referenceNumber": 49,
+  "referenceNumber": 264,
   "name": "Catharon License",
   "licenseId": "Catharon",
   "seeAlso": [

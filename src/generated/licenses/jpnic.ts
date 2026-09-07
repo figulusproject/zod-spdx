@@ -4,7 +4,7 @@ export const jpnic: License = {
   "reference": "https://spdx.org/licenses/JPNIC.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/JPNIC.json",
-  "referenceNumber": 542,
+  "referenceNumber": 397,
   "name": "Japan Network Information Center License",
   "licenseId": "JPNIC",
   "seeAlso": [

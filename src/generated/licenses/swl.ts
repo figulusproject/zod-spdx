@@ -4,7 +4,7 @@ export const swl: License = {
   "reference": "https://spdx.org/licenses/SWL.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/SWL.json",
-  "referenceNumber": 294,
+  "referenceNumber": 404,
   "name": "Scheme Widget Library (SWL) Software License Agreement",
   "licenseId": "SWL",
   "seeAlso": [
