@@ -4,7 +4,7 @@ export const imagemagick: License = {
   "reference": "https://spdx.org/licenses/ImageMagick.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/ImageMagick.json",
-  "referenceNumber": 112,
+  "referenceNumber": 110,
   "name": "ImageMagick License",
   "licenseId": "ImageMagick",
   "seeAlso": [

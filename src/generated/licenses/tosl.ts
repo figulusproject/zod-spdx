@@ -4,7 +4,7 @@ export const tosl: License = {
   "reference": "https://spdx.org/licenses/TOSL.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/TOSL.json",
-  "referenceNumber": 417,
+  "referenceNumber": 426,
   "name": "Trusster Open Source License",
   "licenseId": "TOSL",
   "seeAlso": [

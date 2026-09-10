@@ -4,7 +4,7 @@ export const tpdl: License = {
   "reference": "https://spdx.org/licenses/TPDL.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/TPDL.json",
-  "referenceNumber": 232,
+  "referenceNumber": 227,
   "name": "Time::ParseDate License",
   "licenseId": "TPDL",
   "seeAlso": [

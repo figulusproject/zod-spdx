@@ -4,7 +4,7 @@ export const check_cvs: License = {
   "reference": "https://spdx.org/licenses/check-cvs.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/check-cvs.json",
-  "referenceNumber": 47,
+  "referenceNumber": 50,
   "name": "check-cvs License",
   "licenseId": "check-cvs",
   "seeAlso": [

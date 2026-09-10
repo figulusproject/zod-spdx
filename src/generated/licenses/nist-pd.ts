@@ -4,7 +4,7 @@ export const nist_pd: License = {
   "reference": "https://spdx.org/licenses/NIST-PD.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/NIST-PD.json",
-  "referenceNumber": 680,
+  "referenceNumber": 679,
   "name": "NIST Public Domain Notice",
   "licenseId": "NIST-PD",
   "seeAlso": [

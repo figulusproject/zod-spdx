@@ -4,7 +4,7 @@ export const haskellreport: License = {
   "reference": "https://spdx.org/licenses/HaskellReport.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/HaskellReport.json",
-  "referenceNumber": 467,
+  "referenceNumber": 468,
   "name": "Haskell Language Report License",
   "licenseId": "HaskellReport",
   "seeAlso": [

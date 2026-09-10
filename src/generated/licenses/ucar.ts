@@ -4,7 +4,7 @@ export const ucar: License = {
   "reference": "https://spdx.org/licenses/UCAR.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/UCAR.json",
-  "referenceNumber": 51,
+  "referenceNumber": 56,
   "name": "UCAR License",
   "licenseId": "UCAR",
   "seeAlso": [

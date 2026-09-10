@@ -4,7 +4,7 @@ export const saxpath: License = {
   "reference": "https://spdx.org/licenses/Saxpath.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/Saxpath.json",
-  "referenceNumber": 568,
+  "referenceNumber": 574,
   "name": "Saxpath License",
   "licenseId": "Saxpath",
   "seeAlso": [

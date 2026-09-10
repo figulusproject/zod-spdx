@@ -4,7 +4,7 @@ export const mpich2: License = {
   "reference": "https://spdx.org/licenses/mpich2.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/mpich2.json",
-  "referenceNumber": 178,
+  "referenceNumber": 180,
   "name": "mpich2 License",
   "licenseId": "mpich2",
   "seeAlso": [

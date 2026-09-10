@@ -4,7 +4,7 @@ export const sgp4: License = {
   "reference": "https://spdx.org/licenses/SGP4.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/SGP4.json",
-  "referenceNumber": 488,
+  "referenceNumber": 500,
   "name": "SGP4 Permission Notice",
   "licenseId": "SGP4",
   "seeAlso": [

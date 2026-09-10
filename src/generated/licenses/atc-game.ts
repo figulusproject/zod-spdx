@@ -4,7 +4,7 @@ export const atc_game: License = {
   "reference": "https://spdx.org/licenses/atc-game.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/atc-game.json",
-  "referenceNumber": 388,
+  "referenceNumber": 385,
   "name": "atc Game License",
   "licenseId": "atc-game",
   "seeAlso": [

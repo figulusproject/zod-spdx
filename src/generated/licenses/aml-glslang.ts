@@ -4,7 +4,7 @@ export const aml_glslang: License = {
   "reference": "https://spdx.org/licenses/AML-glslang.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/AML-glslang.json",
-  "referenceNumber": 498,
+  "referenceNumber": 495,
   "name": "AML glslang variant License",
   "licenseId": "AML-glslang",
   "seeAlso": [

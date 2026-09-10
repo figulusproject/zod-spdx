@@ -4,7 +4,7 @@ export const fdk_aac: License = {
   "reference": "https://spdx.org/licenses/FDK-AAC.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/FDK-AAC.json",
-  "referenceNumber": 83,
+  "referenceNumber": 93,
   "name": "Fraunhofer FDK AAC Codec Library",
   "licenseId": "FDK-AAC",
   "seeAlso": [

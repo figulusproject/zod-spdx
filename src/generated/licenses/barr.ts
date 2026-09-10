@@ -4,7 +4,7 @@ export const barr: License = {
   "reference": "https://spdx.org/licenses/Barr.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/Barr.json",
-  "referenceNumber": 673,
+  "referenceNumber": 663,
   "name": "Barr License",
   "licenseId": "Barr",
   "seeAlso": [

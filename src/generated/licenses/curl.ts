@@ -4,7 +4,7 @@ export const curl: License = {
   "reference": "https://spdx.org/licenses/curl.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/curl.json",
-  "referenceNumber": 641,
+  "referenceNumber": 642,
   "name": "curl License",
   "licenseId": "curl",
   "seeAlso": [

@@ -4,7 +4,7 @@ export const oar: License = {
   "reference": "https://spdx.org/licenses/OAR.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/OAR.json",
-  "referenceNumber": 664,
+  "referenceNumber": 662,
   "name": "OAR License",
   "licenseId": "OAR",
   "seeAlso": [

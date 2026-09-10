@@ -4,7 +4,7 @@ export const snia: License = {
   "reference": "https://spdx.org/licenses/SNIA.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/SNIA.json",
-  "referenceNumber": 439,
+  "referenceNumber": 432,
   "name": "SNIA Public License 1.1",
   "licenseId": "SNIA",
   "seeAlso": [

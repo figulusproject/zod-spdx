@@ -4,7 +4,7 @@ export const unlicense_libwhirlpool: License = {
   "reference": "https://spdx.org/licenses/Unlicense-libwhirlpool.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/Unlicense-libwhirlpool.json",
-  "referenceNumber": 637,
+  "referenceNumber": 634,
   "name": "Unlicense - libwhirlpool variant",
   "licenseId": "Unlicense-libwhirlpool",
   "seeAlso": [

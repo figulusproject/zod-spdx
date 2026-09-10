@@ -4,7 +4,7 @@ export const kazlib: License = {
   "reference": "https://spdx.org/licenses/Kazlib.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/Kazlib.json",
-  "referenceNumber": 432,
+  "referenceNumber": 400,
   "name": "Kazlib License",
   "licenseId": "Kazlib",
   "seeAlso": [

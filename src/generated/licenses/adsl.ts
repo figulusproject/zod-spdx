@@ -4,7 +4,7 @@ export const adsl: License = {
   "reference": "https://spdx.org/licenses/ADSL.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/ADSL.json",
-  "referenceNumber": 445,
+  "referenceNumber": 451,
   "name": "Amazon Digital Services License",
   "licenseId": "ADSL",
   "seeAlso": [

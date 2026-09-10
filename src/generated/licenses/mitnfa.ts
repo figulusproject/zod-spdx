@@ -4,7 +4,7 @@ export const mitnfa: License = {
   "reference": "https://spdx.org/licenses/MITNFA.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/MITNFA.json",
-  "referenceNumber": 531,
+  "referenceNumber": 534,
   "name": "MIT +no-false-attribs license",
   "licenseId": "MITNFA",
   "seeAlso": [

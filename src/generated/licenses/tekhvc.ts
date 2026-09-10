@@ -4,7 +4,7 @@ export const tekhvc: License = {
   "reference": "https://spdx.org/licenses/TekHVC.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/TekHVC.json",
-  "referenceNumber": 348,
+  "referenceNumber": 338,
   "name": "TekHVC License",
   "licenseId": "TekHVC",
   "seeAlso": [

@@ -4,7 +4,7 @@ export const osl_3_0: License = {
   "reference": "https://spdx.org/licenses/OSL-3.0.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/OSL-3.0.json",
-  "referenceNumber": 69,
+  "referenceNumber": 70,
   "name": "Open Software License 3.0",
   "licenseId": "OSL-3.0",
   "seeAlso": [

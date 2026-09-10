@@ -4,7 +4,7 @@ export const clips: License = {
   "reference": "https://spdx.org/licenses/Clips.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/Clips.json",
-  "referenceNumber": 400,
+  "referenceNumber": 404,
   "name": "Clips License",
   "licenseId": "Clips",
   "seeAlso": [

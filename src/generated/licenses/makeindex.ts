@@ -4,7 +4,7 @@ export const makeindex: License = {
   "reference": "https://spdx.org/licenses/MakeIndex.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/MakeIndex.json",
-  "referenceNumber": 428,
+  "referenceNumber": 433,
   "name": "MakeIndex License",
   "licenseId": "MakeIndex",
   "seeAlso": [

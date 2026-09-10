@@ -4,7 +4,7 @@ export const unlicense_libtelnet: License = {
   "reference": "https://spdx.org/licenses/Unlicense-libtelnet.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/Unlicense-libtelnet.json",
-  "referenceNumber": 186,
+  "referenceNumber": 187,
   "name": "Unlicense - libtelnet variant",
   "licenseId": "Unlicense-libtelnet",
   "seeAlso": [

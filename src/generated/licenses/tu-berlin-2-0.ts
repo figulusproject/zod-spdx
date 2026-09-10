@@ -4,7 +4,7 @@ export const tu_berlin_2_0: License = {
   "reference": "https://spdx.org/licenses/TU-Berlin-2.0.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/TU-Berlin-2.0.json",
-  "referenceNumber": 377,
+  "referenceNumber": 381,
   "name": "Technische Universitaet Berlin License 2.0",
   "licenseId": "TU-Berlin-2.0",
   "seeAlso": [

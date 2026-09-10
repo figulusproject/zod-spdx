@@ -4,7 +4,7 @@ export const python_ldap: License = {
   "reference": "https://spdx.org/licenses/python-ldap.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/python-ldap.json",
-  "referenceNumber": 273,
+  "referenceNumber": 269,
   "name": "Python ldap License",
   "licenseId": "python-ldap",
   "seeAlso": [

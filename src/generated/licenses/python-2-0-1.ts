@@ -10,7 +10,8 @@ export const python_2_0_1: License = {
   "seeAlso": [
     "https://www.python.org/download/releases/2.0.1/license/",
     "https://docs.python.org/3/license.html",
-    "https://github.com/python/cpython/blob/main/LICENSE"
+    "https://github.com/python/cpython/blob/main/LICENSE",
+    "https://opensource.org/license/Python-2.0.1"
   ],
-  "isOsiApproved": false
+  "isOsiApproved": true
 };

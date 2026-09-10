@@ -4,7 +4,7 @@ export const eupl_1_1: License = {
   "reference": "https://spdx.org/licenses/EUPL-1.1.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/EUPL-1.1.json",
-  "referenceNumber": 660,
+  "referenceNumber": 658,
   "name": "European Union Public License 1.1",
   "licenseId": "EUPL-1.1",
   "seeAlso": [

@@ -4,7 +4,7 @@ export const mit_enna: License = {
   "reference": "https://spdx.org/licenses/MIT-enna.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/MIT-enna.json",
-  "referenceNumber": 713,
+  "referenceNumber": 714,
   "name": "enna License",
   "licenseId": "MIT-enna",
   "seeAlso": [

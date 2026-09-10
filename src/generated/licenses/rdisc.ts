@@ -4,7 +4,7 @@ export const rdisc: License = {
   "reference": "https://spdx.org/licenses/Rdisc.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/Rdisc.json",
-  "referenceNumber": 384,
+  "referenceNumber": 377,
   "name": "Rdisc License",
   "licenseId": "Rdisc",
   "seeAlso": [

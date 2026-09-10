@@ -4,7 +4,7 @@ export const magaz: License = {
   "reference": "https://spdx.org/licenses/magaz.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/magaz.json",
-  "referenceNumber": 131,
+  "referenceNumber": 138,
   "name": "magaz License",
   "licenseId": "magaz",
   "seeAlso": [

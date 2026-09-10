@@ -4,7 +4,7 @@ export const kastrup: License = {
   "reference": "https://spdx.org/licenses/Kastrup.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/Kastrup.json",
-  "referenceNumber": 476,
+  "referenceNumber": 473,
   "name": "Kastrup License",
   "licenseId": "Kastrup",
   "seeAlso": [

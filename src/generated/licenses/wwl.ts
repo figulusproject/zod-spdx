@@ -4,7 +4,7 @@ export const wwl: License = {
   "reference": "https://spdx.org/licenses/wwl.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/wwl.json",
-  "referenceNumber": 248,
+  "referenceNumber": 252,
   "name": "WWL License",
   "licenseId": "wwl",
   "seeAlso": [

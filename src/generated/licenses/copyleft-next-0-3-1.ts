@@ -4,7 +4,7 @@ export const copyleft_next_0_3_1: License = {
   "reference": "https://spdx.org/licenses/copyleft-next-0.3.1.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/copyleft-next-0.3.1.json",
-  "referenceNumber": 684,
+  "referenceNumber": 692,
   "name": "copyleft-next 0.3.1",
   "licenseId": "copyleft-next-0.3.1",
   "seeAlso": [

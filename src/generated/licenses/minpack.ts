@@ -4,7 +4,7 @@ export const minpack: License = {
   "reference": "https://spdx.org/licenses/Minpack.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/Minpack.json",
-  "referenceNumber": 167,
+  "referenceNumber": 173,
   "name": "Minpack License",
   "licenseId": "Minpack",
   "seeAlso": [

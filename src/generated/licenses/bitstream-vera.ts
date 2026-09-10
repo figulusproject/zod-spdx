@@ -4,7 +4,7 @@ export const bitstream_vera: License = {
   "reference": "https://spdx.org/licenses/Bitstream-Vera.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/Bitstream-Vera.json",
-  "referenceNumber": 623,
+  "referenceNumber": 625,
   "name": "Bitstream Vera Font License",
   "licenseId": "Bitstream-Vera",
   "seeAlso": [

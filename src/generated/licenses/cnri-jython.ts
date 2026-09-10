@@ -4,7 +4,7 @@ export const cnri_jython: License = {
   "reference": "https://spdx.org/licenses/CNRI-Jython.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/CNRI-Jython.json",
-  "referenceNumber": 73,
+  "referenceNumber": 77,
   "name": "CNRI Jython License",
   "licenseId": "CNRI-Jython",
   "seeAlso": [

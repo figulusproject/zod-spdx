@@ -4,7 +4,7 @@ export const fsfap: License = {
   "reference": "https://spdx.org/licenses/FSFAP.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/FSFAP.json",
-  "referenceNumber": 237,
+  "referenceNumber": 254,
   "name": "FSF All Permissive License",
   "licenseId": "FSFAP",
   "seeAlso": [
