@@ -108,6 +108,7 @@ export const licenseIds = [
   "BSD-Inferno-Nettverk",
   "BSD-Mark-Modifications",
   "BSD-Protection",
+  "BSD-Source-alt-GPL",
   "BSD-Source-beginning-file",
   "BSD-Source-Code",
   "BSD-Source-Code-no-disclaimer",

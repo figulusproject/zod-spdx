@@ -4,7 +4,7 @@ export const bugroff: License = {
   "reference": "https://spdx.org/licenses/Bugroff.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/Bugroff.json",
-  "referenceNumber": 478,
+  "referenceNumber": 482,
   "name": "Bugroff License",
   "licenseId": "Bugroff",
   "seeAlso": [

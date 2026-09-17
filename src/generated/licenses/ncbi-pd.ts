@@ -4,7 +4,7 @@ export const ncbi_pd: License = {
   "reference": "https://spdx.org/licenses/NCBI-PD.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/NCBI-PD.json",
-  "referenceNumber": 611,
+  "referenceNumber": 606,
   "name": "NCBI Public Domain Notice",
   "licenseId": "NCBI-PD",
   "seeAlso": [

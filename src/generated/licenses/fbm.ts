@@ -4,7 +4,7 @@ export const fbm: License = {
   "reference": "https://spdx.org/licenses/FBM.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/FBM.json",
-  "referenceNumber": 632,
+  "referenceNumber": 629,
   "name": "Fuzzy Bitmap License",
   "licenseId": "FBM",
   "seeAlso": [

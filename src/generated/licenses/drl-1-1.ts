@@ -4,7 +4,7 @@ export const drl_1_1: License = {
   "reference": "https://spdx.org/licenses/DRL-1.1.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/DRL-1.1.json",
-  "referenceNumber": 62,
+  "referenceNumber": 61,
   "name": "Detection Rule License 1.1",
   "licenseId": "DRL-1.1",
   "seeAlso": [

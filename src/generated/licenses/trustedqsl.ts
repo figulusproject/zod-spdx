@@ -4,7 +4,7 @@ export const trustedqsl: License = {
   "reference": "https://spdx.org/licenses/TrustedQSL.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/TrustedQSL.json",
-  "referenceNumber": 664,
+  "referenceNumber": 665,
   "name": "TrustedQSL License",
   "licenseId": "TrustedQSL",
   "seeAlso": [

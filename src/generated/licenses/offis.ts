@@ -4,7 +4,7 @@ export const offis: License = {
   "reference": "https://spdx.org/licenses/OFFIS.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/OFFIS.json",
-  "referenceNumber": 376,
+  "referenceNumber": 377,
   "name": "OFFIS License",
   "licenseId": "OFFIS",
   "seeAlso": [

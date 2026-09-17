@@ -4,7 +4,7 @@ export const eurosym: License = {
   "reference": "https://spdx.org/licenses/Eurosym.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/Eurosym.json",
-  "referenceNumber": 407,
+  "referenceNumber": 408,
   "name": "Eurosym License",
   "licenseId": "Eurosym",
   "seeAlso": [

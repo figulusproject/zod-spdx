@@ -4,7 +4,7 @@ export const o_uda_1_0: License = {
   "reference": "https://spdx.org/licenses/O-UDA-1.0.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/O-UDA-1.0.json",
-  "referenceNumber": 89,
+  "referenceNumber": 91,
   "name": "Open Use of Data Agreement v1.0",
   "licenseId": "O-UDA-1.0",
   "seeAlso": [

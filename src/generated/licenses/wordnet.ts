@@ -4,7 +4,7 @@ export const wordnet: License = {
   "reference": "https://spdx.org/licenses/WordNet.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/WordNet.json",
-  "referenceNumber": 423,
+  "referenceNumber": 424,
   "name": "WordNet License",
   "licenseId": "WordNet",
   "seeAlso": [

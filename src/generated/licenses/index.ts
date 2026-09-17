@@ -107,6 +107,7 @@ export { bsd_attribution_hpnd_disclaimer } from "./bsd-attribution-hpnd-disclaim
 export { bsd_inferno_nettverk } from "./bsd-inferno-nettverk.js";
 export { bsd_mark_modifications } from "./bsd-mark-modifications.js";
 export { bsd_protection } from "./bsd-protection.js";
+export { bsd_source_alt_gpl } from "./bsd-source-alt-gpl.js";
 export { bsd_source_beginning_file } from "./bsd-source-beginning-file.js";
 export { bsd_source_code } from "./bsd-source-code.js";
 export { bsd_source_code_no_disclaimer } from "./bsd-source-code-no-disclaimer.js";

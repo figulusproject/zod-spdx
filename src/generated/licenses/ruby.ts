@@ -4,7 +4,7 @@ export const ruby: License = {
   "reference": "https://spdx.org/licenses/Ruby.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/Ruby.json",
-  "referenceNumber": 449,
+  "referenceNumber": 450,
   "name": "Ruby License",
   "licenseId": "Ruby",
   "seeAlso": [

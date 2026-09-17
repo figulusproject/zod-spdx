@@ -4,7 +4,7 @@ export const busl_1_1: License = {
   "reference": "https://spdx.org/licenses/BUSL-1.1.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/BUSL-1.1.json",
-  "referenceNumber": 310,
+  "referenceNumber": 306,
   "name": "Business Source License 1.1",
   "licenseId": "BUSL-1.1",
   "seeAlso": [

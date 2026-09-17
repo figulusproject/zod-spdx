@@ -4,7 +4,7 @@ export const noweb: License = {
   "reference": "https://spdx.org/licenses/Noweb.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/Noweb.json",
-  "referenceNumber": 441,
+  "referenceNumber": 443,
   "name": "Noweb License",
   "licenseId": "Noweb",
   "seeAlso": [

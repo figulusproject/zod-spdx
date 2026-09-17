@@ -4,7 +4,7 @@ export const unrar: License = {
   "reference": "https://spdx.org/licenses/UnRAR.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/UnRAR.json",
-  "referenceNumber": 340,
+  "referenceNumber": 347,
   "name": "UnRAR License",
   "licenseId": "UnRAR",
   "seeAlso": [

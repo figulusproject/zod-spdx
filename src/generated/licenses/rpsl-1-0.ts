@@ -4,7 +4,7 @@ export const rpsl_1_0: License = {
   "reference": "https://spdx.org/licenses/RPSL-1.0.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/RPSL-1.0.json",
-  "referenceNumber": 538,
+  "referenceNumber": 539,
   "name": "RealNetworks Public Source License v1.0",
   "licenseId": "RPSL-1.0",
   "seeAlso": [

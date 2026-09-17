@@ -4,7 +4,7 @@ export const bsd_2_clause_pos_unchanged: License = {
   "reference": "https://spdx.org/licenses/BSD-2-Clause-pos-unchanged.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/BSD-2-Clause-pos-unchanged.json",
-  "referenceNumber": 61,
+  "referenceNumber": 60,
   "name": "BSD 2-Clause - position unchanged variant",
   "licenseId": "BSD-2-Clause-pos-unchanged",
   "seeAlso": [

@@ -4,7 +4,7 @@ export const sun_ppp_2000: License = {
   "reference": "https://spdx.org/licenses/Sun-PPP-2000.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/Sun-PPP-2000.json",
-  "referenceNumber": 59,
+  "referenceNumber": 57,
   "name": "Sun PPP License (2000)",
   "licenseId": "Sun-PPP-2000",
   "seeAlso": [

@@ -4,7 +4,7 @@ export const gutmann: License = {
   "reference": "https://spdx.org/licenses/Gutmann.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/Gutmann.json",
-  "referenceNumber": 336,
+  "referenceNumber": 333,
   "name": "Gutmann License",
   "licenseId": "Gutmann",
   "seeAlso": [

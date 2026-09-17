@@ -4,7 +4,7 @@ export const gtkbook: License = {
   "reference": "https://spdx.org/licenses/gtkbook.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/gtkbook.json",
-  "referenceNumber": 341,
+  "referenceNumber": 336,
   "name": "gtkbook License",
   "licenseId": "gtkbook",
   "seeAlso": [

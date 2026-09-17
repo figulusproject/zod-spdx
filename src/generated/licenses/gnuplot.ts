@@ -4,7 +4,7 @@ export const gnuplot: License = {
   "reference": "https://spdx.org/licenses/gnuplot.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/gnuplot.json",
-  "referenceNumber": 191,
+  "referenceNumber": 194,
   "name": "gnuplot License",
   "licenseId": "gnuplot",
   "seeAlso": [

@@ -4,7 +4,7 @@ export const fair: License = {
   "reference": "https://spdx.org/licenses/Fair.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/Fair.json",
-  "referenceNumber": 95,
+  "referenceNumber": 96,
   "name": "Fair License",
   "licenseId": "Fair",
   "seeAlso": [

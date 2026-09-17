@@ -4,7 +4,7 @@ export const fwlw: License = {
   "reference": "https://spdx.org/licenses/fwlw.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/fwlw.json",
-  "referenceNumber": 313,
+  "referenceNumber": 318,
   "name": "fwlw License",
   "licenseId": "fwlw",
   "seeAlso": [

@@ -4,7 +4,7 @@ export const symlinks: License = {
   "reference": "https://spdx.org/licenses/Symlinks.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/Symlinks.json",
-  "referenceNumber": 630,
+  "referenceNumber": 637,
   "name": "Symlinks License",
   "licenseId": "Symlinks",
   "seeAlso": [

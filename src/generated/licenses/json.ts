@@ -4,7 +4,7 @@ export const json: License = {
   "reference": "https://spdx.org/licenses/JSON.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/JSON.json",
-  "referenceNumber": 421,
+  "referenceNumber": 423,
   "name": "JSON License",
   "licenseId": "JSON",
   "seeAlso": [

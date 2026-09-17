@@ -4,7 +4,7 @@ export const htmltidy: License = {
   "reference": "https://spdx.org/licenses/HTMLTIDY.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/HTMLTIDY.json",
-  "referenceNumber": 613,
+  "referenceNumber": 612,
   "name": "HTML Tidy License",
   "licenseId": "HTMLTIDY",
   "seeAlso": [

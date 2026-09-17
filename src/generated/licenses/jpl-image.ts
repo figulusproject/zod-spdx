@@ -4,7 +4,7 @@ export const jpl_image: License = {
   "reference": "https://spdx.org/licenses/JPL-image.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/JPL-image.json",
-  "referenceNumber": 54,
+  "referenceNumber": 51,
   "name": "JPL Image Use Policy",
   "licenseId": "JPL-image",
   "seeAlso": [

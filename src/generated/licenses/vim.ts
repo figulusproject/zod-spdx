@@ -4,7 +4,7 @@ export const vim: License = {
   "reference": "https://spdx.org/licenses/Vim.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/Vim.json",
-  "referenceNumber": 395,
+  "referenceNumber": 396,
   "name": "Vim License",
   "licenseId": "Vim",
   "seeAlso": [

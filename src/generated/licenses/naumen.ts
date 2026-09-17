@@ -4,7 +4,7 @@ export const naumen: License = {
   "reference": "https://spdx.org/licenses/Naumen.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/Naumen.json",
-  "referenceNumber": 530,
+  "referenceNumber": 532,
   "name": "Naumen Public License",
   "licenseId": "Naumen",
   "seeAlso": [

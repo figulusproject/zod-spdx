@@ -4,7 +4,7 @@ export const ipa: License = {
   "reference": "https://spdx.org/licenses/IPA.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/IPA.json",
-  "referenceNumber": 492,
+  "referenceNumber": 493,
   "name": "IPA Font License",
   "licenseId": "IPA",
   "seeAlso": [

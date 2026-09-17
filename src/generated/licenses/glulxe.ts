@@ -4,7 +4,7 @@ export const glulxe: License = {
   "reference": "https://spdx.org/licenses/Glulxe.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/Glulxe.json",
-  "referenceNumber": 83,
+  "referenceNumber": 79,
   "name": "Glulxe License",
   "licenseId": "Glulxe",
   "seeAlso": [
