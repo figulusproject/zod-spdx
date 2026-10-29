@@ -4,7 +4,7 @@ export const sunpro: License = {
   "reference": "https://spdx.org/licenses/SunPro.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/SunPro.json",
-  "referenceNumber": 548,
+  "referenceNumber": 387,
   "name": "SunPro License",
   "licenseId": "SunPro",
   "seeAlso": [

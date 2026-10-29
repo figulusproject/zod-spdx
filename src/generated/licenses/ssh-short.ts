@@ -4,7 +4,7 @@ export const ssh_short: License = {
   "reference": "https://spdx.org/licenses/SSH-short.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/SSH-short.json",
-  "referenceNumber": 709,
+  "referenceNumber": 699,
   "name": "SSH short notice",
   "licenseId": "SSH-short",
   "seeAlso": [

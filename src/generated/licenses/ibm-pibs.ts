@@ -4,7 +4,7 @@ export const ibm_pibs: License = {
   "reference": "https://spdx.org/licenses/IBM-pibs.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/IBM-pibs.json",
-  "referenceNumber": 175,
+  "referenceNumber": 286,
   "name": "IBM PowerPC Initialization and Boot Software",
   "licenseId": "IBM-pibs",
   "seeAlso": [

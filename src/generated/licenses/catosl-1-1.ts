@@ -4,7 +4,7 @@ export const catosl_1_1: License = {
   "reference": "https://spdx.org/licenses/CATOSL-1.1.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/CATOSL-1.1.json",
-  "referenceNumber": 287,
+  "referenceNumber": 343,
   "name": "Computer Associates Trusted Open Source License 1.1",
   "licenseId": "CATOSL-1.1",
   "seeAlso": [

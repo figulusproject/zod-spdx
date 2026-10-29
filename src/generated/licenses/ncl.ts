@@ -4,7 +4,7 @@ export const ncl: License = {
   "reference": "https://spdx.org/licenses/NCL.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/NCL.json",
-  "referenceNumber": 670,
+  "referenceNumber": 225,
   "name": "NCL Source Code License",
   "licenseId": "NCL",
   "seeAlso": [

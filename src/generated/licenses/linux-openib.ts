@@ -4,7 +4,7 @@ export const linux_openib: License = {
   "reference": "https://spdx.org/licenses/Linux-OpenIB.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/Linux-OpenIB.json",
-  "referenceNumber": 300,
+  "referenceNumber": 333,
   "name": "Linux Kernel Variant of OpenIB.org license",
   "licenseId": "Linux-OpenIB",
   "seeAlso": [

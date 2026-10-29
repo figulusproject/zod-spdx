@@ -4,7 +4,7 @@ export const condor_1_1: License = {
   "reference": "https://spdx.org/licenses/Condor-1.1.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/Condor-1.1.json",
-  "referenceNumber": 699,
+  "referenceNumber": 147,
   "name": "Condor Public License v1.1",
   "licenseId": "Condor-1.1",
   "seeAlso": [

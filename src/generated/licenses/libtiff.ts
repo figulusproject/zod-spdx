@@ -4,7 +4,7 @@ export const libtiff: License = {
   "reference": "https://spdx.org/licenses/libtiff.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/libtiff.json",
-  "referenceNumber": 540,
+  "referenceNumber": 471,
   "name": "libtiff License",
   "licenseId": "libtiff",
   "seeAlso": [

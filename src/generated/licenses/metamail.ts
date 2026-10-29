@@ -4,7 +4,7 @@ export const metamail: License = {
   "reference": "https://spdx.org/licenses/metamail.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/metamail.json",
-  "referenceNumber": 634,
+  "referenceNumber": 624,
   "name": "metamail License",
   "licenseId": "metamail",
   "seeAlso": [

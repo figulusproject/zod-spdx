@@ -4,7 +4,7 @@ export const aal: License = {
   "reference": "https://spdx.org/licenses/AAL.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/AAL.json",
-  "referenceNumber": 149,
+  "referenceNumber": 223,
   "name": "Attribution Assurance License",
   "licenseId": "AAL",
   "seeAlso": [

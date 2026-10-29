@@ -4,7 +4,7 @@ export const thirdeye: License = {
   "reference": "https://spdx.org/licenses/ThirdEye.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/ThirdEye.json",
-  "referenceNumber": 270,
+  "referenceNumber": 540,
   "name": "ThirdEye License",
   "licenseId": "ThirdEye",
   "seeAlso": [

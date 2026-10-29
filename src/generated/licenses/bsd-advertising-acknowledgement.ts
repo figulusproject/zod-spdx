@@ -4,7 +4,7 @@ export const bsd_advertising_acknowledgement: License = {
   "reference": "https://spdx.org/licenses/BSD-Advertising-Acknowledgement.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/BSD-Advertising-Acknowledgement.json",
-  "referenceNumber": 425,
+  "referenceNumber": 297,
   "name": "BSD Advertising Acknowledgement License",
   "licenseId": "BSD-Advertising-Acknowledgement",
   "seeAlso": [

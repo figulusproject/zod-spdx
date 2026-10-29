@@ -4,7 +4,7 @@ export const jam: License = {
   "reference": "https://spdx.org/licenses/Jam.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/Jam.json",
-  "referenceNumber": 368,
+  "referenceNumber": 19,
   "name": "Jam License",
   "licenseId": "Jam",
   "seeAlso": [

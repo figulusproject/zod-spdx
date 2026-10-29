@@ -4,7 +4,7 @@ export const xinetd: License = {
   "reference": "https://spdx.org/licenses/xinetd.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/xinetd.json",
-  "referenceNumber": 303,
+  "referenceNumber": 262,
   "name": "xinetd License",
   "licenseId": "xinetd",
   "seeAlso": [

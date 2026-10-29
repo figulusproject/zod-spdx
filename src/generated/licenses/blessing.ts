@@ -4,7 +4,7 @@ export const blessing: License = {
   "reference": "https://spdx.org/licenses/blessing.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/blessing.json",
-  "referenceNumber": 366,
+  "referenceNumber": 599,
   "name": "SQLite Blessing",
   "licenseId": "blessing",
   "seeAlso": [

@@ -4,7 +4,7 @@ export const efl_2_0: License = {
   "reference": "https://spdx.org/licenses/EFL-2.0.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/EFL-2.0.json",
-  "referenceNumber": 655,
+  "referenceNumber": 144,
   "name": "Eiffel Forum License v2.0",
   "licenseId": "EFL-2.0",
   "seeAlso": [

@@ -4,7 +4,7 @@ export const game_programming_gems: License = {
   "reference": "https://spdx.org/licenses/Game-Programming-Gems.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/Game-Programming-Gems.json",
-  "referenceNumber": 18,
+  "referenceNumber": 607,
   "name": "Game Programming Gems License",
   "licenseId": "Game-Programming-Gems",
   "seeAlso": [

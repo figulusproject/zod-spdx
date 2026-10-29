@@ -4,7 +4,7 @@ export const hpnd_smc: License = {
   "reference": "https://spdx.org/licenses/HPND-SMC.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/HPND-SMC.json",
-  "referenceNumber": 343,
+  "referenceNumber": 653,
   "name": "Historical Permission Notice and Disclaimer - SMC variant",
   "licenseId": "HPND-SMC",
   "seeAlso": [

@@ -4,7 +4,7 @@ export const isc: License = {
   "reference": "https://spdx.org/licenses/ISC.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/ISC.json",
-  "referenceNumber": 467,
+  "referenceNumber": 232,
   "name": "ISC License",
   "licenseId": "ISC",
   "seeAlso": [

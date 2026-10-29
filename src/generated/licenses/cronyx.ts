@@ -4,7 +4,7 @@ export const cronyx: License = {
   "reference": "https://spdx.org/licenses/Cronyx.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/Cronyx.json",
-  "referenceNumber": 689,
+  "referenceNumber": 488,
   "name": "Cronyx License",
   "licenseId": "Cronyx",
   "seeAlso": [

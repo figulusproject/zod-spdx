@@ -4,7 +4,7 @@ export const wsuipa: License = {
   "reference": "https://spdx.org/licenses/Wsuipa.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/Wsuipa.json",
-  "referenceNumber": 644,
+  "referenceNumber": 501,
   "name": "Wsuipa License",
   "licenseId": "Wsuipa",
   "seeAlso": [

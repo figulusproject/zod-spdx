@@ -4,7 +4,7 @@ export const snprintf: License = {
   "reference": "https://spdx.org/licenses/snprintf.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/snprintf.json",
-  "referenceNumber": 188,
+  "referenceNumber": 54,
   "name": "snprintf License",
   "licenseId": "snprintf",
   "seeAlso": [

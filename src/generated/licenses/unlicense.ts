@@ -4,7 +4,7 @@ export const unlicense: License = {
   "reference": "https://spdx.org/licenses/Unlicense.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/Unlicense.json",
-  "referenceNumber": 133,
+  "referenceNumber": 285,
   "name": "The Unlicense",
   "licenseId": "Unlicense",
   "seeAlso": [

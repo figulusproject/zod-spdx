@@ -4,7 +4,7 @@ export const icu: License = {
   "reference": "https://spdx.org/licenses/ICU.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/ICU.json",
-  "referenceNumber": 81,
+  "referenceNumber": 408,
   "name": "ICU License",
   "licenseId": "ICU",
   "seeAlso": [

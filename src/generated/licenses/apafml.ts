@@ -4,7 +4,7 @@ export const apafml: License = {
   "reference": "https://spdx.org/licenses/APAFML.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/APAFML.json",
-  "referenceNumber": 58,
+  "referenceNumber": 339,
   "name": "Adobe Postscript AFM License",
   "licenseId": "APAFML",
   "seeAlso": [

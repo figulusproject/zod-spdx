@@ -4,7 +4,7 @@ export const bsd_3_clause_acpica: License = {
   "reference": "https://spdx.org/licenses/BSD-3-Clause-acpica.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/BSD-3-Clause-acpica.json",
-  "referenceNumber": 588,
+  "referenceNumber": 314,
   "name": "BSD 3-Clause acpica variant",
   "licenseId": "BSD-3-Clause-acpica",
   "seeAlso": [

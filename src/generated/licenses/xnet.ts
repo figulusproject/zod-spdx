@@ -4,7 +4,7 @@ export const xnet: License = {
   "reference": "https://spdx.org/licenses/Xnet.html",
   "isDeprecatedLicenseId": false,
   "detailsUrl": "https://spdx.org/licenses/Xnet.json",
-  "referenceNumber": 536,
+  "referenceNumber": 443,
   "name": "X.Net License",
   "licenseId": "Xnet",
   "seeAlso": [
